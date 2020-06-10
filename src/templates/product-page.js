@@ -1,11 +1,11 @@
-import React from 'react'
-import PropTypes from 'prop-types'
-import { graphql } from 'gatsby'
-import Layout from '../components/Layout'
 import Features from '../components/Features'
-import Testimonials from '../components/Testimonials'
-import Pricing from '../components/Pricing'
+import Layout from '../components/Layout'
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
+import Pricing from '../components/Pricing'
+import PropTypes from 'prop-types'
+import React from 'react'
+import Testimonials from '../components/Testimonials'
+import { graphql } from 'gatsby'
 
 export const ProductPageTemplate = ({
   image,
@@ -30,9 +30,9 @@ export const ProductPageTemplate = ({
       <h2
         className="has-text-weight-bold is-size-1"
         style={{
-          boxShadow: '0.5rem 0 0 #f40, -0.5rem 0 0 #f40',
-          backgroundColor: '#f40',
-          color: 'white',
+          boxShadow: '0.5rem 0 0 #baba2b, -0.5rem 0 0 #baba2b',
+          backgroundColor: '#baba2b',
+          color: 'black',
           padding: '1rem',
         }}
       >

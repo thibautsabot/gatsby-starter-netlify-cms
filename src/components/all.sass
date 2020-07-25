@@ -9,13 +9,21 @@ $primary: $kaldi-red
 $primary-invert: $kaldi-red-invert
 $body-color: #333
 $black: #2b2523
-$candice-green: #3eba2b;
+$candice-green: #008000;
 
 .navbar
   background-color: $candice-green;
+  margin-bottom: 35px;
 
 .navbar .navbar-menu
   box-shadow:none !important
+  justify-content: center;
+
+.navbar-start
+  margin-right: 0;
+
+.footer .content ul
+  list-style: none;
 
 .content .taglist
   list-style: none
@@ -34,12 +42,12 @@ $candice-green: #3eba2b;
 
 // Helper Classes
 .full-width-image-container
-  width: 100vw
-  height: 400px
+  width: 90vw
+  height: 200px
   position: relative
   left: 50%
   right: 50%
-  margin: 2em -50vw
+  margin: 2em -45vw
   background-size: cover
   background-position: bottom
   display: flex
@@ -75,6 +83,12 @@ $candice-green: #3eba2b;
 .margin-top-0
   margin-top: 0 !important
 
+
+
+
+.navbar-item
+  font-weight: 500;
+  color: white;
 .navbar-item .icon
   color: $primary
 // Override for use of svg's from https://simpleicons.org/
@@ -85,7 +99,7 @@ $candice-green: #3eba2b;
 .navbar-brand .navbar-item.logo
   padding: 0 1rem
 footer.footer
-  padding: 3rem 0rem 0rem
+  padding: 0
   background-color: transparent
 
 //Menu overrides
@@ -101,9 +115,9 @@ $menu-label-color: $white-ter
 .menu-label
   font-size: 1em !important
   text-align: left
-.menu-list
-  list-style: none !important
-  text-align: left
+.menu-list a
+  color: white;
+
 .social
   padding: 2em
 .social a
@@ -117,8 +131,8 @@ $menu-label-color: $white-ter
     display: inline
 
 // blog roll
-.blog-list-item.is-featured
-  background-color: #d6400033;
+//.blog-list-item.is-featured
+ // background-color: #d6400033;
 .blog-list-item header
   display: flex;
   margin-bottom: 1em;
@@ -126,7 +140,9 @@ $menu-label-color: $white-ter
   flex-basis: 35%;
   margin: 0 1.5em 0 0;
 
-
+.article-link
+  color: #888823!important;
+  text-decoration: none!important;
 
 
 

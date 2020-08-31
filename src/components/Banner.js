@@ -1,4 +1,5 @@
-import React from 'react'
+import React from "react";
+import logos from "../img/banner_icon.png";
 
 class Banner extends React.Component {
   render() {
@@ -6,24 +7,25 @@ class Banner extends React.Component {
       <div
         className="full-width-image-container margin-top-0"
         style={{
-          backgroundImage: `url('/img/banner-cropped.png')`,
-          backgroundPositionY: '30%'
+          backgroundImage: `url('/img/banner.png')`,
+          backgroundPositionY: "30%",
         }}
       >
         <h1
-          className="has-text-weight-bold is-size-2"
+          className="has-text-weight-bold banner-text"
           style={{
-            boxShadow: '0.3rem 0 0 #008000, -0.3rem 0 0 #008000',
-            color: 'whitesmoke',
-            padding: '0 1rem',
-            marginBottom: '2.5em'
+            boxShadow: "0.3rem 0 0 #008000, -0.3rem 0 0 #008000",
+            color: "whitesmoke",
+            padding: "0 1rem",
+            marginBottom: "0",
           }}
         >
           Dernières news
-          </h1>
+        </h1>
+        <img className="icon-logos" src={logos} />
       </div>
-    )
+    );
   }
 }
 
-export default Banner
+export default Banner;

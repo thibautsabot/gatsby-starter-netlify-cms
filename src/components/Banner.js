@@ -1,4 +1,5 @@
 import React from "react";
+import banner from "../img/banner.jpg";
 import logos from "../img/banner_icon.png";
 
 class Banner extends React.Component {
@@ -7,7 +8,7 @@ class Banner extends React.Component {
       <div
         className="full-width-image-container margin-top-0"
         style={{
-          backgroundImage: `url('/img/banner.png')`,
+          backgroundImage: `url(${require("../img/banner.jpg")})`,
           backgroundPositionY: "30%",
         }}
       >

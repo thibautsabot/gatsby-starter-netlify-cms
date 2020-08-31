@@ -20,7 +20,7 @@ class Banner extends React.Component {
             marginBottom: "0",
           }}
         >
-          Dernières news
+          {this.props.title}
         </h1>
         <img className="icon-logos" src={logos} />
       </div>

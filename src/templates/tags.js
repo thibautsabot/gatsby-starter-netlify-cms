@@ -1,9 +1,14 @@
-import React from 'react'
-import { Helmet } from 'react-helmet'
-import { graphql } from 'gatsby'
-import Layout from '../components/Layout'
-import BlogRoll from '../components/BlogRoll'
 import Banner from '../components/Banner'
+import BlogRoll from '../components/BlogRoll'
+import { Helmet } from 'react-helmet'
+import Layout from '../components/Layout'
+import React from 'react'
+import { graphql } from 'gatsby'
+
+const TITLE = {
+  cuisine: "Recette",
+  zerodechet: "Zero Déchet"
+}
 
 class TagRoute extends React.Component {
   render() {
@@ -15,7 +20,7 @@ class TagRoute extends React.Component {
         <section >
           <Helmet title={`${tag} | ${title}`} />
           <div className="container content">
-            <Banner />
+            <Banner title={TITLE[tag] || "Blog"} />
             <BlogRoll data={this.props.data} />
           </div>
         </section>

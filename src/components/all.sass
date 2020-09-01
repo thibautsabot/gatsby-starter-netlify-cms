@@ -11,6 +11,18 @@ $body-color: #333
 $black: #2b2523
 $candice-green: #008000;
 
+html, body
+  height: 100%;
+
+body > div
+  height: 100%;
+
+body > div > div
+  height: 100%;
+
+.layout-children
+  flex: 1
+
 .navbar
   background-color: $candice-green;
   margin-bottom: 35px;
@@ -93,7 +105,10 @@ $candice-green: #008000;
 .margin-top-0
   margin-top: 0 !important
 
-
+.layout
+  height: 100%;
+  display: flex;
+  flex-direction: column;
 
 
 .navbar-item

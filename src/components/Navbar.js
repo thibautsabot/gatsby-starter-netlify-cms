@@ -1,6 +1,6 @@
 import { Link } from 'gatsby'
 import React from 'react'
-import logo from '../img/header-outline-large.png'
+import logo from '../img/header-outline.png'
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -41,7 +41,7 @@ const Navbar = class extends React.Component {
         <div className="navbar-container">
           <div className="navbar-brand">
             <Link to="/" className="navbar-item" title="Logo">
-              <img src={logo} alt="Logo" />
+              <img width="150px" height="50px" src={logo} alt="Logo" />
             </Link>
             {/* Hamburger menu */}
             <div

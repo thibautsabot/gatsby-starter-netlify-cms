@@ -1,5 +1,4 @@
 import React from "react";
-import banner from "../img/banner.jpg";
 import logos from "../img/banner_icon.png";
 
 class Banner extends React.Component {
@@ -23,7 +22,7 @@ class Banner extends React.Component {
         >
           {this.props.title}
         </h1>
-        <img className="icon-logos" src={logos} />
+        <img alt="logos banniere" className="icon-logos" src={logos} />
       </div>
     );
   }

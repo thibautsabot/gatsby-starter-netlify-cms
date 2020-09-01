@@ -18,9 +18,9 @@ module.exports = {
         background_color: '#FFFFFF',
         theme_color: '#008000',
         display: 'standalone',
-        icon: 'src/img/text-2.png',
+        icon: 'src/img/square-icon.png',
         icon_options: {
-          purpose: 'maskable',
+          purpose: 'any maskable',
         },
       },
     },

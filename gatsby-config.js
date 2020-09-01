@@ -9,6 +9,21 @@ module.exports = {
     'gatsby-plugin-robots-txt',
     'gatsby-plugin-sitemap',
     'gatsby-plugin-react-helmet',
+    {
+      resolve: 'gatsby-plugin-manifest',
+      options: {
+        name: 'Banane plantee',
+        short_name: 'Banane plantee',
+        start_url: '/',
+        background_color: '#FFFFFF',
+        theme_color: '#008000',
+        display: 'standalone',
+        icon: 'src/img/text-2.png',
+        icon_options: {
+          purpose: 'maskable',
+        },
+      },
+    },
     'gatsby-plugin-sass',
     {
       // keep as first gatsby-source-filesystem plugin for gatsby image support

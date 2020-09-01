@@ -23,10 +23,19 @@ body > div > div
 .layout-children
   flex: 1
 
+.footer-colums
+  display: flex;
+  justify-content: space-around;
+  align-items: baseline;
+  max-width: 100vw;
+  justify-content: space-between;
+  padding-bottom: 1rem;
+
 .navbar
   background-color: $candice-green;
   margin-bottom: 35px;
   justify-content: center
+  min-height: initial
 
 .navbar .navbar-menu
   box-shadow:none !important
@@ -146,8 +155,6 @@ $menu-label-color: $white-ter
 .menu-list a
   color: white;
 
-.social
-  padding: 2em
 .social a
     padding: .5em .5em .3em .5em
     border-radius: 1em

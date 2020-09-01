@@ -1,6 +1,5 @@
-import React from 'react'
 import { Link } from 'gatsby'
-
+import React from 'react'
 import instagram from '../img/social/instagram.svg'
 
 const Footer = class extends React.Component {
@@ -9,7 +8,7 @@ const Footer = class extends React.Component {
       <footer className="footer has-background-black has-text-white-ter">
         <div className="content has-text-centered has-background-black has-text-white-ter">
           <div className="container has-background-black has-text-white-ter">
-            <div style={{ maxWidth: '100vw', justifyContent: "space-between" }} className="columns">
+            <div style={{ maxWidth: '100vw', justifyContent: "space-between" }} className="footer-colums">
               <div className="column is-4">
                 <section>
                   <ul className="menu-list">

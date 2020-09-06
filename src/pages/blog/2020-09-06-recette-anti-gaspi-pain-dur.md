@@ -46,4 +46,4 @@ Si vraiment vous avez trop de pain et que vous adorez les animaux, vous pouvez a
 
 <br>
 
-Avec toutes c*es astuces*, il n’y a vraiment **plus aucune** **raison** de jeter du pain !
+Avec toutes *ces astuces*, il n’y a vraiment **plus aucune** **raison** de jeter du pain !

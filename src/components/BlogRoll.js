@@ -1,7 +1,7 @@
-import React from 'react'
-import PropTypes from 'prop-types'
 import { Link } from 'gatsby'
 import PreviewCompatibleImage from './PreviewCompatibleImage'
+import PropTypes from 'prop-types'
+import React from 'react'
 
 class BlogRoll extends React.Component {
   render() {
@@ -38,7 +38,7 @@ class BlogRoll extends React.Component {
                     </Link>
                     <span> &bull; </span>
                     <span className="subtitle is-size-5 is-block">
-                      {post.frontmatter.date}
+                      {new Date(post.frontmatter.date).toLocaleDateString("fr-FR", { year: 'numeric', month: 'long', day: 'numeric' })}
                     </span>
                   </p>
                 </header>

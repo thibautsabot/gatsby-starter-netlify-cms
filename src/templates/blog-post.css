@@ -2,4 +2,10 @@
   width: 70% !important;
   height: 70% !important;
   margin-left: 14% !important;
+  max-height: 650px !important;
+  max-width: 650px !important;
+}
+
+.gatsby-resp-image-image {
+  object-fit: contain !important;
 }

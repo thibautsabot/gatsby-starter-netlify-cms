@@ -2,8 +2,8 @@
 templateKey: blog-post
 title: "Recette mousse au chocolat "
 date: 2020-09-06T13:19:28.712Z
-description: La mousse au chocolat… un dessert classique mais tellement bon et
-  surtout très simple à faire !
+description: "La mousse au chocolat… un dessert classique mais tellement bon et
+  surtout très simple à faire ! "
 featuredpost: true
 featuredimage: /img/20200906_152151.jpg
 tags:
@@ -13,9 +13,7 @@ Temps de préparation : 20 min\
 Nombre de personnes :  5\
 Temps de repos : 3h-4h au réfrigérateur
 
-##### <br>
-
-##### Ingrédients :
+### Ingrédients :
 
 * 130g de chocolat noir dessert 
 * 5 cuillères à soupe de lait
@@ -23,9 +21,7 @@ Temps de repos : 3h-4h au réfrigérateur
 * 3 œufs 
 * 1 pincée de sel 
 
-##### <br>
-
-##### Réalisation :
+### Réalisation :
 
 Faire fondre 100g de chocolat au bain-marie avec 5 cuillères à soupe de lait. \
 Une fois que le chocolat est totalement fondu mettez-le de côté afin qu’il refroidisse. 

@@ -35,9 +35,9 @@ Se conserve très bien dans un bocal en verre.
 
 ### 3ème possibilité :
 
-À faire lorsque le pain ne date que de quelques jours et qu’il n’est pas encore trop dur.\
+À faire lorsque le pain ne date que de quelques jours et qu’il n’est pas encore trop dur.
 
-* Des toasts grillés au grille-pain ou au four. Vous pouvez les utiliser pour l’apéro par exemple ou avec du fromage fondu.\
+* Des toasts grillés au grille-pain ou au four. Vous pouvez les utiliser pour l’apéro par exemple ou avec du fromage fondu.
 * Du pain perdu. En dessert ou pour le petit-déjeuner, c’est délicieux et assez facile à réaliser.
 
 ### 4ème possibilité :

@@ -11,7 +11,7 @@ tags:
 ---
 **Le Pain** : aliment indispensable pour les Français ! On a tendance à le gaspiller car une baguette du jour *bien croustillante* est meilleure que du pain dur. Mais il existe de nombreuses manières de le réutiliser afin de ne plus le gaspiller.
 
-##### 1ère possibilité : Faire sa chapelure maison
+### 1ère possibilité : Faire sa chapelure maison
 
 Coupez le pain dur en morceaux et mettez-le dans un mixeur/blinder assez puissant.\
 Mixer jusqu’à obtenir de la chapelure.\
@@ -20,7 +20,7 @@ Se converse très longtemps dans un pot en verre.
 
 ![Chapelure dans un pot en verre](/img/chapelure-.jpg "Chapelure")
 
-##### 2ème possibilité : Faire ses croutons maison
+### 2ème possibilité : Faire ses croutons maison
 
 Préchauffez le four à 180°.\
 Coupez le pain dur en petit des.\
@@ -33,13 +33,14 @@ Se conserve très bien dans un bocal en verre.
 
 ![Croutons dans un pot en verre](/img/croutons.jpg "Croutons ")
 
-##### 3ème possibilité :
+### 3ème possibilité :
 
 À faire lorsque le pain ne date que de quelques jours et qu’il n’est pas encore trop dur.\
-- Des toasts grillés au grille-pain ou au four. Vous pouvez les utiliser pour l’apéro par exemple ou avec du fromage fondu.\
-- Du pain perdu. En dessert ou pour le petit-déjeuner, c’est délicieux et assez facile à réaliser.
 
-##### 4ème possibilité :
+* Des toasts grillés au grille-pain ou au four. Vous pouvez les utiliser pour l’apéro par exemple ou avec du fromage fondu.\
+* Du pain perdu. En dessert ou pour le petit-déjeuner, c’est délicieux et assez facile à réaliser.
+
+### 4ème possibilité :
 
 Si vraiment vous avez trop de pain et que vous adorez les animaux, vous pouvez aller nourrir les canards ou des poules, ils en raffolent !
 

@@ -45,4 +45,4 @@ Laisser 3h-4h au réfrigérateur afin que la mousse au chocolat prenne parfaitem
 
 ![Blanc monté en neige avec une pincée de sel ](/img/ben-new-d-1-.jpg "Blanc monté en neige")
 
-![Préparation chocolat, jaune d'oeuf et sucre mélangé avec les blancs en neige](/img/mélange-les-d.jpg "Préparation mousse au chocolat ")
+![Préparation chocolat, jaune d'oeuf et sucre mélangé avec les blancs en neige](/img/newddd.jpg "Préparation mousse au chocolat ")

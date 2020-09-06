@@ -1,3 +1,5 @@
-.gatsby-resp-image-image {
-  width: initial !important;
+.gatsby-resp-image-wrapper {
+  width: 70% !important;
+  height: 70% !important;
+  margin-left: 14% !important;
 }

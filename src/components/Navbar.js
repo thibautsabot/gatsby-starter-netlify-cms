@@ -1,14 +1,14 @@
-import { Link } from 'gatsby'
-import React from 'react'
-import logo from '../img/header-outline.png'
+import { Link } from "gatsby";
+import React from "react";
+import logo from "../img/header-outline.png";
 
 const Navbar = class extends React.Component {
   constructor(props) {
-    super(props)
+    super(props);
     this.state = {
       active: false,
-      navBarActiveClass: '',
-    }
+      navBarActiveClass: "",
+    };
   }
 
   toggleHamburger = () => {
@@ -22,14 +22,14 @@ const Navbar = class extends React.Component {
         // set the class in state for the navbar accordingly
         this.state.active
           ? this.setState({
-            navBarActiveClass: 'is-active',
-          })
+              navBarActiveClass: "is-active",
+            })
           : this.setState({
-            navBarActiveClass: '',
-          })
+              navBarActiveClass: "",
+            });
       }
-    )
-  }
+    );
+  };
 
   render() {
     return (
@@ -59,13 +59,38 @@ const Navbar = class extends React.Component {
             className={`navbar-menu ${this.state.navBarActiveClass}`}
           >
             <div className="navbar-start has-text-centered">
-
               <Link className="navbar-item" to="/about">
                 Acceuil
               </Link>
-              <Link className="navbar-item" to="/tags/cuisine">
-                Recettes
-              </Link>
+              <div className="navbar-item has-dropdown is-hoverable">
+                <Link className="navbar-link" to="/tags/cuisine">
+                  Recettes
+                </Link>
+
+                <div className="navbar-dropdown">
+                  <Link className="navbar-item" to="/tags/cuisine">
+                    Entrées
+                  </Link>
+                  <Link className="navbar-item" to="/tags/cuisine">
+                    Plats végétariens
+                  </Link>
+                  <Link className="navbar-item" to="/tags/cuisine">
+                    Plats avec viandes
+                  </Link>
+                  <Link className="navbar-item" to="/tags/cuisine">
+                    Desserts
+                  </Link>
+                  <Link className="navbar-item" to="/tags/cuisine">
+                    Desserts
+                  </Link>
+                  <Link className="navbar-item" to="/tags/cuisine">
+                    Petit déjeuner
+                  </Link>
+                  <Link className="navbar-item" to="/tags/cuisine">
+                    Anti gaspi
+                  </Link>
+                </div>
+              </div>
               <Link className="navbar-item" to="/tags/zerodechet">
                 Zéro déchet
               </Link>
@@ -82,8 +107,8 @@ const Navbar = class extends React.Component {
           </div>
         </div>
       </nav>
-    )
+    );
   }
-}
+};
 
-export default Navbar
+export default Navbar;

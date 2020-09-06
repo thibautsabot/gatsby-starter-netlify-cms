@@ -7,7 +7,9 @@ const Navbar = class extends React.Component {
     super(props);
     this.state = {
       active: false,
+      subnavActive: false,
       navBarActiveClass: "",
+      subnavBarActiveClass: "",
     };
   }
 
@@ -26,6 +28,27 @@ const Navbar = class extends React.Component {
             })
           : this.setState({
               navBarActiveClass: "",
+            });
+      }
+    );
+  };
+
+  toggleSubNavbar = () => {
+    console.log(this.state.subnavActive)
+    // toggle the active boolean in the state
+    this.setState(
+      {
+        subnavActive: !this.state.subnavActive,
+      },
+      // after state has been updated,
+      () => {
+        // set the class in state for the navbar accordingly
+        this.state.subnavActive
+          ? this.setState({
+            subnavBarActiveClass: "is-active",
+            })
+          : this.setState({
+            subnavBarActiveClass: "",
             });
       }
     );
@@ -62,10 +85,10 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item" to="/about">
                 Acceuil
               </Link>
-              <div className="navbar-item has-dropdown is-hoverable">
-                <Link className="navbar-link" to="/tags/cuisine">
+              <div className={`navbar-item has-dropdown ${this.state.subnavBarActiveClass}`}  onClick={() => this.toggleSubNavbar()}>
+                <p className="navbar-link">
                   Recettes
-                </Link>
+                </p>
 
                 <div className="navbar-dropdown">
                   <Link className="navbar-item" to="/tags/cuisine">

@@ -1,10 +1,13 @@
-import React from 'react'
-import PropTypes from 'prop-types'
-import { kebabCase } from 'lodash'
-import { Helmet } from 'react-helmet'
-import { graphql, Link } from 'gatsby'
-import Layout from '../components/Layout'
+import "./blog-post.css"
+
 import Content, { HTMLContent } from '../components/Content'
+import { Link, graphql } from 'gatsby'
+
+import { Helmet } from 'react-helmet'
+import Layout from '../components/Layout'
+import PropTypes from 'prop-types'
+import React from 'react'
+import { kebabCase } from 'lodash'
 
 export const BlogPostTemplate = ({
   content,

@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
     siteUrl: 'https://bananeplantee.fr',
-    title: 'Gatsby + Netlify CMS Starter',
+    title: 'Banane Plantee',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      'Le site de cuisine zéro dechet !',
   },
   plugins: [
     'gatsby-plugin-robots-txt',

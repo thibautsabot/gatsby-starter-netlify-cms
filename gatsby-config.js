@@ -68,6 +68,7 @@ module.exports = {
               // base for generating different widths of each image.
               maxWidth: 2048,
               withWebp: true,
+              disableBgImage: true
             },
           },
           {

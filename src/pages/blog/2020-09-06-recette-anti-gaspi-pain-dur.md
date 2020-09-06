@@ -42,8 +42,8 @@ Se conserve très bien dans un bocal en verre.
 
 ### 4ème possibilité :
 
-Si vraiment vous avez trop de pain et que vous adorez les animaux, vous pouvez aller nourrir les canards ou des poules, ils en raffolent !
+Si vraiment vous avez trop de pain et que vous adorez les animaux, vous pouvez aller nourrir les canards ou les poules, ils en raffolent !
 
 <br>
 
-Avec toutes *ses astuces*, il n’y a vraiment **plus aucune excuse** de jeter du pain maintenant !
+Avec toutes c*es astuces*, il n’y a vraiment **plus aucune** **raison** de jeter du pain !

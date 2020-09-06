@@ -6,8 +6,15 @@ import React from 'react'
 import { graphql } from 'gatsby'
 
 const TITLE = {
-  cuisine: "Recette",
-  zerodechet: "Zero Déchet"
+  cuisine: "Articles cuisine",
+  autre: "Autres article",
+  zerodechet: "Zero Déchet",
+  entree: "Entrées",
+  vegetarien: "Plats végétariens",
+  viande: "Plats avec viandes",
+  dessert: "Desserts",
+  petitdej: "Petit déjeuner",
+  antigaspi: "Anti gaspi",
 }
 
 class TagRoute extends React.Component {

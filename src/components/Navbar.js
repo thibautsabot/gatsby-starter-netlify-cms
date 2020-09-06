@@ -82,7 +82,7 @@ const Navbar = class extends React.Component {
             className={`navbar-menu ${this.state.navBarActiveClass}`}
           >
             <div className="navbar-start has-text-centered">
-              <Link className="navbar-item" to="/about">
+              <Link className="navbar-item" to="/acceuil">
                 Acceuil
               </Link>
               <div className={`navbar-item has-dropdown ${this.state.subnavBarActiveClass}`}  onClick={() => this.toggleSubNavbar()}>
@@ -91,25 +91,22 @@ const Navbar = class extends React.Component {
                 </p>
 
                 <div className="navbar-dropdown">
-                  <Link className="navbar-item" to="/tags/cuisine">
+                  <Link className="navbar-item" to="/tags/entree">
                     Entrées
                   </Link>
-                  <Link className="navbar-item" to="/tags/cuisine">
+                  <Link className="navbar-item" to="/tags/vegetarien">
                     Plats végétariens
                   </Link>
-                  <Link className="navbar-item" to="/tags/cuisine">
+                  <Link className="navbar-item" to="/tags/viande">
                     Plats avec viandes
                   </Link>
-                  <Link className="navbar-item" to="/tags/cuisine">
+                  <Link className="navbar-item" to="/tags/dessert">
                     Desserts
                   </Link>
-                  <Link className="navbar-item" to="/tags/cuisine">
-                    Desserts
-                  </Link>
-                  <Link className="navbar-item" to="/tags/cuisine">
+                  <Link className="navbar-item" to="/tags/petitdej">
                     Petit déjeuner
                   </Link>
-                  <Link className="navbar-item" to="/tags/cuisine">
+                  <Link className="navbar-item" to="/tags/antigaspi">
                     Anti gaspi
                   </Link>
                 </div>
@@ -117,10 +114,10 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item" to="/tags/zerodechet">
                 Zéro déchet
               </Link>
-              <Link className="navbar-item" to="/blog">
+              <Link className="navbar-item" to="/tags/cuisine">
                 Articles cuisine
               </Link>
-              <Link className="navbar-item" to="/contact">
+              <Link className="navbar-item" to="/tags/autre">
                 Autres articles
               </Link>
               <Link className="navbar-item" to="/contact/examples">

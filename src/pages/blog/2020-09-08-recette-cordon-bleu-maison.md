@@ -28,7 +28,7 @@ Cuisson : 15 min à la poêle
 
 Mixez votre viande blanche et ajoutez l’assaisonnement : une pincée de sel, de poivre et de paprika.
 
-Formez une galette de 5mm d’épaisseur avec votre viande blanche. Vous pouvez rajouter un peu de farine afin qu’elle n’accroche pas.
+Formez une galette de 5mm d’épaisseur avec votre viande blanche. Vous pouvez ajouter un peu de farine afin qu’elle n’accroche pas.
 
 ![Formation de la galette de viande ](/img/galette-viande.jpg "Galette de viande ")
 

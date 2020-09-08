@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: "Recette Cordon-bleu maison "
+title: "Recette cordon-bleu maison "
 date: 2020-09-08T16:51:35.693Z
 description: >
   Une recette tellement plus gourmande et naturelle quand on la réalise soi-même.
@@ -26,7 +26,7 @@ Cuisson : 15 min à la poêle
 
 ### Réalisation :
 
-Mixez votre viande blanche et rajoutez l’assaisonnement : sel, poivre et paprika.
+Mixez votre viande blanche et ajoutez l’assaisonnement : une pincée de sel, de poivre et de paprika.
 
 Formez une galette de 5mm d’épaisseur avec votre viande blanche. Vous pouvez rajouter un peu de farine afin qu’elle n’accroche pas.
 

@@ -54,4 +54,4 @@ Enfournez votre gâteau à 180°, pendant environ 30 min.
 
 ![Tranche du cake au chocolat ](/img/cake-chocolat-2.jpg "Cake au chocolat")
 
-Promis, votre cake n’aura pas le goût de courgette, mais bien le goût d’un délicieux gâteau au chocolat !
+Promis, votre cake n’aura pas le goût de courgette, mais bien le goût d’un **délicieux gâteau au chocolat** !

@@ -39,8 +39,7 @@ Refermez la galette afin de lui donner la forme d’un cordon-bleu. \
 
 ![Galette de viande avec le jambon et le fromage ](/img/cordon-bleu-en-formation-.jpg "Cordon-bleu en formation ")
 
-Farinez votre cordon-bleu des deux côtés.
-
+Farinez votre cordon-bleu des deux côtés.\
 Si vous avez le temps, mettez votre préparation au frigo 30 min afin que la viande soit plus facile à manipuler ensuite.
 
 ![Cordon-bleu prêt pour la cuisson ](/img/cordon-bleu.jpg "Cordon-bleu prêt pour la cuisson ")

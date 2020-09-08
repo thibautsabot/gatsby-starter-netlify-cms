@@ -11,6 +11,7 @@ featuredpost: true
 featuredimage: /img/cake-chocolat-1.jpg
 tags:
   - dessert
+  - petitdej
 ---
 Temps de préparation : 30 min\
 Cuisson : 35 min au four à 180°

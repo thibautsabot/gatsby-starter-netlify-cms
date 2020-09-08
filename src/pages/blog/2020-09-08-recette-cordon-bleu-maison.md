@@ -15,8 +15,8 @@ Cuisson : 15 min à la poêle
 
 ### Ingredients :
 
-* Environ 200 d’escalope de dinde ou aiguillette de poulet 
-* 1 tranche de jambon
+* Environ 200g d’escalope de dinde ou aiguillette de poulet 
+* 1 tranche de jambon blanc
 * 2 tranches de fromage cheddar/emmental/comté
 * Sel/poivre
 * Paprika
@@ -32,8 +32,8 @@ Formez une galette de 5mm d’épaisseur avec votre viande blanche. Vous pouvez 
 
 ![Formation de la galette de viande ](/img/galette-viande.jpg "Galette de viande ")
 
-Coupez votre tranche de jambon en 4.\
-Superposez les couches de jambon et de fromage sur un côté.\
+Coupez la tranche de jambon en 4.\
+Superposez les couches de jambon et de fromage sur un des côtés.\
 Refermez la galette afin de lui donner la forme d’un cordon-bleu. \
 *Faites attention à bien souder les bords afin que le fromage ne s’échappe pas totalement.*
 

@@ -39,10 +39,10 @@ Et pour la gourmandise finale, rajoutez les 30g de copeaux de chocolat à la mou
 Vous pouvez soit laisser votre préparation dans un grand saladier ou la mettre directement dans des ramequins individuels.\
 Laisser 3h-4h au réfrigérateur afin que la mousse au chocolat prenne parfaitement.
 
-**PS** *: Si vous êtes deux fois plus de gourmands à la table, n’hésitez pas à doubler les quantités.*
-
 ![Chocolat coupé en copeaux ](/img/chocolat-new-d.jpg "Copeaux de chocolat")
 
 ![Blanc monté en neige avec une pincée de sel ](/img/ben-new-d-1-.jpg "Blanc monté en neige")
 
 ![Préparation chocolat, jaune d'oeuf et sucre mélangé avec les blancs en neige](/img/newddd.jpg "Préparation mousse au chocolat ")
+
+**PS** *: Si vous êtes deux fois plus de gourmands à la table, n’hésitez pas à doubler les quantités.*

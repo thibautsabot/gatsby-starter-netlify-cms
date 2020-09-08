@@ -45,4 +45,4 @@ Laisser 3h-4h au réfrigérateur afin que la mousse au chocolat prenne parfaitem
 
 ![Préparation chocolat, jaune d'oeuf et sucre mélangé avec les blancs en neige](/img/newddd.jpg "Préparation mousse au chocolat ")
 
-**PS** *: Si vous êtes deux fois plus de gourmands à la table, n’hésitez pas à doubler les quantités.*
+*Si vous êtes deux fois plus de gourmands à la table, n’hésitez pas à doubler les quantités!*

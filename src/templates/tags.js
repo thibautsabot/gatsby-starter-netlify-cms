@@ -6,7 +6,6 @@ import React from 'react'
 import { graphql } from 'gatsby'
 
 const TITLE = {
-  cuisine: "Articles cuisine",
   autre: "Autres article",
   zerodechet: "Zero Déchet",
   entree: "Entrées",

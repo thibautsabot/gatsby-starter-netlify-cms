@@ -82,9 +82,6 @@ const Navbar = class extends React.Component {
             className={`navbar-menu ${this.state.navBarActiveClass}`}
           >
             <div className="navbar-start has-text-centered">
-              <Link className="navbar-item" to="/acceuil">
-                Acceuil
-              </Link>
               <div className={`navbar-item has-dropdown ${this.state.subnavBarActiveClass}`}  onClick={() => this.toggleSubNavbar()}>
                 <p className="navbar-link">
                   Recettes

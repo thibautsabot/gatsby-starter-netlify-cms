@@ -17,9 +17,9 @@ const IndexPage = () => {
                 <div className="content">
                   <div className="columns">
                     <div className="column is-12 justified">
-                      <h3 className="has-text-weight-semibold is-size-2">
+                      <h1 className="has-text-weight-semibold is-size-2">
                         Bienvenue dans ma cuisine !
-                      </h3>
+                      </h1>
                       <p>
                         Je suis passionnée de cuisine et je me suis lancée dans
                         l'aventure zéro déchet depuis quelques mois. En effet,
@@ -28,7 +28,7 @@ const IndexPage = () => {
                         modifications dans ma vie et surtout dans ma cuisine.
                       </p>
                       <p className="smallText">
-                        <Link to="/contact/examples">
+                        <Link to="/presentation">
                           Si vous voulez en savoir plus
                         </Link>
                         , n’hésitez pas à vous rendre dans la partie

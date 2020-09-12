@@ -13,7 +13,7 @@ const Footer = class extends React.Component {
                 <section>
                   <ul className="menu-list">
                     <li>
-                      <Link className="footer-item" to="/contact">
+                      <Link className="footer-item" to="/">
                         Contact
                       </Link>
                     </li>

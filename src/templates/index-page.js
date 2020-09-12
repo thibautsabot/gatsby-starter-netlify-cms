@@ -3,7 +3,7 @@ import BlogIndexPage from "../pages/blog";
 import Layout from "../components/Layout";
 import { Link } from "gatsby";
 import React from "react";
-import logo from "../img/text-2.png";
+import logo from "../img/round-logo.png";
 
 const IndexPage = () => {
   return (
@@ -44,7 +44,6 @@ const IndexPage = () => {
                         Bonne visite sur <strong>Bananeplantée !</strong>
                       </p>
                       <div className="logoAcceuilContainer">
-                        {" "}
                         <img
                           className="logoAcceuil"
                           alt="logos bananeplantee"

@@ -114,9 +114,6 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item" to="/tags/zerodechet">
                 Zéro déchet
               </Link>
-              <Link className="navbar-item" to="/tags/cuisine">
-                Articles cuisine
-              </Link>
               <Link className="navbar-item" to="/tags/autre">
                 Autres articles
               </Link>

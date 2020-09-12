@@ -38,15 +38,6 @@ $ npm run build
 $ netlify dev # or ntl dev
 ```
 
-## Getting Started (Without Netlify)
-
-```
-$ gatsby new [SITE_DIRECTORY_NAME] https://github.com/netlify-templates/gatsby-starter-netlify-cms/
-$ cd [SITE_DIRECTORY_NAME]
-$ npm run build
-$ npm run serve
-```
-
 ## Purgecss
 
 This plugin uses [gatsby-plugin-purgecss](https://www.gatsbyjs.org/packages/gatsby-plugin-purgecss/) and [bulma](https://bulma.io/). The bulma builds are usually ~170K but reduced 90% by purgecss.

@@ -5,26 +5,27 @@ date: 2020-09-08T16:51:35.693Z
 description: >
   Une recette tellement plus gourmande et naturelle quand on la réalise soi-même.
 featuredpost: true
-featuredimage: /img/cordon-bleu-coupé-.jpg
+featuredimage: /img/cordon-bleu-coupe.jpg
 tags:
   - viande
 ---
+
 Temps de préparation : 30 min\
 Nombre de personne : 2 personnes\
 Cuisson : 15 min à la poêle
 
-### Ingredients :
+## Ingredients :
 
-* Environ 200g d’escalope de dinde ou aiguillette de poulet 
-* 1 tranche de jambon blanc
-* 2 tranches de fromage cheddar/emmental/comté
-* Sel/poivre
-* Paprika
-* Farine
-* Chapelure
-* 1 œuf
+- Environ 200g d’escalope de dinde ou aiguillette de poulet
+- 1 tranche de jambon blanc
+- 2 tranches de fromage cheddar/emmental/comté
+- Sel/poivre
+- Paprika
+- Farine
+- Chapelure
+- 1 œuf
 
-### Réalisation :
+## Réalisation :
 
 Mixez votre viande blanche et ajoutez l’assaisonnement : une pincée de sel, de poivre et de paprika.
 
@@ -35,7 +36,7 @@ Formez une galette de 5mm d’épaisseur avec votre viande blanche. Vous pouvez 
 Coupez la tranche de jambon en 4.\
 Superposez les couches de jambon et de fromage sur un des côtés.\
 Refermez la galette afin de lui donner la forme d’un cordon-bleu. \
-*Faites attention à bien souder les bords afin que le fromage ne s’échappe pas totalement.*
+_Faites attention à bien souder les bords afin que le fromage ne s’échappe pas totalement._
 
 ![Galette de viande avec le jambon et le fromage ](/img/cordon-bleu-en-formation-.jpg "Cordon-bleu en formation ")
 

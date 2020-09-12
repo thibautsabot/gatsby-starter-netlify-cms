@@ -53,9 +53,9 @@ const IndexPage = () => {
                     </div>
                   </div>
                   <div className="column is-12">
-                    <h3 className="has-text-weight-semibold is-size-2">
+                    <h1 className="has-text-weight-semibold is-size-2">
                       Derniers articles
-                    </h3>
+                    </h1>
                     <BlogIndexPage />
                   </div>
                 </div>

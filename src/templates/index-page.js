@@ -16,7 +16,7 @@ const IndexPage = () => {
               <div className="column is-10 is-offset-1">
                 <div className="content">
                   <div className="columns">
-                    <div className="column is-12">
+                    <div className="column is-12 justified">
                       <h3 className="has-text-weight-semibold is-size-2">
                         Bienvenue dans ma cuisine !
                       </h3>

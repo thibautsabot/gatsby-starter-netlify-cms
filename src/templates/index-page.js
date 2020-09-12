@@ -32,7 +32,7 @@ const IndexPage = () => {
                           Si vous voulez en savoir plus
                         </Link>
                         , n’hésitez pas à vous rendre dans la partie
-                        présentation
+                        présentation.
                       </p>
                       <p>
                         Sur ce blog, je vous partage donc mes nombreuses de

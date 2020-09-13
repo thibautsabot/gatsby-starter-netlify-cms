@@ -48,7 +48,7 @@ Vous pouvez rajouter des pépites de chocolat sur le dessus pour toujours plus d
 
 Enfournez votre gâteau à 180°, pendant environ 30 min.
 
-![Preparation du cake avec les courgettes](/img/preparation-cake.jpg "Preparation cake")
+![Préparation du cake avec les courgettes](/img/preparation-cake-.jpg "Préparation cake")
 
 ![Preparation du cake dans le moule avec les pépites de chocolat](/img/cake-moule.jpg "Preparation du cake dans le moule ")
 

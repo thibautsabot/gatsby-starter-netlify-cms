@@ -34,7 +34,6 @@ const Navbar = class extends React.Component {
   };
 
   toggleSubNavbar = () => {
-    console.log(this.state.subnavActive)
     // toggle the active boolean in the state
     this.setState(
       {
@@ -45,13 +44,27 @@ const Navbar = class extends React.Component {
         // set the class in state for the navbar accordingly
         this.state.subnavActive
           ? this.setState({
-            subnavBarActiveClass: "is-active",
+              subnavBarActiveClass: "is-active",
             })
           : this.setState({
-            subnavBarActiveClass: "",
+              subnavBarActiveClass: "",
             });
       }
     );
+  };
+
+  onSubNavBarKeyPress = (event) => {
+    var code = event.keyCode || event.which;
+    if (code === 13) {
+      this.toggleSubNavbar();
+    }
+  };
+
+  onBurgerMenuKeyPress = (event) => {
+    var code = event.keyCode || event.which;
+    if (code === 13) {
+      this.toggleHamburger();
+    }
   };
 
   render() {
@@ -68,6 +81,10 @@ const Navbar = class extends React.Component {
             </Link>
             {/* Hamburger menu */}
             <div
+              role="link"
+              aria-label="menu"
+              onKeyPress={this.onBurgerMenuKeyPress}
+              tabIndex="0"
               className={`navbar-burger burger ${this.state.navBarActiveClass}`}
               data-target="navMenu"
               onClick={() => this.toggleHamburger()}
@@ -82,10 +99,14 @@ const Navbar = class extends React.Component {
             className={`navbar-menu ${this.state.navBarActiveClass}`}
           >
             <div className="navbar-start has-text-centered">
-              <div className={`navbar-item has-dropdown ${this.state.subnavBarActiveClass}`}  onClick={() => this.toggleSubNavbar()}>
-                <p className="navbar-link">
-                  Recettes
-                </p>
+              <div
+                role="link"
+                onKeyPress={this.onSubNavBarKeyPress}
+                tabIndex="0"
+                className={`navbar-item has-dropdown ${this.state.subnavBarActiveClass}`}
+                onClick={() => this.toggleSubNavbar()}
+              >
+                <p className="navbar-link">Recettes</p>
 
                 <div className="navbar-dropdown">
                   <Link className="navbar-item" to="/tags/entree">

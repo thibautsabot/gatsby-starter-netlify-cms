@@ -5,6 +5,7 @@ class Banner extends React.Component {
   render() {
     return (
       <div
+        role="banner"
         className="full-width-image-container margin-top-0"
         style={{
           backgroundImage: `url(${require("../img/banner.jpg")})`,

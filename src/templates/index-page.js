@@ -9,7 +9,7 @@ const IndexPage = () => {
   return (
     <Layout>
       <Banner title={"Acceuil"} />
-      <section className="section--gradient">
+      <section role="main" className="section--gradient">
         <div className="container">
           <div className="section">
             <div className="columns">

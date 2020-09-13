@@ -27,7 +27,7 @@ class TagRoute extends React.Component {
           <Helmet title={`${tag} | ${title}`} />
           <div className="container content">
             <Banner title={TITLE[tag] || "Blog"} />
-            <BlogRoll data={this.props.data} />
+            <div role="main"><BlogRoll data={this.props.data} /></div>
           </div>
         </section>
       </Layout>

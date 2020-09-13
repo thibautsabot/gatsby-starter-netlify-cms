@@ -45,6 +45,8 @@ const IndexPage = () => {
                       </p>
                       <div className="logoAcceuilContainer">
                         <img
+                          height="200px"
+                          width="159px"
                           className="logoAcceuil"
                           alt="logos bananeplantee"
                           src={logo}

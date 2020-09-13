@@ -23,7 +23,13 @@ class Banner extends React.Component {
         >
           {this.props.title}
         </h1>
-        <img alt="logos banniere" className="icon-logos" src={logos} />
+        <img
+          alt="logos banniere"
+          width="780"
+          height="150"
+          className="icon-logos"
+          src={logos}
+        />
       </div>
     );
   }

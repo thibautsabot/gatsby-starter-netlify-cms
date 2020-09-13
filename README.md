@@ -1,6 +1,6 @@
 # Banane plantée
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b654c94e-08a6-4b79-b443-7837581b1d8d/deploy-status)](https://app.netlify.com/sites/gatsby-starter-netlify-cms-ci/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c113e605-aae3-494e-ad45-195f488a2942/deploy-status)](https://app.netlify.com/sites/goofy-kare-98e46a/deploys)
 
 **Note:** This repository uses [Gatsby v2](https://www.gatsbyjs.org/blog/2018-09-17-gatsby-v2/).
 
@@ -13,7 +13,7 @@
 - Blazing fast loading times thanks to pre-rendered HTML and automatic chunk loading of JS files
 - Uses `gatsby-image` with Netlify-CMS preview support
 - Netlify deploy configuration
-- Almost Perfect score on Lighthouse for SEO, Accessibility and Performance
+- Perfect score on Lighthouse for SEO, Accessibility, Performance and Best Practices
 - PWA
 
 ## Prerequisites
@@ -36,6 +36,13 @@ To test the CMS locally, you'll need to run a production build of the site:
 ```
 $ npm run build
 $ netlify dev # or ntl dev
+```
+
+To run in production mode you can do
+
+```
+$ gatsby build
+$ gatsby serve
 ```
 
 ## Purgecss

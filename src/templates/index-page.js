@@ -1,3 +1,5 @@
+import './index.css'
+
 import Banner from "../components/Banner";
 import BlogIndexPage from "../pages/blog";
 import Layout from "../components/Layout";

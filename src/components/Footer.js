@@ -1,4 +1,3 @@
-import { Link } from 'gatsby'
 import React from 'react'
 import instagram from '../img/social/instagram.svg'
 
@@ -13,15 +12,15 @@ const Footer = class extends React.Component {
                 <section>
                   <ul className="menu-list">
                     <li>
-                      <Link className="footer-item" to="/">
+                      <a href="mailto:bananeplantee@hotmail.com" className="footer-item" to="/">
                         Contact
-                      </Link>
+                      </a>
                     </li>
                   </ul>
                 </section>
               </div>
               <div className="column is-4 social">
-                <a title="instagram" href="https://instagram.com">
+                <a title="instagram" href="https://www.instagram.com/bananeplantee/">
                   <img
                     src={instagram}
                     alt="Instagram"

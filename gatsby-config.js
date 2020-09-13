@@ -48,6 +48,16 @@ module.exports = {
         name: 'images',
       },
     },
+    {
+      resolve: 'gatsby-plugin-mailgo',
+      options: {
+        mailgoConfig: {
+          lang: 'fr',
+          forceLang: true,
+          showFooter: false
+        }
+      }
+    },
     'gatsby-plugin-sharp',
     'gatsby-transformer-sharp',
     {
@@ -93,6 +103,6 @@ module.exports = {
         purgeOnly: ['/all.sass'], // applies purging only on the bulma css file
       },
     }, // must be after other CSS plugins
-    'gatsby-plugin-netlify', // make sure to keep it last in the array
+    'gatsby-plugin-netlify', // make sure to keep it last in the array,
   ],
 }

@@ -11,8 +11,7 @@ J'ai décidé de créer ce blog afin de partager mes recettes et astuces de cuis
 
 ## Mon cheminement vers le zéro déchet :
 
-Avant de me lancer dans l'aventure zéro déchet, on pouvait me décrire comme une personne lambda qui triait ses déchets et pensait que cela suffisait. \
-Je n'étais pas vraiment renseignée sur le sujet.
+Avant de me lancer dans l'aventure zéro déchet, on pouvait me décrire comme une personne lambda qui triait ses déchets et pensait que cela suffisait. Je n'étais pas vraiment renseignée sur le sujet.
 
 Mais après de nombreuses heures de lectures, visionnage de reportages, recherches, partages et discussions, je me suis rendu compte que je pouvais modifier ma façon de consommer afin de limiter mon empreinte écologique. Et surtout, sans que cela est un impact négatif sur ma vie (perte de temps, argent...), bien au contraire.
 
@@ -22,7 +21,7 @@ Mais après de nombreuses heures de lectures, visionnage de reportages, recherch
 
 Le zéro déchet est une démarche visant à **réduire notre production de déchet**. Plus qu'un objectif, c'est surtout un nouveau mode de consommation.
 
-Aujourd'hui, je suis encore loin d'une poubelle zéro déchet et je ne sais pas si j'y arriverai un jour. Mais ce qui est sûr c'est que mes habitudes et ma consommation ont totalement changé depuis quelques mois. Pour la plupart de mes achats je me questionne sur le besoin et l'envie. J'essaie ensuite de trouver la meilleure alternative d'achat. De même, pour les déchets j’essaie d’adopter les meilleures stratégies. Les déchets qui peuvent être réutilisable (vêtements, ustensiles de cuisine...) je les revends afin de leur donner une seconde vie. Pour les déchets à usage unique (sacs plastique, bouteilles d’eau, mouchoirs…) s’il existe une alternative réutilisable, je l’utilise. Et pour les déchets ménagers, j’ai même débuté **un composte** !
+Aujourd'hui, je suis encore loin d'une poubelle zéro déchet et je ne sais pas si j'y arriverai un jour. Mais ce qui est sûr c'est que mes habitudes et ma consommation ont totalement changé depuis quelques mois. Pour la plupart de mes achats je me questionne sur le besoin et l'envie. J'essaie ensuite de trouver la meilleure alternative d'achat. De même, pour les déchets j’essaie d’adopter les meilleures stratégies. Les déchets qui peuvent être réutilisable (vêtements, ustensiles de cuisine...) je les revends afin de leur donner une seconde vie. Pour les déchets à usage unique (sacs plastique, bouteilles d’eau, mouchoirs…) s’il existe une alternative réutilisable, je l’utilise. Et pour les déchets ménagers, j’ai même débuté un composte !
 
 *Mon objectif est donc de voir au fil du temps ma poubelle diminuer*. Toutefois, le chemin vers le totale zéro déchet est long, je pense qu'il est important d'être **indulgent**, **patient** avec soi-même.
 

@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: "Recette cheesecake avec coulis fruits-rouges "
+title: "Recette cheesecake coulis fruits-rouges "
 date: 2020-09-15T14:58:56.029Z
 description: >
   Dessert très en vogue ces dernières années. Je vous propose aujourd’hui ma
@@ -67,7 +67,7 @@ Mettez les feuilles de gélatine dans un bol d’eau froide.\
 \
 Faites fondre les fruits rouges congelés dans une casserole.\
 Pour avoir un coulis très lisse, mixez les fruits avec un plongeur et passez le coulis au chinois.\
-Égouttez et ajoutez les deux feuilles de gélatine. Mélangez-les jusqu’à qu’elles soient totalement dissoutes .\
+Égouttez et ajoutez les deux feuilles de gélatine. Mélangez-les jusqu’à qu’elles soient totalement dissoutes.\
 \
 Déposez le coulis sur le gâteau refroidit.
 

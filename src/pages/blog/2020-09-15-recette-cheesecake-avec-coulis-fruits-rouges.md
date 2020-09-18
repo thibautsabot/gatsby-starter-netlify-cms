@@ -12,7 +12,8 @@ tags:
   - dessert
 ---
 Temps de préparation : 40 min \
-Temps de cuisson : 1h
+Temps de cuisson : 1h\
+Temps de repos : 3h-4h au réfrigérateur
 
 ## Ingrédients :
 

@@ -11,6 +11,9 @@ featuredimage: /img/cheesecake-fruit-rouge.jpg
 tags:
   - dessert
 ---
+Temps de préparation : 40 min \
+Temps de cuisson : 1h
+
 ## Ingrédients :
 
 Pour le biscuit :

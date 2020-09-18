@@ -13,7 +13,7 @@ Temps de préparation : 5 min 
 
 ## Ingrédients : 
 
-* Boite de pois chiche 350g non égoutté
+* Boite de pois chiches 350g non égoutté
 * 1 gousse d'ail 
 * 2 cuillères à soupe de citron 
 * 2 cuillères à soupe d'huile de sésame 

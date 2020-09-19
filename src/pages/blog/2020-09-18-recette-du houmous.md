@@ -27,7 +27,7 @@ Dans un blinder, versez votre boîte de pois chiche avec le jus.\
 ![Boite de pois chiche ](/img/boite-pois-chiche.jpg "Boite de pois chiche ")
 
 Ajouter la gousse d'ail, l'huile de sésame, le jus de citron, le sel et poivre dans le blinder.
-Mixez l'ensemble des ingrédients jusqu'à obtenir la texture souhaitait.\
+Mixez l'ensemble des ingrédients jusqu'à obtenir la texture souhaité.\
 Vérifiez l'assaisonnement sel/poivre et ajustez-le en fonction vos goûts. 
 
 ![Pois chiche et assaisonnement mixé au blinder](/img/mixeur-houmous-1.jpg "Pois chiche et assaisonnement ")

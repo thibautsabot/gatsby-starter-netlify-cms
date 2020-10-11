@@ -1,3 +1,7 @@
+require("dotenv").config({
+  path: `.env.${process.env.NODE_ENV}`,
+})
+
 module.exports = {
   siteMetadata: {
     siteUrl: 'https://bananeplantee.fr',
@@ -103,6 +107,21 @@ module.exports = {
         purgeOnly: ['/all.sass'], // applies purging only on the bulma css file
       },
     }, // must be after other CSS plugins
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: process.env.GA_TRACKING_ID,
+        head: false,
+        anonymize: true,
+        respectDNT: true,
+        // Delays sending pageview hits on route update (in milliseconds)
+        pageTransitionDelay: 0,
+        defer: true,
+        storage: 'none',
+        storeGac: false,
+        allowAdFeatures: false,
+      },
+    },
     'gatsby-plugin-netlify', // make sure to keep it last in the array,
   ],
 }

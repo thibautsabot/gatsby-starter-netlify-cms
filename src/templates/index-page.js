@@ -10,7 +10,7 @@ import logo from "../img/round-logo.png";
 const IndexPage = () => {
   return (
     <Layout>
-      <Banner title={"Acceuil"} />
+      <Banner title={"Accueil"} />
       <section role="main" className="section--gradient">
         <div className="container">
           <div className="section">
@@ -45,11 +45,11 @@ const IndexPage = () => {
                       <p>
                         Bonne visite sur <strong>Bananeplantée !</strong>
                       </p>
-                      <div className="logoAcceuilContainer">
+                      <div className="logoAccueilContainer">
                         <img
                           height="200px"
                           width="159px"
-                          className="logoAcceuil"
+                          className="logoAccueil"
                           alt="logos bananeplantee"
                           src={logo}
                         />

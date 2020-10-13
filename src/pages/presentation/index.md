@@ -17,7 +17,7 @@ Mais après de nombreuses heures de lectures, visionnage de reportages, recherch
 
 *C'est donc ainsi que je me suis lancée dans l'aventure zéro déchet.*
 
-## Mais qu'est-ce que c'est ? :
+## Mais qu'est-ce que c'est ? 
 
 Le zéro déchet est une démarche visant à **réduire notre production de déchet**. Plus qu'un objectif, c'est surtout un nouveau mode de consommation.
 

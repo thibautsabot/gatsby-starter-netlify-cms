@@ -7,7 +7,6 @@ featuredpost: true
 featuredimage: /img/fouet.jpg
 tags:
   - vegetarien
-  - zerodechet
   - autre
 ---
 

@@ -29,11 +29,11 @@ Vous pouvez également utiliser les boîtes bentos prévus spécialement pour le
 
 \- En plus de votre lunch box, vous pouvez également pour vos petits déjeuners ou vos pauses au travail avoir **une tasse** ou un **mug isotherme** pour votre café ou votre thé.
 
-Pour cette lunch box zéro déchet *pas besoin de frais supplémentaires*. Il n’est pas nécessaire d’acheter spécialement des ustensiles réutilisables. On peut très bien se débrouiller avec ce qu’on a, à la maison. Toutefois, si une gourde, une boite bento ou tout autre objet vous fait envie, vous pouvez profiter d’une occasion comme un anniversaire ou noël pour vous l’offrir ou vous le faire offrir.
-
 ![Les différents contenants pour une lunch box avec un tupperware, wrap en cire et bocal en verre](/img/differents-contenants-.jpg "Les différents contenants pour une lunch box ")
 
 ![Gourde et mug isotherme ](/img/gourde.jpg "Contenants pour les liquides")
+
+Pour cette lunch box zéro déchet <u>pas besoin de frais supplémentaires</u>. Il n’est pas nécessaire d’acheter spécialement des ustensiles réutilisables. On peut très bien se débrouiller avec ce qu’on a, à la maison. Toutefois, si une gourde, une boite bento ou tout autre objet vous fait envie, vous pouvez profiter d’une occasion comme un anniversaire ou noël pour vous l’offrir ou vous le faire offrir.
 
 ## Organisation et préparation de la lunch box :
 

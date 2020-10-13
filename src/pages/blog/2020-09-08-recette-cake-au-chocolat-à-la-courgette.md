@@ -27,7 +27,7 @@ Cuisson : 35 min au four à 180°
 * 40g de sirop d’agave
 * 10g de miel
 * 1 cuillère à café d’extrait de vanille
-* Pépites de chocolats
+* Pépites de chocolat
 
 ## Réalisation :
 

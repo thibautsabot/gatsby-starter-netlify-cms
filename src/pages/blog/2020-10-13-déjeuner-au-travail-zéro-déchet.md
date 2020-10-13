@@ -37,7 +37,7 @@ Pour cette lunch box zéro déchet *pas besoin de frais supplémentaires*. Il n�
 
 ## Organisation et préparation de la lunch box :
 
-Le principe de la lunch box est d’apporter son propre repas au travail. L’organisation et la préparation est surtout une question d’habitude.
+Le principe de la lunch box est d’apporter son propre repas au travail. L’organisation et la préparation est surtout une question **d’habitude**.
 
 Lorsque je cuisine un repas le week-end ou la semaine, je prépare toujours une ou deux portions de plus afin de pouvoir les utiliser pour le repas du midi. Cette méthode est aussi économique. Le seul petit bémol est qu’on mange souvent 2 ou 3 fois la même chose.\
 Pour les fois où je n’ai pas le temps de faire à manger ou qu’il n’y a plus rien dans le frigo, j’ai toujours des alternatives de repas qui se cuisine rapidement comme par exemple : boite de petit pois-carotte, maïs, galette de légumes...\
@@ -45,7 +45,7 @@ Je prépare donc ma lunch la veille pour le lendemain et cela me prend en moyenn
 
 Pour faciliter le transport, j’essaie d’utiliser le contenant le plus adapté à mon repas. Pour les soupes j’utilise un pot de confiture, pour les gâteaux je prends des wraps en cire, pour les salades j’ai un contenant exprès pour la vinaigrette.\
 \
-*Voici l'exemple de repas que j'emporte le midi.* 
+*Voici l'exemple d'un repas que j'emporte le midi.* 
 
 ![Repas lunch box avec petit pois-carotte et galette de légumes, yaourt nature maison, pomme et chocolat ](/img/exemple-lunch-box.jpg "Exemple repas lunch box")
 
@@ -53,7 +53,7 @@ Le petit plus, si vous disposez d’un casier à votre travail vous pouvez appor
 
 ## Pas de pression, on fait de son mieux :
 
-Comme pour tout ce qui concerne le zéro déchet, **pas besoin de se mettre la pression**. En effet, il arrive que des jours on n’a pas le temps de préparer sa lunch box. Dans ces moments-là, je vous conseille de favoriser les restaurations qui vont feront le moins de déchets (comme par exemple un sandwich en boulangerie au lieu d’un sandwich acheté en super marché). Également, dans certaines villes, des restaurations proposent des contenants en verre consignés. Ou encore si vous êtes vraiment organisé vous pouvez garder un tupperware vide dans votre casier au travail et demandé au commerçant de mettre votre repas dedans.
+Comme pour tout ce qui concerne le zéro déchet, <u>pas besoin de se mettre la pression</u>. En effet, il arrive que des jours on n’a pas le temps de préparer sa lunch box. Dans ces moments-là, je vous conseille de favoriser les restaurations qui vont feront le moins de déchets (comme par exemple un sandwich en boulangerie au lieu d’un sandwich acheté en super marché). Également, dans certaines villes, des restaurations proposent des contenants en verre consignés. Ou encore si vous êtes vraiment organisé vous pouvez garder un tupperware vide dans votre casier au travail et demandé au commerçant de mettre votre repas dedans.
 
 Ce n’est pas grave, si lors d’un repas on n’est pas 100% zéro déchet. C’est même impossible de l’être toute l’année. Il faut donc **déculpabiliser**, essayer simplement d’opter pour la meilleure solution et de **faire de son mieux**. 
 

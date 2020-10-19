@@ -19,10 +19,10 @@ Nombre de personne : 4 personnes
 * 400g de bœuf haché
 * 1 cube de bouillon miso au curry
 * 30 de maïs
-*  90g de chou blanc
-*  4 champignons
+* 90g de chou blanc
+* 4 champignons
 * 4 jaunes d’œufs
-*  1 gousse d’ail
+* 1 gousse d’ail
 * 1 cuillère à soupe de persil congelé
 * sel/poivre/piment de cayenne
 * huile d’olive
@@ -52,7 +52,7 @@ Faites revenir pendant quelques minutes.
 ![Boeuf et légumes en cuisson à la poêle](/img/melanges-viande-et-legumes.jpg "Boeuf et légumes à la poêle")
 
 Une fois que les nouilles sont cuites, mettez du bouillon de côté dans un autre récipient à l’aide d’une louche. Puis égouttez-les.\
-*Vous pouvez mettre un filet d’huile dans vos nouilles afin qu’ils ne collent pas*.
+*Vous pouvez mettre un filet d’huile dans vos nouilles afin qu’elles ne collent pas*.
 
 Pour le dressage, utilisez une assiette creuse.\
 Tout d’abord, disposez les nouilles de udon au fond de l’assiette puis par-dessus le mélange de bœuf et légumes. Ajoutez du bouillon au miso afin que les pâtes « baignent » dedans. Pour finir, disposez un jaune d’œuf au milieu du plat.

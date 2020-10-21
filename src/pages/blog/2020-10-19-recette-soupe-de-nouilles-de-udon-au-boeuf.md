@@ -24,8 +24,8 @@ Nombre de personne : 4 personnes
 * 4 jaunes d’œufs
 * 1 gousse d’ail
 * 1 cuillère à soupe de persil congelé
-* sel/poivre/piment de cayenne
-* huile d’olive
+* Sel/poivre/piment de cayenne
+* Huile d’olive
 
 ## Réalisation :
 

@@ -9,8 +9,7 @@ featuredimage: /img/pain.jpg
 tags:
   - antigaspi
 ---
-
-**Le Pain** : aliment indispensable pour les Français ! On a tendance à le gaspiller car une baguette du jour _bien croustillante_ est meilleure que du pain dur. Mais il existe de nombreuses manières de le réutiliser afin de ne plus le gaspiller.
+**Le Pain** : aliment indispensable pour les Français ! On a tendance à le gaspiller car une baguette du jour *bien croustillante* est meilleure que du pain dur. Mais il existe de nombreuses manières de le réutiliser afin de ne plus le gaspiller.
 
 ## 1ère possibilité : Faire sa chapelure maison
 
@@ -25,7 +24,7 @@ Se converse très longtemps dans un pot en verre.
 
 Préchauffez le four à 180°.\
 Coupez le pain dur en petit des.\
-Disposez-les sur une plaque de cuisson et imbibez-les d’huile d’olive.\
+Disposez-les sur une plaque de cuisson et imbibez-les d’huile d’olive à l'aide d'un pinceau.\
 Vous pouvez rajouter des épices ou même de l’ail si vous voulez ajouter un goût particulier.\
 Faire dorer au four entre 10/15 minutes (à surveiller en fonction des fours).\
 Se conserve très bien dans un bocal en verre.
@@ -38,8 +37,8 @@ Se conserve très bien dans un bocal en verre.
 
 À faire lorsque le pain ne date que de quelques jours et qu’il n’est pas encore trop dur.
 
-- Des toasts grillés au grille-pain ou au four. Vous pouvez les utiliser pour l’apéro par exemple ou avec du fromage fondu.
-- Du pain perdu. En dessert ou pour le petit-déjeuner, c’est délicieux et assez facile à réaliser.
+* Des toasts grillés au grille-pain ou au four. Vous pouvez les utiliser pour l’apéro par exemple ou avec du fromage fondu.
+* Du pain perdu. En dessert ou pour le petit-déjeuner, c’est délicieux et assez facile à réaliser.
 
 ## 4ème possibilité :
 
@@ -47,4 +46,4 @@ Si vraiment vous avez trop de pain et que vous adorez les animaux, vous pouvez a
 
 <br>
 
-Avec toutes _ces astuces_, il n’y a vraiment **plus aucune** **raison** de jeter du pain !
+Avec toutes *ces astuces*, il n’y a vraiment **plus aucune** **raison** de jeter du pain !

@@ -6,7 +6,6 @@ description: "Recette en préparation / Article en écriture "
 featuredpost: true
 featuredimage: /img/fouet.jpg
 tags:
-  - vegetarien
   - autre
 ---
 

@@ -8,7 +8,7 @@ description: Les udon sont un type de nouille beaucoup cuisiné au Japon. Elles
 featuredpost: true
 featuredimage: /img/udons-plat.jpg
 tags:
-  - viande
+  - plats
 ---
 Temps de préparation : 40min\
 Nombre de personne : 4 personnes

@@ -83,4 +83,4 @@ Réservez votre cheesecake au frais pendant quelques heures et retirez le tour d
 
 Anti-gaspi : S’il vous reste du coulis, vous pouvez l’utiliser avec des yaourts ou des fromages blancs. Sinon, vous pouvez le mettre au congélateur (dans des bacs à glaçons) pour l’utiliser dans une prochaine recette.
 
-![Coulis de fruits-rouges dans un bac à glaçons](/img/coulis-dans-bac-à-glaçons-.jpg "Coulis dans un bac à glaçons")
+![Coulis de fruits-rouges dans un bac à glaçons](/img/coulis-dans-bac-a-glacons-.jpg "Coulis dans un bac à glaçons")

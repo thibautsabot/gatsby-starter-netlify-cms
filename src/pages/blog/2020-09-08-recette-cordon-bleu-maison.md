@@ -7,7 +7,7 @@ description: >
 featuredpost: true
 featuredimage: /img/cordon-bleu-coupe.jpg
 tags:
-  - viande
+  - plats
 ---
 Temps de préparation : 30 min\
 Nombre de personne : 2 personnes\

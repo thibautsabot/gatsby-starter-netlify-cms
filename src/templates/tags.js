@@ -10,7 +10,7 @@ const TITLE = {
   zerodechet: "Zero Déchet",
   entree: "Entrées",
   vegetarien: "Plats végétariens",
-  viande: "Plats avec viandes",
+  plats: "Plats",
   dessert: "Desserts",
   petitdej: "Petit déjeuner",
   antigaspi: "Anti gaspi",

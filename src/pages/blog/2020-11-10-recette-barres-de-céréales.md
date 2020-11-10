@@ -17,10 +17,10 @@ Temps de préparation : 30 min
 ## Ingrédients :
 
 * 20g de riz soufflé
-*  120g mélange crunchy (magasin vrac)
-*  50g de sucre
-*  1 cuillère à soupe miel
-*  180g de chocolat au lait ou noir
+* 120g mélange crunchy (magasin vrac)
+* 50g de sucre
+* 1 cuillère à soupe miel
+* 180g de chocolat au lait ou noir
 
 ## Réalisation :
 
@@ -42,8 +42,7 @@ Versez le caramel, le miel et mélangez l’ensemble à l’aide d’une spatule
 
 ![Riz soufflé et crunchy en vrac avec caramel et miel ](/img/melange-avec-caramel.jpg "Riz soufflé et crunchy ")
 
-Versez le tout sur une plaque avec du papier sulfurisé ou une plaque en silicone (ou même dans des moules à financier). Tassez la préparation afin que l’ensemble soit bien compact.\
-Réservez votre préparation au réfrigérateur ou au congélateur.
+Versez le tout sur une plaque avec du papier sulfurisé ou une plaque en silicone (ou même dans des moules à financier). Tassez la préparation afin que l’ensemble soit bien compact. Réservez votre préparation au réfrigérateur ou au congélateur.
 
 Pendant ce temps, faites fondre votre chocolat au bain-marie.\
 Une fois votre préparation bien fondue, répartissez une couche de chocolat sur vos barres.\

@@ -36,16 +36,13 @@ Dans le deuxième plat, montez les blancs en neige avec une pincée de sel.\
 Ensuite, coupez les 30g de chocolat restant en petits morceaux.
 
 Pour finir, ajoutez le chocolat tiède au mélange jaunes d’œufs/sucre. \
-Incorporer ensuite petit à petit et délicatement les blancs en neige à la préparation.\
-Et pour la gourmandise finale, rajoutez les 30g de copeaux de chocolat à la mousse au chocolat.
+Incorporer ensuite petit à petit et délicatement les blancs en neige à la préparation.
 
 ![Préparation chocolat, jaune d'oeuf et sucre mélangé avec les blancs en neige](/img/newddd.jpg "Préparation mousse au chocolat ")
 
-
+Et pour la gourmandise finale, ajoutez les 30g de copeaux de chocolat à la mousse au chocolat.
 
 ![Copeaux de chocolat ](/img/chocolat-new-d.jpg "Copeaux de chocolat ")
-
-
 
 Vous pouvez soit laisser votre préparation dans un grand saladier ou la mettre directement dans des ramequins individuels.\
 Laissez 3h-4h au réfrigérateur afin que la mousse au chocolat prenne parfaitement.

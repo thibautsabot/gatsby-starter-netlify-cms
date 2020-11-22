@@ -33,24 +33,23 @@ Cuisson : 35 min au four à 180°
 
 Préchauffez le four à 180°.
 
-Épluchez et rappez finement les courgettes.
+Épluchez et râpez finement les courgettes.
 
 Faire fondre le chocolat au bain-marie avec 2 cuillères à soupe de lait.
 
-Dans un saladier, mélangez le sirop d’agave, le miel et l’extrait de vanille avec les 3 œufs. Ajoutez ensuite la farine et la levure. \
-Mélangez jusqu’à obtenir une pâte homogène.\
+Dans un saladier, mélangez le sirop d’agave, le miel et l’extrait de vanille avec les œufs. Ajoutez ensuite la farine et la levure. Mélangez jusqu’à obtenir une pâte homogène.\
 **Si vous souhaitez que votre cake ait une texture plus fondante qu'aérienne, ajoutez seulement un demi sachet de levure.*
 
-Rajoutez à la pâte le chocolat fondu puis ensuite les courgettes.
-
-Beurrez et farinez un moule à cake et versez votre préparation dedans.\
-Vous pouvez rajouter des pépites de chocolat sur le dessus pour toujours plus de gourmandise.
-
-Enfournez votre gâteau à 180°, pendant environ 30 min.
+Versez le chocolat fondu dans la pâte et ensuite les courgettes.
 
 ![Préparation du cake avec les courgettes](/img/preparation-cake-.jpg "Préparation cake")
 
+Beurrez et farinez un moule à cake et versez votre préparation. \
+*Vous pouvez ajouter des pépites de chocolat sur le dessus pour toujours plus de gourmandise.*
+
 ![Préparation du cake dans le moule avec les pépites de chocolat](/img/cake-moule.jpg "Préparation du cake dans le moule")
+
+Enfournez votre gâteau à 180°, pendant environ 30 min.
 
 ![Tranche du cake au chocolat ](/img/cake-chocolat-2.jpg "Cake au chocolat")
 

@@ -27,7 +27,7 @@ Pour le calendrier de l’avent Sapin, j’ai opté pour du chocolat et 5 cadeau
 
 ![Matériels: papier crépon, ruban, 1 branche de bois, ficelle, feuille cartonnée ](/img/calendrier-2-finito.png "DIY Calendrier de l'avent GUIRLANDE")
 
-![Découpez des cercles numérotés de 1 à 24 dans une feuille cartonnée. Découpez des morceaux de papier crépon de 13cm/13cm. Mettre un chocolat dans chaque feuille et refermez à l’aide d’un ruban. Accrochez chaque chocolat à la branche de bois. A l’aide d’une ficelle nouée à chaque extrémité de la branche, accrochez votre calendrier de l’avent au mur. ](/img/calendrier-2-etape.png "Les différentes étapes du DIY")
+![Découpez des cercles numérotés de 1 à 24 dans une feuille cartonnée. Découpez des morceaux de papier crépon de 13cm/13cm. Mettre un chocolat dans chaque feuille et refermez à l’aide d’un ruban. Accrochez chaque chocolat à la branche de bois. A l’aide d’une ficelle nouée à chaque extrémité de la branche, accrochez votre calendrier de l’avent au mur. ](/img/calendrier-11112-etape-.png "Les différentes étapes du DIY")
 
 Pour le calendrier de l’avent Guirlande, je suis restée classique, j’ai uniquement mis du chocolat.\
 \

@@ -5,7 +5,7 @@ date: 2020-11-26T15:44:48.266Z
 description: |
   Magie de noël et écologie, peut-ont allier les deux ? 
 featuredpost: true
-featuredimage: /img/couverture-noel-.png
+featuredimage: /img/20201121_170410.jpg
 tags:
   - zerodechet
 ---
@@ -21,7 +21,7 @@ Alors cette année, j’ai décidé de faire mon propre calendrier de l’avent.
 
 ![Matériels : carton, papier crépon, peinture, 13 rouleaux papier toilette, ruban ](/img/calendier-sapin-final.png "DIY Calendrier de l'avent SAPIN")
 
-![ Découpez le carton et les rouleaux de papier toilette. Disposez-les en forme de sapin. Collez et peignez le montage. Ajoutez des chocolats ou dans cadeaux dans votre sapin. Refermez les 25 pièces du sapin à l’aide de papier crépon et ruban. Numérotez les cases.](/img/c-2-test.png "Les différentes étapes du DIY")
+![ Découpez le carton et les rouleaux de papier toilette. Disposez-les en forme de sapin. Collez et peignez le montage. Ajoutez des chocolats ou dans cadeaux dans votre sapin. Refermez les 25 pièces du sapin à l’aide de papier crépon et ruban. Numérotez les cases.](/img/calendrier-1-etape.png "Les différentes étapes du DIY")
 
 Pour le calendrier de l’avent Sapin, j’ai opté pour du chocolat et 5 cadeaux. J’ai donc choisi des petits cadeaux écoresponsables achetés à des petits commerçants sur Etsy, en librairie ou magasin zéro déchet.
 

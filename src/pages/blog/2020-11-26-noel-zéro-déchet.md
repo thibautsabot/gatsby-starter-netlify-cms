@@ -5,7 +5,7 @@ date: 2020-11-26T15:44:48.266Z
 description: |
   Magie de noël et écologie, peut-ont allier les deux ? 
 featuredpost: true
-featuredimage: /img/20201121_170410.jpg
+featuredimage: /img/couverture-noel-.png
 tags:
   - zerodechet
 ---
@@ -21,13 +21,13 @@ Alors cette année, j’ai décidé de faire mon propre calendrier de l’avent.
 
 ![Matériels : carton, papier crépon, peinture, 13 rouleaux papier toilette, ruban ](/img/calendier-sapin-final.png "DIY Calendrier de l'avent SAPIN")
 
-![ Découpez le carton et les rouleaux de papier toilette. Disposez-les en forme de sapin. Collez et peignez le montage. Ajoutez des chocolats ou dans cadeaux dans votre sapin. Refermez les 25 pièces du sapin à l’aide de papier crépon et ruban. Numérotez les cases.](/img/calendrier-1-etape.png "Les différentes épates du DIY")
+![ Découpez le carton et les rouleaux de papier toilette. Disposez-les en forme de sapin. Collez et peignez le montage. Ajoutez des chocolats ou dans cadeaux dans votre sapin. Refermez les 25 pièces du sapin à l’aide de papier crépon et ruban. Numérotez les cases.](/img/c-2-test.png "Les différentes étapes du DIY")
 
 Pour le calendrier de l’avent Sapin, j’ai opté pour du chocolat et 5 cadeaux. J’ai donc choisi des petits cadeaux écoresponsables achetés à des petits commerçants sur Etsy, en librairie ou magasin zéro déchet.
 
 ![Matériels: papier crépon, ruban, 1 branche de bois, ficelle, feuille cartonnée ](/img/calendrier-2-finito.png "DIY Calendrier de l'avent GUIRLANDE")
 
-![Découpez des cercles numérotés de 1 à 24 dans une feuille cartonnée. Découpez des morceaux de papier crépon de 13cm/13cm. Mettre un chocolat dans chaque feuille et refermez à l’aide d’un ruban. Accrochez chaque chocolat à la branche de bois. A l’aide d’une ficelle nouée à chaque extrémité de la branche, accrochez votre calendrier de l’avent au mur. ](/img/calendrier-2-etape.png "Les différentes épates du DIY")
+![Découpez des cercles numérotés de 1 à 24 dans une feuille cartonnée. Découpez des morceaux de papier crépon de 13cm/13cm. Mettre un chocolat dans chaque feuille et refermez à l’aide d’un ruban. Accrochez chaque chocolat à la branche de bois. A l’aide d’une ficelle nouée à chaque extrémité de la branche, accrochez votre calendrier de l’avent au mur. ](/img/calendrier-2-etape.png "Les différentes étapes du DIY")
 
 Pour le calendrier de l’avent Guirlande, je suis restée classique, j’ai uniquement mis du chocolat.\
 \

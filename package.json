@@ -5,6 +5,7 @@
   "author": "Thibaut Sabot",
   "dependencies": {
     "bulma": "^0.9.1",
+    "cross-env": "^7.0.2",
     "dotenv": "^8.2.0",
     "gatsby": "^2.27.4",
     "gatsby-cli": "^2.14.1",
@@ -49,7 +50,7 @@
     "clean": "gatsby clean",
     "fastdev": "GATSBY_EXPERIMENTAL_FAST_DEV=true gatsby develop",
     "start": "npm run develop",
-    "build": "npm run clean && gatsby build",
+    "build": "cross-env GATSBY_EXPERIMENTAL_PAGE_BUILD_ON_DATA_CHANGES=true gatsby build --log-pages",
     "develop": "npm run clean && gatsby develop",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"{gatsby-*.js,src/**/*.js}\"",
     "test": "echo \"Error: no test specified\" && exit 1"

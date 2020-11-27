@@ -8,6 +8,5 @@
 }
 
 .gatsby-resp-image-image {
-  object-fit: cover !important;
-  border-radius: 8px !important;
+  object-fit: contain !important;
 }

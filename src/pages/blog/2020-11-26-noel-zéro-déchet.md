@@ -9,7 +9,7 @@ featuredimage: /img/20201121_170410.jpg
 tags:
   - zerodechet
 ---
-Les fêtes de fin d’année sont féeriques et magiques, pour moi, noël est de loin ma fête préférée ! Elle signifie le partage, les moments en famille, les bons repas… Mais cette année, j’ai réalisé que cette période été rythmée par une surconsommation importante avec les cadeaux, les décorations, la nourriture... On a tendance à cumuler des achats non responsables et très coûteux. Au vu de ma prise de conscience écologique cette année, j’ai décidé de faire un noël zéro déchet. Mais honnêtement, un noël totalement zéro déchet est presque impossible. Je vais donc vous partager mes astuces pour réduire au maximum ses déchets, limiter sa consommation et favoriser une consommation plus responsable.
+Les fêtes de fin d’année sont féeriques et magiques, pour moi, noël est de loin ma fête préférée ! Elle signifie le partage, les moments en famille, les bons repas… Mais cette année, j’ai réalisé que cette période était rythmée par une surconsommation importante avec les cadeaux, les décorations, la nourriture... On a tendance à cumuler des achats non responsables et très coûteux. Au vu de ma prise de conscience écologique cette année, j’ai décidé de faire un noël zéro déchet. Mais honnêtement, un noël totalement zéro déchet est presque impossible. Je vais donc vous partager mes astuces pour réduire au maximum ses déchets, limiter sa consommation et favoriser une consommation plus responsable.
 
 L’objectif est d’avoir un noël tout autant magique en étant plus respectueux de la planète. Le petit plus, c’est qu’il sera aussi plus économique.
 

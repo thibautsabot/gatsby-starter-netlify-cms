@@ -4,7 +4,7 @@ title: "Recette boissons chaudes pour l'hiver "
 date: 2020-12-01T16:52:16.192Z
 description: >
   Voici 5 recettes de boissons chaudes pour des pauses gourmandes et
-  réconfortantes.  
+  réconfortantes durant l'hiver.  
 featuredpost: true
 featuredimage: /img/couverture-boisson.jpg
 tags:

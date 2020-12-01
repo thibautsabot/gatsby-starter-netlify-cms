@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Noel zéro déchet
+title: Noël zéro déchet
 date: 2020-11-26T15:44:48.266Z
 description: |
   Magie de noël et écologie, peut-ont allier les deux ? 

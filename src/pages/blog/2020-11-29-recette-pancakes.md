@@ -42,4 +42,4 @@ Versez une louche de préparation et faites cuire quelques minutes jusqu’à l�
 
 ![Cuisson pancake de la deuxième face ](/img/cuisson-pancake-2.jpg "Cuisson pancake á la poêle")
 
-Vous pouvez accompagner vos pancakes de sirop d’érable, de sirop d’agave, de pâte à tartiner, confiture…
+Vous pouvez accompagner vos pancakes de sirop d’érable, de sirop d’agave, de pâte à tartiner, de confiture…

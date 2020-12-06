@@ -27,7 +27,8 @@ Temps de cuisson : 25min
 
 Épluchez la pomme et le coing. Découpez-les en petits dés.
 
-Dans une casserole, déposez les fruits avec l’eau et l’extrait de vanille. Faites cuire pendant 30 minutes. Mixer légèrement votre préparation à l’aide d’un plongeur à soupe (le but étant qu’il reste quelques morceaux de fruits) puis laissez refroidir.
+Dans une casserole, déposez les fruits avec l’eau et l’extrait de vanille. Faites cuire pendant 30 minutes. \
+Mixer légèrement votre préparation à l’aide d’un plongeur à soupe (le but étant qu’il reste quelques morceaux de fruits) puis laissez refroidir.
 
 ![Pomme et coing coupés en dés en cuisson dans une casserole](/img/fruits-en-cuisson.jpg "Fruits en cuisson")
 
@@ -35,7 +36,8 @@ Dans une casserole, déposez les fruits avec l’eau et l’extrait de vanille. 
 
 Ensuite, préchauffez le four à 180°.
 
-Étalez votre première pâte feuilletée sur une plaque de cuisson et déposez la compotée refroidie en laissant les bords libres sur 1cm environ. Badigeonnez les bords d’œuf battu à l’aide d’un pinceau.
+Étalez votre première pâte feuilletée sur une plaque de cuisson et déposez la compotée refroidie en laissant les bords libres sur 1cm environ. \
+Badigeonnez les bords d’œuf battu à l’aide d’un pinceau.
 
 ![Pâte feuilleté garnie de compotée avec les bords badigeonné d'oeuf battu](/img/premiere-pate-etoile.jpg "Pâte feuilleté garnie de compotée pomme-coing")
 

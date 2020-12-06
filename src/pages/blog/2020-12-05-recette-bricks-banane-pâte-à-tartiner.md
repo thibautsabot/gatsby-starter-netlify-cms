@@ -32,7 +32,9 @@ Sur un morceau de feuille de brick, déposez une cuillère à soupe de pâte à 
 
 ![Banane, pâte à tartiner sur un morceau de feuille de brick et une brick plié en forme de samoussa](/img/preparation-brick-banane.jpg "Réalisation brick banane-pâte à tartiner")
 
-Répétez l’opération pour chaque brick. Badigeonnez-les de jaune d’œuf à l’aide d’un pinceau.
+Répétez l’opération pour chaque brick. 
+
+Badigeonnez-les ensuite de jaune d’œuf à l’aide d’un pinceau.
 
 ![Bricks formé et badigeonné de jaune d'oeuf sur une plaque de cuisson ](/img/samoussa-a-cuire.jpg "Bricks avant cuisson")
 

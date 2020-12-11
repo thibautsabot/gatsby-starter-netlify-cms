@@ -53,7 +53,7 @@ Cette année, pour que vos cadeaux soient plus écologiques, favorisez des marqu
 
 Si vous devez faire votre liste de cadeaux, réfléchissez à des idées de cadeaux utiles, qui vous feront vraiment plaisir et à des idées à tous les prix pour que les personnes puissent choisir en fonction de leur budget. Précisez également qu’un cadeau de seconde main ne vous dérange pas et que l’emballage n’a pas d’importance. Ces petits éléments, permettent d’éviter les surplus et les cadeaux inutiles. 
 
-### 15 idées de cadeaux écologique et responsable à offrir :
+### 15 idées de cadeaux écologiques et responsables à offrir :
 
 1. Des expériences, voyages (places de spectacle, de concert, massage, séjour…)
 2. Des cours (de cuisine, de poterie, d’art floral, de peinture, de photo…)

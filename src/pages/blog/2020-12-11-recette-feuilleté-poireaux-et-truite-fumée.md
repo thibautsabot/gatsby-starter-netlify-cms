@@ -5,7 +5,7 @@ date: 2020-12-11T10:37:21.512Z
 description: Proche du saumon, la truite fumée se marie également très bien avec
   le poireau. Cette recette est parfaite pour toute occasion.
 featuredpost: true
-featuredimage: /img/poireau-couverture-2.jpg
+featuredimage: /img/poireau-couverture-.jpg
 tags:
   - plats
 ---

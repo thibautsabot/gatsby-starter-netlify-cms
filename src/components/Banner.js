@@ -1,5 +1,4 @@
 import React from "react";
-import logos from "../img/banner_icon.png";
 
 class Banner extends React.Component {
   render() {
@@ -8,28 +7,21 @@ class Banner extends React.Component {
         role="banner"
         className="full-width-image-container margin-top-0"
         style={{
-          backgroundImage: `url(${require("../img/banner.jpg")})`,
-          backgroundPositionY: "30%",
+          backgroundImage: `url(${require("../img/banner.png")})`,
+          backgroundPositionY: "15%",
         }}
       >
         <h1
           className="has-text-weight-bold banner-text"
           style={{
-            boxShadow: "0.3rem 0 0 #008000, -0.3rem 0 0 #008000",
+            border: "solid 0.2rem white",
             color: "whitesmoke",
-            padding: "0 1rem",
+            padding: "1rem",
             marginBottom: "0",
           }}
         >
           {this.props.title}
         </h1>
-        <img
-          alt="logos banniere"
-          width="780"
-          height="150"
-          className="icon-logos"
-          src={logos}
-        />
       </div>
     );
   }

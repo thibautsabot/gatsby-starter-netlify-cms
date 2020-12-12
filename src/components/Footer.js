@@ -1,5 +1,6 @@
 import React from 'react'
 import instagram from '../img/social/instagram.svg'
+import pinterest from '../img/social/pinterest.svg'
 
 const Footer = class extends React.Component {
   render() {
@@ -24,6 +25,13 @@ const Footer = class extends React.Component {
                   <img
                     src={instagram}
                     alt="Instagram"
+                    style={{ width: '1em', height: '1em' }}
+                  />
+                </a>
+                <a title="pinterest" href="https://www.pinterest.fr/bananeplantee/">
+                  <img
+                    src={pinterest}
+                    alt="Pinterest"
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>

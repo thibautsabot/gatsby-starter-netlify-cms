@@ -35,7 +35,7 @@ L’avantage, c’est qu’on peut vraiment faire ce qu’on veut et mettre ce q
 
 ## **Décoration de noël :**
 
-Pour être dans l’ambiance de noël, le moment indispensable est la décoration de son sapin et sa maison. Pour l’occasion, les magasins regorgent de nombreuses nouvelles décorations.
+Pour être dans l’ambiance de noël, le moment indispensable est la décoration de son sapin et de sa maison. Pour l’occasion, les magasins regorgent de nombreuses nouvelles décorations.
 
 Mais cette année, vous pouvez faire le choix de ne rien acheter de neuf car on a souvent déjà assez de décorations.
 

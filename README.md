@@ -25,7 +25,7 @@
 ### Access Locally
 
 ```
-$ yarn
+$ npm i
 $ ntl dev OR npm run fastdev (:warning: experimental)
 ```
 

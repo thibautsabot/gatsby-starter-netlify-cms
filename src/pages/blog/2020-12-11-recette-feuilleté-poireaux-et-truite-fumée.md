@@ -35,7 +35,7 @@ Ajoutez les deux tranches de truites par-dessus. Et pour finir, parsemez de gruy
 
 ![Garniture feuilleté au centre de la pâte](/img/garniture-sur-pate.jpg "Garniture feuilleté")
 
-Découpez des bandes de pâte de chaque côté de la garniture, rabattez chaque bandes en les croisant les unes sur les autres. 
+Découpez des bandes de pâte de chaque côté de la garniture, rabattez chaque bande en les croisant les unes sur les autres. 
 
 ![Tressage des bandes de pâte feuilletée sur la garniture ](/img/montage-feuilletage.jpg "Réalisation du feuilleté")
 

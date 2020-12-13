@@ -23,24 +23,18 @@ Nombre de parts : 2 personnes / une douzaine de nuggets
 * Sel/poivre/noix de muscade
 * Huile neutre ou pour friture
 
- 
-
 ## Réalisation :
 
-Hachez les blancs de poulet à l’aide d’un mixeur.
-
+Hachez les blancs de poulet à l’aide d’un mixeur.\
 Formez ensuite vos nuggets à l’aide de farine pour qu’ils ne collent pas.
-
- 
 
 ![Viande haché fait en formé de nuggets à l'aide de farine](/img/nuggets-forme.jpg "Formation des nuggets")
 
-Dans un saladier, versez la farine, la maïzena et la levure puis mélangez. Incorporez l’eau gazeuse au fur et à mesure. Assaisonnez votre pâte à nuggets avec du sel, du poivre et une pincée de noix de muscade.\
+Dans un saladier, versez la farine, la maïzena et la levure puis mélangez. Incorporez l’eau gazeuse au fur et à mesure. \
+Assaisonnez votre pâte à nuggets avec du sel, du poivre et une pincée de noix de muscade.\
 *(Si la pâte est un peu trop liquide vous pouvez ajouter 10g de farine)*
 
 ![Pâte à nuggets dans un saladier](/img/pate-nuggets.jpg "Pâte à nuggets ")
-
- 
 
 Faites chauffer l’huile à feu moyen dans une grande poêle.\
 Une fois que l’huile est bien chaude, trempez vos nuggets dans la pâte puis déposez-les dans la poêle.

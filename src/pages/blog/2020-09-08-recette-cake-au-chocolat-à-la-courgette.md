@@ -23,7 +23,7 @@ Cuisson : 35 min au four à 180°
 * 2 cuillères à soupe de lait
 * 3 œufs
 * 80g de farine
-* 1 sachet de levure
+* 1 sachet de levure chimique
 * 40g de sirop d’agave
 * 10g de miel
 * 1 cuillère à café d’extrait de vanille
@@ -49,7 +49,7 @@ Beurrez et farinez un moule à cake et versez votre préparation. \
 
 ![Préparation du cake dans le moule avec les pépites de chocolat](/img/cake-moule.jpg "Préparation du cake dans le moule")
 
-Enfournez votre gâteau à 180°, pendant environ 30 min.
+Enfournez votre gâteau à 180°, pendant 35 à 40 minutes.
 
 ![Tranche du cake au chocolat ](/img/cake-chocolat-2.jpg "Cake au chocolat")
 

@@ -16,7 +16,7 @@ Nombre de personnes : 4
 
 ## Ingrédients :
 
-*  4 filets de poulet (environ 1 filet de poulet par personne)\
+* 4 filets de poulet (environ 1 filet de poulet par personne)\
   *Ajoutez des filets de poulet si besoin, en fonction du nombre de personne.*
 
  Pour la marinade :
@@ -68,7 +68,7 @@ Faites mijoter pendant 10minutes.
 
 ![Tous les ingrédients de la sauce dans un poêle en train de mijoter ](/img/preparation-sauce-.jpg "Préparation de la sauce ")
 
-Mixer la sauce au blender afin d’avoir une sauce liquide.  
+Mixer la sauce au blender afin d’obtenir une sauce liquide.  
 
 ![Sauce du butter chicken mixée dans un saladier](/img/sauce-chicken.jpg "Sauce du butter chicken")
 
@@ -76,10 +76,10 @@ Dans une poêle faites revenir les morceaux de poulet avec la marinade entre 5 �
 
 ![Morceaux de poulet avec la marinade en cuisson](/img/poulet-en-cuisson.jpg "Morceaux de poulet en cuisson")
 
-Ajoutez ensuite la sauce mixée et laissez mijoter 15 minutes environ.  
+Ajoutez ensuite la sauce mixée et laissez mijoter de nouveau pendant 15 minutes environ.  
 
 ![Morceaux de poulet avec la sauce dans une poêle en train de mijoter](/img/poulet-qui-mijote.jpg "Morceaux de poulet avec la sauce")
 
 </br>
 
-Accompagnez votre plat avec du riz.
+Vous pouvez accompagner votre plat avec du riz.

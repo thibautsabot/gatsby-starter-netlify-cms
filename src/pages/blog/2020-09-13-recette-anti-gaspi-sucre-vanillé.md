@@ -3,9 +3,9 @@ templateKey: blog-post
 title: Recette anti-gaspi sucre-vanillé
 date: 2020-09-13T15:04:00.771Z
 description: >
-  La fabrication de votre propre sucre-vanillé vous permet de ne plus acheter de
-  sucre-vanillé dans le commerce (et donc de réduire vos achats et déchets) et
-  vous permet d’éviter le gaspillage d’un produit qui rare et coûteux.
+  La fabrication de votre propre sucre-vanillé se réalise grâce aux gousses de
+  vanille déjà utilisées dans vos desserts. Plus besoin d'en acheter, et en plus
+  cela vous permet d’éviter le gaspillage d’un produit qui rare et coûteux.
 featuredpost: true
 featuredimage: /img/sucre-vanille-maison.jpg
 tags:

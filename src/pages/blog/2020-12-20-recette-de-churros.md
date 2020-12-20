@@ -28,7 +28,8 @@ Dans une casserole, faites fondre le beurre avec l’eau, le sel et le sucre.
 
 ![Eau, beurre, sel et sucre en train de fondre dans une casserole](/img/eau-et-beurre-fondu.jpg "Mélange eau/beurre en train de fondre")
 
-Versez la farine tamisée dans un saladier et creusez un puits. Ajoutez ensuite le mélange beurre/eau fondu. Mélangez la pâte à l’aide d’une maryse jusqu’à obtenir une pâte épaisse qui se décolle des parois.
+Versez la farine tamisée dans un saladier et creusez un puits. Ajoutez ensuite le mélange beurre/eau fondu. \
+Mélangez la pâte à l’aide d’une maryse jusqu’à obtenir une pâte épaisse qui se décolle des parois.
 
 ![Pâte à churros qui se décolle des parois ](/img/pate-a-churros-2.jpg "Pâte à churros")
 

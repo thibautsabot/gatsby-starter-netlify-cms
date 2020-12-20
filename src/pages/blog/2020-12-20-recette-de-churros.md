@@ -14,7 +14,7 @@ Temps de cuisson : quelques minutes dans la friture
 
 ## Ingrédients :
 
-*  220ml d’eau
+* 220ml d’eau
 * 60g de beurre
 * 1 pincée de sel
 * 1 cuillère à café de sucre

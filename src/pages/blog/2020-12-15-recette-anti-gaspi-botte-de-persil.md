@@ -2,10 +2,10 @@
 templateKey: blog-post
 title: Recette anti gaspi-botte de persil
 date: 2020-12-15T21:07:58.750Z
-description: Les bottes d’herbes fraîches sont très pratiques mais souvent trop
-  grandes. Elles ont tendance à être oubliées au fond du réfrigérateur et
-  finissent par être gaspillées. La solution pour éviter ce gaspillage est donc
-  la congélation.  
+description: Les bottes d’herbes fraîches aromatiques sont très pratiques mais
+  souvent trop grandes. Elles ont tendance à être oubliées au fond du
+  réfrigérateur et finissent par être gaspillées. La solution pour éviter ce
+  gaspillage est donc la congélation.  
 featuredpost: true
 featuredimage: /img/persil-découpe.jpg
 tags:

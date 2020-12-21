@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Recette du houmous 
 date: 2020-09-18T07:33:46.924Z
 description: Indispensable pour l'apéro, le houmous maison est vraiment rapide à
-  faire et surtout très délicieux. 
+  faire et surtout délicieux. 
 featuredpost: true
 featuredimage: /img/bol-houmous-.jpg
 tags:
@@ -13,7 +13,7 @@ Temps de préparation : 5 min 
 
 ## Ingrédients : 
 
-* Boite de pois chiches 350g non égoutté
+* Boite de pois chiches 350g non égouttés
 * 1 gousse d'ail 
 * 2 cuillères à soupe de citron 
 * 2 cuillères à soupe d'huile de sésame 
@@ -26,7 +26,7 @@ Dans un blinder, versez votre boîte de pois chiche avec le jus.\
 
 ![Boite de pois chiche ](/img/boite-pois-chiche.jpg "Boite de pois chiche ")
 
-Ajouter la gousse d'ail, l'huile de sésame, le jus de citron, le sel et poivre dans le blinder.
+Ajoutez la gousse d'ail, l'huile de sésame, le jus de citron, le sel et poivre dans le blinder.
 Mixez l'ensemble des ingrédients jusqu'à obtenir la texture souhaité.\
 Vérifiez l'assaisonnement sel/poivre et ajustez-le en fonction vos goûts. 
 

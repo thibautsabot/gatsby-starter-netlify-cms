@@ -8,6 +8,10 @@ module.exports = {
     title: "Banane Plantee",
     description: "Le site de cuisine zéro dechet !",
   },
+  flags: {
+    LAZY_IMAGES: true,
+    QUERY_ON_DEMAND: true,
+  },
   plugins: [
     "gatsby-plugin-robots-txt",
     "gatsby-plugin-sitemap",

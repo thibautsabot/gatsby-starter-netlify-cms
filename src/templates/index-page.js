@@ -37,7 +37,7 @@ const IndexPage = () => {
                         présentation.
                       </p>
                       <p>
-                        Sur ce blog, je vous partage donc mes nombreuses de
+                        Sur ce blog, je vous partage donc mes nombreuses
                         recettes, autant sucrées que salées. Mais également mon
                         expérience et mes astuces en ce qui concerne le zéro
                         déchet.

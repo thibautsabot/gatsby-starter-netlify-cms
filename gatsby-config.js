@@ -13,6 +13,7 @@ module.exports = {
     QUERY_ON_DEMAND: true,
   },
   plugins: [
+    "gatsby-plugin-image",
     "gatsby-plugin-robots-txt",
     "gatsby-plugin-sitemap",
     "gatsby-plugin-react-helmet",
@@ -89,8 +90,9 @@ module.exports = {
               // the content container as this plugin uses this as the
               // base for generating different widths of each image.
               maxWidth: 2048,
+              tracedSVG: true,
               withWebp: true,
-              disableBgImage: true,
+              // disableBgImage: true,
             },
           },
           {

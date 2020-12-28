@@ -25,7 +25,8 @@
 ### Access Locally
 
 ```
-$ npm i
+# use force as we are using the @next version of gatsby-plugin-image
+$ npm i --force
 $ ntl dev
 ```
 

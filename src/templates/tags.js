@@ -25,8 +25,8 @@ class TagRoute extends React.Component {
       <Layout>
         <section >
           <Helmet title={`${tag} | ${title}`} />
+          <Banner title={TITLE[tag] || "Blog"} />
           <div className="container content">
-            <Banner title={TITLE[tag] || "Blog"} />
             <div role="main"><BlogRoll data={this.props.data} /></div>
           </div>
         </section>
@@ -67,6 +67,7 @@ export const tagPageQuery = graphql`
                 fluid(maxWidth: 120, quality: 100) {
                   ...GatsbyImageSharpFluid
                 }
+                gatsbyImageData(maxWidth: 120, layout: FLUID, placeholder: DOMINANT_COLOR)
               }
             }
           }

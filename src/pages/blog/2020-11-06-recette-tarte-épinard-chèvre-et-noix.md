@@ -40,10 +40,10 @@ Temps de cuisson : 20min
 
 Dans un saladier, versez la farine et le sel. Puis, ajoutez le beurre mou.
 
-Mélangez la pâte à la main, ajoutez l’eau au fur et à mur jusqu’à obtenir une pâte homogène. Si la pâte colle trop, vous pouvez ajouter un peu de farine (20g environ).\
+Mélangez la pâte à la main, ajoutez l’eau au fur et à mesure jusqu’à obtenir une pâte homogène. Si la pâte colle trop, vous pouvez ajouter un peu de farine (20g environ).\
 Si vous le souhaitez, ajoutez la cuillère d’huile de noix et le piment d’Espelette.
 
-*Vous pouvez préparer la pâte en avance et la laissez reposer au frigo.*
+*Vous pouvez préparer la pâte en avance et la laisser reposer au frigo.*
 
 ### Préparation de la garniture :
 
@@ -71,6 +71,6 @@ Faites cuire votre tarte au four pendant environ 20min.
 
 <br>
 
-*Et bien sur, pas de gaspillage, comme il me restait de la pâte j'en ai profité pour faire une petite tarte chèvre/miel/noix.* 
+*Et bien sûr, pas de gaspillage, comme il me restait de la pâte j'en ai profité pour faire une petite tarte chèvre/miel/noix.* 
 
 ![Tarte chèvre miel noix fait avec le reste de pâte](/img/tarte-chevre-miel.jpg "Tarte chèvre miel noix")

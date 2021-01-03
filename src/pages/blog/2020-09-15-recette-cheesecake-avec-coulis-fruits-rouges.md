@@ -33,7 +33,7 @@ Pour le cheesecake
 
 Pour le coulis : 
 
-* 300g de fruits rouges congelé
+* 300g de fruits rouges congelés
 * 2 feuilles de gélatine
 
 Pour cette recette, j’utilise un moule rond à charnière afin de faciliter le démoulage.
@@ -71,9 +71,9 @@ Mettez les feuilles de gélatine dans un bol d’eau froide.\
 \
 Faites fondre les fruits rouges congelés dans une casserole.\
 Pour avoir un coulis très lisse, mixez les fruits avec un plongeur et passez le coulis au chinois.\
-Égouttez et ajoutez les deux feuilles de gélatine. Mélangez-les jusqu’à qu’elles soient totalement dissoutes.\
+Égouttez et ajoutez les deux feuilles de gélatine. Mélangez-les jusqu’à ce qu’elles soient totalement dissoutes.\
 \
-Déposez le coulis sur le gâteau refroidit.
+Déposez le coulis sur le gâteau refroidi.
 
 ![Cheesecake coulis fruits-rouges prêt à être dégusté](/img/cheesecake-part-et-gateau.jpg "Cheesecake coulis fruits-rouges")
 

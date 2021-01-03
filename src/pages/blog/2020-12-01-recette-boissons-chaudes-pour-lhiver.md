@@ -32,7 +32,7 @@ Conservez votre préparation dans un pot un verre.
 
 #### Ingrédients : 
 
-* 75ml de jus de pomme, 1 orange tranché, 1 cuillère à soupe de citron, 1 bâton de cannelle, 2 étoiles de badiane, 300ml d’eau 
+* 75ml de jus de pomme, 1 orange tranchée, 1 cuillère à soupe de citron, 1 bâton de cannelle, 2 étoiles de badiane, 300ml d’eau
 
 #### Réalisation :
 

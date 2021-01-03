@@ -18,7 +18,7 @@ Cuisson : 35 min au four à 180°
 
 ## Ingrédients :
 
-* 200g de courgettes rappées
+* 200g de courgettes rapées
 * 200g de chocolat noir dessert
 * 2 cuillères à soupe de lait
 * 3 œufs

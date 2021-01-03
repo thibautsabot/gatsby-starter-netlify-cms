@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: "Recette soupe de nouilles de udon au boeuf "
 date: 2020-10-19T17:16:29.532Z
-description: Les udon sont un type de nouille beaucoup cuisiné au Japon. Elles
+description: Les udon sont un type de nouilles beaucoup cuisinées au Japon. Elles
   peuvent être dégustées de différentes manières. Voici une délicieuse recette
   de soupe de nouilles au bœuf que vous pouvez épicer comme vous en avez envie.
 featuredpost: true
@@ -33,7 +33,7 @@ Dans une grande casserole, faites bouillir 2L d’eau avec le cube de bouillon a
 
 ![Cube bouillon miso au curry](/img/cube-miso.jpg "Cube miso")
 
-Pendant ce temps, égouttez votre boite de maïs et reversez 30g dans une assiette. Coupez le chou blanc en fine lamelle, le champignon en fine tranche et émincez la gousse d’ail.
+Pendant ce temps, égouttez votre boite de maïs et reversez 30g dans une assiette. Coupez le chou blanc en fines lamelles, le champignon en fines tranches et émincez la gousse d’ail.
 
 ![Légumes découpés](/img/legumes-soupe-udons.jpg "Légumes ")
 

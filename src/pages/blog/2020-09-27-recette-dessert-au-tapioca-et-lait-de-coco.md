@@ -28,7 +28,7 @@ Temps de préparation : 20 min
 
 ## Réalisation :
 
-*Pour ce dessert, j’utilise un lait de coco à 17% de matières grasses qui à un petit goût sucré et un arôme de coco pas trop prononcé.*
+*Pour ce dessert, j’utilise un lait de coco à 17% de matières grasses qui a un petit goût sucré et un arôme de coco pas trop prononcé.*
 
 ![Lait de coco 17% de matières grasses](/img/lait-de-coco.jpg "Lait de coco ")
 
@@ -48,7 +48,7 @@ Laissez les crèmes refroidir à température ambiante avant de les mettre au fr
 
 ![Dessert au tapioca dans des ramequins](/img/pots-tapioca.jpg "Dessert au tapioca")
 
-Vous pouvez couper des fruits en petits morceaux et les ajouter sur le dessus de dessert.\
+Vous pouvez couper des fruits en petits morceaux et les ajouter sur le dessus du dessert.\
 Les fruits exotiques comme la mangue se marient très bien avec.
 
 Se conserve au réfrigérateur et se déguste froid.

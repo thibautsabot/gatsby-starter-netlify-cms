@@ -50,7 +50,7 @@ Mettez de nouveau au réfrigérateur ou au congélateur.
 
 ![Barres recouvert couche fine de chocolat ](/img/barre-en-formation.jpg "Barres en formation ")
 
-Une fois que le chocolat à bien pris, démoulez la préparation et découpez des barres de la taille que vous souhaitez.
+Une fois que le chocolat a bien pris, démoulez la préparation et découpez des barres de la taille que vous souhaitez.
 
 ![Barres finalisées à découper](/img/barres-a-decouper.jpg "Barres finalisées à découper")
 

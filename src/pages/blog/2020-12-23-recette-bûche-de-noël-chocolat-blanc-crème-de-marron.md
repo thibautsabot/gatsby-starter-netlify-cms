@@ -61,7 +61,7 @@ Laissez prendre au réfrigérateur (le chocolat va devenir solide et lisse).
 
 ### Préparation de l'insert aux marrons :
 
-Dans un moule à insert ou dans du film alimentaire, déposez la crème de marrons et les marrons cuits couper en petits morceaux.\
+Dans un moule à insert ou dans du film alimentaire, déposez la crème de marrons et les marrons cuits coupés en petits morceaux.\
 *Si vous utilisez du film alimentaire : enroulez la préparation et refermez les extrémités avec des nœuds.*
 
 ![Insert aux marrons dans du film alimentaire](/img/insert-marrons.png "Insert marrons")

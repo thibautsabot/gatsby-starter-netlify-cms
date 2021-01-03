@@ -12,7 +12,7 @@ tags:
   - antigaspi
 ---
 
-Ici, je prends l’exemple de la botte de persil pour vous partager 3 manières de congélation.
+Ici, je prends l’exemple de la botte de persil pour vous faire partager 3 manières de congeler les brins non utilisés.
 
 ## Réalisation :
 
@@ -38,7 +38,7 @@ _Vous pouvez également ajouter des morceaux d’ail si vous le souhaitez._
 
 ![Bac à glaçons avec du persil haché avec eau ou huile](/img/glacon-persil.jpg "Glaçons de persil")
 
-Les glaçons fondent rapidement réchauffez à la poêle.
+Les glaçons fondent rapidement réchauffés à la poêle.
 
 </br>
 

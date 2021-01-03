@@ -39,12 +39,12 @@ Laissez cuire à feu doux la semoule entre 5 à 10 min en fonction des indicatio
 
 \
 Dans un bol, battez un œuf entier.\
-Hors du feu, ajoutez l’œuf battu à la semoule en remuant énergiquement avec un fouette.
+Hors du feu, ajoutez l’œuf battu à la semoule en remuant énergiquement avec un fouet.
 
 Remettez votre préparation sur le feu en remuant, laissez cuire quelques minutes.
 
 Versez la semoule dans un moule à cake.\
-Laissez refroidir à température ambiante avant de les mettre au frigo pendant 3h-4h.\
+Laissez refroidir à température ambiante avant de le mettre au frigo pendant 3h-4h.\
 Se conserve au réfrigérateur et se déguste froid.
 
 ![Gâteau de semoule dans un moule à cake](/img/gateau-de-semoule.jpg "Gâteau de semoule ")

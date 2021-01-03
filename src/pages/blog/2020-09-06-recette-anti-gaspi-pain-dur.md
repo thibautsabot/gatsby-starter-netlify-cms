@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: "Recette anti-gaspi pain dur "
 date: 2020-09-06T17:35:08.011Z
-description: Dans cette catégorie de recette, je vous partage mes astuces pour
+description: Dans cette catégorie de recette, je vous fais partager mes astuces pour
   éviter le gaspillage alimentaire.
 featuredpost: true
 featuredimage: /img/pain.jpg
@@ -23,10 +23,10 @@ Se converse très longtemps dans un pot en verre.
 ## 2ème possibilité : Faire ses croutons maison
 
 Préchauffez le four à 180°.\
-Coupez le pain dur en petit des.\
+Coupez le pain dur en petit dés.\
 Disposez-les sur une plaque de cuisson et imbibez-les d’huile d’olive à l'aide d'un pinceau.\
 Vous pouvez rajouter des épices ou même de l’ail si vous voulez ajouter un goût particulier.\
-Faire dorer au four entre 10/15 minutes (à surveiller en fonction des fours).\
+Faites dorer au four entre 10/15 minutes (à surveiller en fonction des fours).\
 Se conserve très bien dans un bocal en verre.
 
 ![Des de croutons sur une plaque de cuisson ](/img/20200906_172024.jpg "Cuisson croutons ")

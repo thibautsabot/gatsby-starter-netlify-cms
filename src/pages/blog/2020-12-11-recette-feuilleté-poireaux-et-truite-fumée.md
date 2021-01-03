@@ -31,7 +31,7 @@ Découpez le poireau en tronçons. Faites-le revenir dans une poêle avec un fon
 ![Fondu de poireaux dans une poêle avec de la crème et l'assaisonnement ](/img/fondu-poireau.jpg "Fondu de poireaux")
 
 Ensuite, étalez la pâte feuilletée et déposez la fondu de poireaux au centre.\
-Ajoutez les deux tranches de truites par-dessus. Et pour finir, parsemez de gruyère.
+Ajoutez les deux tranches de truite par-dessus. Et pour finir, parsemez de gruyère.
 
 ![Garniture feuilleté au centre de la pâte](/img/garniture-sur-pate.jpg "Garniture feuilleté")
 

@@ -45,7 +45,7 @@ Pour la sauce :
 * Sel/poivre
 * Piment (piment de Cayenne en poudre ou 2 petits piments oiseau rouge)
 
-*Assaisonnez le piment dans cette recette en fonction de vos goûts.*\
+*Assaisonnez avec le piment dans cette recette en fonction de vos goûts.*\
 *Si vous le souhaitez, vous pouvez ajouter de la coriandre à cette recette.*
 
 ## Réalisation :

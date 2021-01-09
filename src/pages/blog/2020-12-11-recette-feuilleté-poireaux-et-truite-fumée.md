@@ -24,7 +24,7 @@ Temps de cuisson : 30min
 
 ## Réalisation :
 
-Préchauffez le four à 180 °.
+Préchauffez le four à 180°.
 
 Découpez le poireau en tronçons. Faites-le revenir dans une poêle avec un fond d’eau pendant 10min. Ajoutez les 2 cuillères à soupe de crème puis l’assaisonnement sel, poivre et une pincée de curry.
 

@@ -11,13 +11,13 @@ featuredimage: /img/popcorn-couverture.jpg
 tags:
   - entree
 ---
-Temps de préparation : 10 min
+Temps de préparation : 10min
 
 ## Ingrédient :
 
-*  45g de maïs spécial popcorn
-*  Huile neutre (colza, tournesol)
-*  Sel/poivre/piment de cayenne 
+* 45g de maïs spécial popcorn
+* Huile neutre (colza, tournesol)
+* Sel/poivre/piment de cayenne 
 * Paprika fumé
 
 ## Réalisation :

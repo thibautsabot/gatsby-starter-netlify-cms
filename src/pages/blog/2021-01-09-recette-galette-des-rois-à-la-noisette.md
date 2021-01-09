@@ -42,6 +42,7 @@ Badigeonnez les bords de la pâte.
 ![Mélange à la noisette déposé sur la pâte feuilletée avec une fève déposée](/img/montage-galette.jpg "Montage de la galette ")
 
 Déposez la seconde pâte feuilletée par-dessus. Appuyez sur les bords afin de les consolider.\
+\
 Réalisez la décoration de votre choix à l’aide d‘une pointe de couteau et badigeonnez du reste d’œuf pour la dorure.
 
 Faites un petit trou au centre de la galette et déposez un morceau de papier sulfurisé roulé sur lui-même afin de faire gonfler la galette.  

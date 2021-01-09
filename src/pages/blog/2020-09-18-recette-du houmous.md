@@ -9,7 +9,7 @@ featuredimage: /img/bol-houmous-.jpg
 tags:
   - entree
 ---
-Temps de préparation : 5 min 
+Temps de préparation : 5min 
 
 ## Ingrédients : 
 

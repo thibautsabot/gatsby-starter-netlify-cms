@@ -49,7 +49,8 @@ Laissez 3h-4h au réfrigérateur afin que la mousse au chocolat prenne parfaitem
 
 *Si vous êtes deux fois plus de gourmands à la table, n’hésitez pas à doubler les quantités!*
 
-*</br>*
+
+---
 
 # Variante : Mousse au chocolat liégeoise
 

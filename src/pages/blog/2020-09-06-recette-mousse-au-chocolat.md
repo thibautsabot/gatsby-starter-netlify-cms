@@ -48,3 +48,27 @@ Vous pouvez soit laisser votre préparation dans un grand saladier ou la mettre 
 Laissez 3h-4h au réfrigérateur afin que la mousse au chocolat prenne parfaitement.
 
 *Si vous êtes deux fois plus de gourmands à la table, n’hésitez pas à doubler les quantités!*
+
+*</br>*
+
+# Variante : Mousse au chocolat liégeoise
+
+## Ingrédients pour la chantilly :
+
+* 200ml de crème entière
+* 20g de sucre glace
+* 1 cuillère à soupe de sucre vanillé
+
+## Réalisation :
+
+*Placez un saladier et la crème au congélateur pendant 15min avant la réalisation de la chantilly.*
+
+Versez la crème et les sucres dans le saladier froid.\
+Montez la crème en chantilly à l’aide d’un batteur électrique en augmentant la vitesse progressivement.\
+La crème chantilly est prête lorsqu'elle est épaisse et qu'elle forme « un bec » au bout du fouet.
+
+![Crème chantilly monté au batteur électrique](/img/creme-chantilly.jpg "Crème chantilly ")
+
+Lorsque les mousses au chocolat ont bien pris, à l’aide d’une poche à douille, disposez la chantilly par dessus.  
+
+![Chantilly déposé à l'aide d'une poche à douille sur la mousse au chocolat dans un ramequin individuel ](/img/mousse-au-chocolat-chantilly.jpg "Mousse au chocolat liégeoise")

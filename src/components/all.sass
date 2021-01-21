@@ -5,14 +5,9 @@ $body-color: #333
 $black: #2b2523
 $candice-green: #007000;
 
-html, body
+html
   height: 100%;
-
-body > div
-  height: 100%;
-
-body > div > div
-  height: 100%;
+  background-color: $candice-green;
 
 .layout-children
   flex: 1
@@ -123,9 +118,10 @@ body > div > div
   margin-top: 0 !important
 
 .layout
-  height: 100%;
+  min-height: 100vh;
   display: flex;
   flex-direction: column;
+  background-color: white;
 
 // Override for use of svg's from https://simpleicons.org/
 .icon svg

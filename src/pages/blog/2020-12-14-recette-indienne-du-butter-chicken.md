@@ -12,7 +12,7 @@ tags:
 ---
 Temps de préparation : 1h\
 Temps de repos : entre 3h et 12h\
-Nombre de personnes : 4
+Nombre de personnes : 4 personnes
 
 ## Ingrédients :
 

@@ -13,8 +13,8 @@ tags:
   - dessert
   - petitdej
 ---
-Temps de préparation : 30 min\
-Cuisson : 35 min au four à 180°
+Temps de préparation : 25min\
+Cuisson : 35min au four à 180°
 
 ## Ingrédients :
 

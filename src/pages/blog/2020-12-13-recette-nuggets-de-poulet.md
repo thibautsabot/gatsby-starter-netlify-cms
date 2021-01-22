@@ -10,7 +10,7 @@ featuredimage: /img/nuggets-couverture-1.jpg
 tags:
   - plats
 ---
-Temps de préparation : 15 min\
+Temps de préparation : 15min\
 Nombre de parts : 2 personnes / une douzaine de nuggets
 
 ## Ingrédients :

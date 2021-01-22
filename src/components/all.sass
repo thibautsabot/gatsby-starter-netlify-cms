@@ -7,7 +7,10 @@ $candice-green: #007000;
 
 html
   height: 100%;
-  background-color: $candice-green;
+  background-color: $candice-green; /* Trick for firefox to avoid having a white line on scroll */
+
+body
+  background-color: white;
 
 .layout-children
   flex: 1
@@ -121,7 +124,6 @@ html
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  background-color: white;
 
 // Override for use of svg's from https://simpleicons.org/
 .icon svg

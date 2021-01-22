@@ -1,0 +1,63 @@
+---
+templateKey: blog-post
+title: "Recette flan pâtissier "
+date: 2021-01-22T10:37:27.553Z
+description: >
+  Le flan pâtissier à la vanille est un dessert vraiment simple mais tellement
+  délicieux.  
+featuredpost: true
+featuredimage: /img/couverture-1.jpg
+tags:
+  - dessert
+---
+Temps de préparation : 40min\
+Temps de cuisson : 45min  \
+Temps de repos : 4h à 12h
+
+## Ingrédients :
+
+Pour la pâte brisée :
+
+* 125g de beurre mou
+* 250g de farine
+* 5cl d’eau
+* 2 cuillères à soupe de sucre vanillé
+* 1 pincé de sel
+
+ Pour le flan :
+
+* 1L de lait
+* 120g de sucre blanc
+* 2 cuillères à soupe de sucre vanillé
+* 4 œufs
+* 100g de maïzena
+* 1 gousse de vanille
+
+## Réalisation :
+
+### Préparation de la pâte brisée :
+
+Dans un saladier, versez la farine, le sucre et la pincée de sel.\
+Ajoutez le beurre mou coupé en petits morceaux et émiettiez-le en le mélangeant à la farine.\
+Incorporez progressivement l’eau afin de former une de pâte homogène.\
+Couvrez et réservez au réfrigérateur pendant la préparation du flan.
+
+### Préparation du flan :
+
+Préchauffez le four à 180°.
+
+Dans une casserole, faites bouillir le lait avec la gousse de vanille fendue et ses graines.  
+
+Pendant ce temps, dans un grand saladier, mélangez les œufs avec les sucres puis ajoutez la maïzena tamisée.
+
+Une fois le lait à ébullition, retirez la gousse de vanille et versez-le dans la préparation précédente. Mélangez énergiquement.
+
+Versez de nouveau votre préparation dans la casserole et fait chauffer à feu moyen pendant quelques minutes. Remuez constamment jusqu’à que la crème épaississe. Réservez ensuite hors du feu.  
+
+Étalez votre pâte sur un plan de travail fariné puis déposez-la dans un moule graissé et fariné.\
+Piquez votre pâte brisée avant de déposer la préparation du flan.
+
+Faites cuire pendant 40/45min.
+
+Laissez refroidir le flan avant de le mettre au réfrigérateur au minimum pendant 4h.\
+Le flan se déguste froid et est meilleur préparé la veille.

@@ -42,7 +42,7 @@ Ajoutez le beurre mou coupé en petits morceaux et émiettiez-le en le mélangea
 Incorporez progressivement l’eau afin de former une de pâte homogène.\
 Couvrez et réservez au réfrigérateur pendant la préparation du flan.
 
-![Pâte brisée en boule dans un saladier ](/img/pate-brisee.jpg "Pâte brisée")
+![Pâte brisée en boule dans un saladier](/img/pate-brisee.jpg "Pâte brisée")
 
 ### Préparation du flan :
 
@@ -50,7 +50,7 @@ Préchauffez le four à 180°.
 
 Dans une casserole, faites bouillir le lait avec la gousse de vanille fendue et ses graines.  
 
-![Lait avec la gousse de vanille en train d'infuser dans une casserole ](/img/lait-dans-casserole.jpg "Lait vanillé")
+![Lait infusé avec la gousse de vanille dans une casserole ](/img/lait-dans-casserole.jpg "Lait vanillé")
 
 Pendant ce temps, dans un grand saladier, mélangez les œufs avec les sucres puis ajoutez la maïzena tamisée.
 
@@ -58,18 +58,18 @@ Pendant ce temps, dans un grand saladier, mélangez les œufs avec les sucres pu
 
 Une fois le lait à ébullition, retirez la gousse de vanille et versez-le dans la préparation précédente. Mélangez énergiquement.
 
-![Ajout du lait bouilli dans la préparation précédente ](/img/prepa-creme-2.jpg "Préparation de la crème ")
+![Lait bouilli ajouté au mélange précédent  ](/img/prepa-creme-2.jpg "Préparation de la crème")
 
 Versez de nouveau votre préparation dans la casserole et fait chauffer à feu moyen pendant quelques minutes. \
 Remuez constamment jusqu’à que la crème épaississe. \
 Réservez ensuite hors du feu.  
 
-![Crème du flan épaissie dans une casserole](/img/creme-epaissi.jpg "Crème épaissie ")
+![Crème du flan épaissie dans une casserole](/img/creme-epaissi.jpg "Crème flan ")
 
 Étalez votre pâte sur un plan de travail fariné puis déposez-la dans un moule graissé et fariné.\
 Piquez votre pâte brisée avant de déposer la préparation du flan.
 
-![Préparation du flan versé sur la pâte brisée ](/img/flan-avant-cuisson.jpg "Flan avant cuisson ")
+![Préparation flan versé sur la pâte brisée](/img/flan-avant-cuisson.jpg "Flan avant cuisson ")
 
 Faites cuire pendant 40/45min.
 

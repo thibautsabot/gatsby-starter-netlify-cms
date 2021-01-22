@@ -9,9 +9,9 @@ featuredimage: /img/cordon-bleu-coupe.jpg
 tags:
   - plats
 ---
-Temps de préparation : 30 min\
+Temps de préparation : 20min\
 Nombre de personne : 2 personnes\
-Cuisson : 15 min à la poêle
+Cuisson : 15min à la poêle
 
 ## Ingredients :
 

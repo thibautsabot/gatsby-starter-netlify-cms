@@ -26,7 +26,7 @@ const query = graphql`
                 fluid(maxWidth: 120, quality: 100) {
                   ...GatsbyImageSharpFluid
                 }
-                gatsbyImageData(maxWidth: 120, layout: FLUID, placeholder: DOMINANT_COLOR)
+                gatsbyImageData(width: 120, layout: FULL_WIDTH, placeholder: DOMINANT_COLOR)
               }
             }
           }

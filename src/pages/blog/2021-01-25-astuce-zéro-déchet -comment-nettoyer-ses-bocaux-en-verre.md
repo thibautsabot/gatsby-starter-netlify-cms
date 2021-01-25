@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: "Astuce zéro déchet : Comment nettoyer ses bocaux en verre ?"
+title: "Astuce : Comment nettoyer ses bocaux en verre ?"
 date: 2021-01-25T12:29:50.884Z
 description: >
   Lorsqu’on se lance dans le zéro déchet, une passion pour la récupération de

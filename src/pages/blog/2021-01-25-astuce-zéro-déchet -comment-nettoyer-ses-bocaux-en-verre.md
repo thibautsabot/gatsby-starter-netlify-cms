@@ -45,8 +45,7 @@ Lavez le bocal avec du produit vaisselle et essuyez-le.
 ![Image bocaux avant et après nettoyage ](/img/bocaux.png "Avant/après")
 
 \
-Pour l’organisation, je stock mes bocaux et lorsque j’en ai beaucoup, je fais une session nettoyage.\
-La technique de l’huile et du bicarbonate est très efficace et fonctionne quasiment à chaque fois. Mais lorsque certains bocaux résistent et que la colle ne part pas, je renouvelle les étapes plusieurs fois en laissant agir le mélange plus longtemps.\
+Pour l’organisation, je stock mes bocaux et lorsque j’en ai beaucoup, je fais une session nettoyage. La technique de l’huile et du bicarbonate est très efficace et fonctionne quasiment à chaque fois. Mais lorsque certains bocaux résistent et que la colle ne part pas, je renouvelle les étapes plusieurs fois en laissant agir le mélange plus longtemps.\
 \
 \
-*Astuce pour les contenants en plastique : chauffez l’étiquette avec un sèche-cheveux pendant quelques minutes, l’étiquette et la colle partiront facilement.*
+*<ins>Astuce pour les contenants en plastique</ins> : chauffez l’étiquette avec un sèche-cheveux pendant quelques minutes, l’étiquette et la colle partiront facilement*

@@ -41,7 +41,7 @@ Pour le biscuit croquant :
 ### Préparation dessus de la bûche en chocolat tempéré :
 
 Réalisez le tempérage du chocolat noir.\
-*Le tempérage consiste à faire fondre le chocolat et à le faire passer par différentes températures. Cela permet de le travailler, et d’amorcer la cristallisation afin d’obtenir un chocolat solide, lisse et brillant parfait pour les décors.*\
+*Le tempérage consiste à faire fondre le chocolat et à le faire passer par différentes températures. Cela permet de le travailler, d’amorcer la cristallisation afin d’obtenir un chocolat solide, lisse et brillant parfait pour les décors.*\
 *Les températures sont différentes en fonction du type de chocolat (noir, blanc ou au lait).*
 
 * Faites fondre le chocolat noir au bain-marie. Remuez et contrôlez la température régulièrement.

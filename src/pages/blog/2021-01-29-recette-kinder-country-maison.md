@@ -22,7 +22,8 @@ Nombre de parts : 8 kinder country
 * 1 cuillère à café extrait de vanille
 * 200g de chocolat au lait
 
-*Pour cette recette, il est préférable d’avoir un thermomètre de cuisson afin de réaliser le tempérage du chocolat. Toutefois, si vous n’en avez pas, le résultat sera seulement moins « brillant et lisse ».*
+*Pour cette recette, il est préférable d’avoir un thermomètre de cuisson afin de réaliser le tempérage du chocolat.* \
+*Toutefois, si vous n’en avez pas, le résultat sera seulement moins « brillant et lisse ».*
 
 ## Réalisation :
 

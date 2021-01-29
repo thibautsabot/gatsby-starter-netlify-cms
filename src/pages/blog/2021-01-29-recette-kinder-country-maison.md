@@ -37,8 +37,7 @@ Disposez le riz soufflé sur une plaque de cuisson et faites-le cuire quelques m
 <ins> Réalisation du tempérage du chocolat au lait :</ins>
 
 Pour cette recette, il est préférable de réaliser un tempérage du chocolat afin d’avoir un meilleur résultat.\
-*Le tempérage consiste à faire fondre le chocolat et à le faire passer par différentes températures. Cela permet de le travailler, d’amorcer la cristallisation afin d’obtenir un chocolat solide, lisse et brillant parfait pour les décors.*\
-*Les températures sont différentes en fonction du type de chocolat (noir, blanc ou au lait).*
+*Le tempérage consiste à faire fondre le chocolat et à le faire passer par différentes températures. Cela permet de le travailler, d’amorcer la cristallisation afin d’obtenir un chocolat solide, lisse et brillant parfait pour les décors. Les températures sont différentes en fonction du type de chocolat (noir, blanc ou au lait).*
 
 * Faites fondre le chocolat au lait au bain-marie. Remuez et contrôlez la température régulièrement.\
   *Si le chocolat est trop granuleux lorsque vous le faites fondre, ajoutez un peu de lait afin qu’il soit plus lisse.*
@@ -47,24 +46,23 @@ Pour cette recette, il est préférable de réaliser un tempérage du chocolat a
 * Replacez le chocolat au bain-marie quelques minutes afin de remonter à 30-31°.\
   Le chocolat est prêt à être travaillé.
 
-
-
 ![Chocolat au lait au bain-marie avec surveillance de la température ](/img/temperage-1.jpg "Tempérage du chocolat ")
 
 ![Chocolat refroidit dans un saladier rempli d'eau froide ](/img/temperage-2.jpg "Tempérage du chocolat ")
 
-Répartissez une couche fine de chocolat au lait sur une plaque de cuisson, dans un moule à silicone ou dans des moules à financier. Puis faites prendre au congélateur pendant 15 minutes.
-
-
+Répartissez une couche fine de chocolat au lait sur une plaque de cuisson, dans un moule à silicone ou dans des moules à financier.\
+Puis faites prendre au congélateur pendant 15 minutes.
 
 ![Première couche de chocolat tempéré dans un moule en silicone ](/img/couche-chocolat.jpg "Première couche de chocolat tempéré")
 
 Pendant ce temps, faites fondre le chocolat blanc et la crème au bain-marie.\
-Une fois fondu et légèrement refroidi, versez dans le mélange, le riz soufflé doré et les flocons avoine. Ajoutez ensuite l’extrait de vanille.
+Une fois fondu et légèrement refroidi, versez dans le mélange, le riz soufflé doré et les flocons avoine. \
+Ajoutez ensuite l’extrait de vanille.
 
 ![Mélange chocolat blanc/crème/flocon d'avoine/riz soufflé dans un saladier](/img/melange-chocolat-blanc.jpg "Mélange au chocolat blanc")
 
-Une fois le chocolat cristallisé, versez la préparation au chocolat blanc sur la couche de chocolat. Réservez de nouveau au congélateur pendant 15minutes.
+Une fois le chocolat cristallisé, versez la préparation au chocolat blanc sur la couche de chocolat. \
+Réservez de nouveau au congélateur pendant 15minutes.
 
 ![Répartition du mélange au chocolat blanc sur la couche de chocolat ](/img/prepa-country.jpg "Deuxième couche du Kinder country ")
 

@@ -1,3 +1,7 @@
 .banner > picture > img {
   object-position: 0 15% !important;
 }
+
+.banner > picture > img:hover {
+  transform: none;
+}

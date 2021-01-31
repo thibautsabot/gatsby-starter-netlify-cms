@@ -67,7 +67,7 @@ export const tagPageQuery = graphql`
                 fluid(maxWidth: 120, quality: 100) {
                   ...GatsbyImageSharpFluid
                 }
-                gatsbyImageData(width: 120, layout: FULL_WIDTH, placeholder: DOMINANT_COLOR)
+                gatsbyImageData(width: 120, height: 120, layout: FIXED, placeholder: DOMINANT_COLOR)
               }
             }
           }

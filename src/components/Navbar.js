@@ -1,6 +1,30 @@
-import { Link } from "gatsby";
+import { Link, StaticQuery } from "gatsby";
+
 import React from "react";
+import Search from "./Search"
 import logo from "../img/header-outline.png";
+
+const SearchQuery = () => (
+  <StaticQuery
+    query={graphql`
+      query SearchIndexQuery {
+        siteSearchIndex {
+          index
+        }
+      }
+    `}
+    render={data => {
+      console.log('data : ', data)
+      return (
+        <>
+        <Search searchIndex={data.siteSearchIndex.index} />
+      </>
+      )
+    }
+
+    }
+  />
+)
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -87,7 +111,7 @@ const Navbar = class extends React.Component {
               tabIndex="0"
               className={`navbar-burger burger ${this.state.navBarActiveClass}`}
               data-target="navMenu"
-              onClick={() => this.toggleHamburger()}
+              onClick={this.toggleHamburger}
             >
               <span />
               <span />
@@ -139,6 +163,7 @@ const Navbar = class extends React.Component {
                 Présentation
               </Link>
             </div>
+            <SearchQuery />
           </div>
         </div>
       </nav>

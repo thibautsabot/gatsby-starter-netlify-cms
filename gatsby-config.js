@@ -71,6 +71,20 @@ module.exports = {
         },
       },
     },
+    {
+      resolve: `@gatsby-contrib/gatsby-plugin-elasticlunr-search`,
+      options: {
+        fields: ['title', 'content'],
+        resolvers: {
+          MarkdownRemark: {
+            title: node => node.frontmatter.title,
+            content: node => node.internal.content,
+            path: node => node.frontmatter.path,
+          },
+        },
+        filter: (node, getNode) => node.frontmatter.tags !== "exempt",
+      },
+    },
     "gatsby-plugin-sharp",
     "gatsby-transformer-sharp",
     {

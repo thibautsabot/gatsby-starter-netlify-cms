@@ -6,7 +6,7 @@ description: >
   Réalisez vous-même vos Kinder Country, cette recette est parfaite pour les
   amateurs de Kinder !  
 featuredpost: true
-featuredimage: /img/couv.jpg
+featuredimage: /img/couvkinder.jpg
 tags:
   - dessert
 ---

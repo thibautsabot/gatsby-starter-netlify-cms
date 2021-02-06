@@ -5,7 +5,7 @@ date: 2021-02-06T09:19:57.616Z
 description: Voici une version salée du carrot cake. Cette recette simple et
   rapide peut convenir à tout le monde en fonction des accompagnements choisi.
 featuredpost: true
-featuredimage: /img/couv-1.jpg
+featuredimage: /img/cake-fini.jpg
 tags:
   - entree
   - vegetarien

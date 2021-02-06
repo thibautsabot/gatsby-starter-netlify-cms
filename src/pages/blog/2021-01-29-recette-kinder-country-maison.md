@@ -3,7 +3,7 @@ templateKey: blog-post
 title: "Recette Kinder Country maison "
 date: 2021-01-29T16:59:56.351Z
 description: >
-  Réaliser vous-même vos Kinder Country, cette recette est parfaite pour les
+  Réalisez vous-même vos Kinder Country, cette recette est parfaite pour les
   amateurs de Kinder !  
 featuredpost: true
 featuredimage: /img/couv.jpg
@@ -19,7 +19,7 @@ Nombre de parts : 8 kinder country
 * 10g de flocons d’avoine
 * 100g de chocolat blanc
 * 30g de crème fraîche liquide
-* 1 cuillère à café extrait de vanille
+* 1 cuillère à café d'extrait de vanille
 * 200g de chocolat au lait
 
 *Pour cette recette, il est préférable d’avoir un thermomètre de cuisson afin de réaliser le tempérage du chocolat.* \
@@ -27,7 +27,7 @@ Nombre de parts : 8 kinder country
 
 ## Réalisation :
 
-Préchauffez le four à 160 °.
+Préchauffez le four à 160°.
 
 Disposez le riz soufflé sur une plaque de cuisson et faites-le cuire quelques minutes afin qu’il devienne doré.\
 *Attention, la cuisson est à surveiller, seulement 2/3min sont nécessaires.*
@@ -76,7 +76,7 @@ Replacez une dernière fois les Kinder au congélateur. Une fois que vos Kinder 
 ![Kinder country pris avant découpe sur une planche à découpé ](/img/country-pris.jpg "Kinder country pris avant découpe")
 
 \
-Vos Kinder country maison sont prêtes, il ne reste plus qu’à les déguster !\
+Vos Kinder country maison sont prêts, il ne reste plus qu’à les déguster !\
 Toutefois, ceux-ci sont meilleurs lorsqu’ils sont bien pris et froids, vous pouvez donc les laissez quelques heures au réfrigérateur.
 
 ![Kinder Country découpé et posé dans un plat](/img/country-fini.jpg "Kinder Country")

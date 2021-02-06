@@ -38,8 +38,8 @@ Pour la pâte brisée :
 ### Préparation de la pâte brisée :
 
 Dans un saladier, versez la farine, le sucre et la pincée de sel.\
-Ajoutez le beurre mou coupé en petits morceaux et émiettiez-le en le mélangeant à la farine.\
-Incorporez progressivement l’eau afin de former une de pâte homogène.\
+Ajoutez le beurre mou coupé en petits morceaux et émiettez-le en le mélangeant à la farine.\
+Incorporez progressivement l’eau afin de former une boule de pâte homogène.\
 Couvrez et réservez au réfrigérateur pendant la préparation du flan.
 
 ![Pâte brisée en boule dans un saladier](/img/pate-brisee.jpg "Pâte brisée")
@@ -60,8 +60,8 @@ Une fois le lait à ébullition, retirez la gousse de vanille et versez-le dans 
 
 ![Lait bouilli ajouté au mélange précédent  ](/img/prepa-creme-2.jpg "Préparation de la crème")
 
-Versez de nouveau votre préparation dans la casserole et fait chauffer à feu moyen pendant quelques minutes. \
-Remuez constamment jusqu’à que la crème épaississe. \
+Versez de nouveau votre préparation dans la casserole et faites chauffer à feu moyen pendant quelques minutes. \
+Remuez constamment jusqu’à ce que la crème épaississe. \
 Réservez ensuite hors du feu.  
 
 ![Crème du flan épaissie dans une casserole](/img/creme-epaissi.jpg "Crème flan ")

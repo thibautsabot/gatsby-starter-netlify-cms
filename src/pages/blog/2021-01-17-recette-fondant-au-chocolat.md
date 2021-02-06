@@ -27,8 +27,8 @@ Préchauffez le four à 180°.
 
 Faites fondre le chocolat avec le beurre au bain-marie.
 
-Dans un saladier, battez les œufs avec le sucre jusqu’à que le mélange blanchisse.\
-Une fois fondu, ajouter le chocolat puis l’extrait de vanille.\
+Dans un saladier, battez les œufs avec le sucre jusqu’à ce que le mélange blanchisse.\
+Une fois fondu, ajoutez le chocolat puis l’extrait de vanille.\
 Ensuite, mélangez les œufs un par un à la préparation.
 
 ![Préparation de la pâte avec ajout des oeufs un par un](/img/pate-en-prepa-1.jpg "Préparation de la pâte")

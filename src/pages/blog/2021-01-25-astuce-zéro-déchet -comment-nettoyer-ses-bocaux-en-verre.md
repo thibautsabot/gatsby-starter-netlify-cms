@@ -8,7 +8,7 @@ description: >
   aliments achetés en vrac. Mais on a surtout envie d’avoir des bocaux tout
   beaux, tout propres, sans résidu d’étiquette et de colle. 
 featuredpost: true
-featuredimage: /img/couv-3.jpg
+featuredimage: /img/couv-boco.jpg
 tags:
   - zerodechet
 ---

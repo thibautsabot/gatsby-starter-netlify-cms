@@ -92,7 +92,7 @@ module.exports = {
               maxWidth: 1500,
               tracedSVG: true,
               withWebp: true,
-              // withAvif: true,
+              withAvif: true,
               // disableBgImage: true, /* enable bg images for traced svg */
             },
           },

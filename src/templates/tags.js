@@ -3,6 +3,7 @@ import BlogRoll from '../components/BlogRoll'
 import { Helmet } from 'react-helmet'
 import Layout from '../components/Layout'
 import React from 'react'
+import { featuredImageFragment } from '../pages/blog'
 import { graphql } from 'gatsby'
 
 const TITLE = {
@@ -64,10 +65,7 @@ export const tagPageQuery = graphql`
             featuredpost
             featuredimage {
               childImageSharp {
-                fluid(maxWidth: 120, quality: 100) {
-                  ...GatsbyImageSharpFluid
-                }
-                gatsbyImageData(width: 120, height: 120, layout: FIXED, placeholder: DOMINANT_COLOR)
+                ...featuredImageFragment
               }
             }
           }

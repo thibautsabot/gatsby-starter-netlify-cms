@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Recette carrot cake salé
 date: 2021-02-06T09:19:57.616Z
 description: Voici une version salée du carrot cake. Cette recette simple et
-  rapide peut convenir à tout le monde en fonction des accompagnements choisi.
+  rapide peut convenir à tout le monde en fonction des accompagnements choisis.
 featuredpost: true
 featuredimage: /img/cake-fini.jpg
 tags:
@@ -21,9 +21,9 @@ Temps de cuisson : 30min
 * 60ml de lait
 * 1 sachet de levure chimique
 * 1 pincée de sel
-* 1 poignée d’emmental râpée
+* 1 poignée d’emmental râpé
 * Accompagnements : 6 olives, 50g de feta, 4 tomates séchées\
-  *Les accompagnements peuvent varier en fonction de vos envies*
+  *Les accompagnements peuvent varier en fonction de vos envies.*
 
 ## Réalisation :
 
@@ -38,17 +38,13 @@ Râpez finement les carottes et découpez les accompagnements (ici les olives, l
 
 ![Carottes râpées finement ](/img/carotte.jpg "Carottes")
 
- 
-
 ![Accompagnements fete, olives, tomates séchées découpés](/img/accompagnements.jpg "Accompagnements")
 
-Ajoutez à la pâte, les carottes râpées, les accompagnements et la poignée d’emmental râpée.
+Ajoutez à la pâte, les carottes râpées, les accompagnements et la poignée d’emmental râpé.
 
 ![Pâte carrot cake avec les accompagnements dans un saladier ](/img/pate.jpg "Pâte carrot cake ")
 
 Versez la préparation dans un moule à cake beurré et fariné.
-
- 
 
 ![Pâte versé dans un moule á cake, avant cuisson](/img/cake-avant-cuisson.jpg "Cake avant cuisson ")
 

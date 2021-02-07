@@ -1,0 +1,9 @@
+{
+  "reject": [
+    "gatsby-plugin-netlify-cms",
+    "gatsby-plugin-sass",
+    "node-sass",
+    "react",
+    "react-dom"
+  ]
+}

@@ -1,6 +1,6 @@
 [build]
   publish = "public"
-  command = "npm run build"
+  command = "npm run build || { cat /opt/buildhome/.npm/_logs/* ; sleep 30 ; false; }"
   functions = "lambda"
 [build.environment]
   NODE_VERSION = "15"

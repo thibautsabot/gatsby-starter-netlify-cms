@@ -3,7 +3,6 @@ import BlogRoll from '../components/BlogRoll'
 import { Helmet } from 'react-helmet'
 import Layout from '../components/Layout'
 import React from 'react'
-import { featuredImageFragment } from '../pages/blog'
 import { graphql } from 'gatsby'
 
 const TITLE = {

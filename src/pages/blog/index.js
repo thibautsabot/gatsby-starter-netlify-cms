@@ -14,7 +14,7 @@ export const featuredImageFragment = graphql`
       layout: FIXED
       placeholder: DOMINANT_COLOR
       transformOptions: { fit: COVER, cropFocus: CENTER }
-      formats: [AUTO, AVIF, WEBP]
+      formats: [AUTO, WEBP]
     )
   }
 `;

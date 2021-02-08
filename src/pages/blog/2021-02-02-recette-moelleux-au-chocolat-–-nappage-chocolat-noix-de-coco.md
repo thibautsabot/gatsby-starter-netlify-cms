@@ -40,7 +40,7 @@ Faites fondre le chocolat noir et le beurre au bain-marie.
 
 ![Chocolat et beurre au bain-marie ](/img/chocolat-et-beurre-fondu.jpg "Chocolat et beurre fondu ")
 
-Dans un saladier, fouettez les 4 jaunes d’œufs avec le sucre jusqu’à que le mélange blanchisse.\
+Dans un saladier, fouettez les 4 jaunes d’œufs avec le sucre jusqu’à ce que le mélange blanchisse.\
 Une fois fondu, versez le mélange chocolat/beurre à la préparation. \
 Ajoutez ensuite la farine.
 
@@ -66,8 +66,6 @@ Faites fondre le chocolat au lait et la crème au bain-marie.
 ![Mélange chocolat au lait et crème pour le nappage ](/img/glacage.jpg "Nappage ")
 
 Une fois le mélange tiédi, versez du nappage sur le haut de votre gâteau puis saupoudrez de noix de coco râpée.
-
- 
 
 ![Moelleux avec nappage chocolat et noix de coco râpée](/img/couv-.jpg "Moelleux au chocolat")
 

@@ -1,9 +1,9 @@
-import Banner from '../components/Banner'
-import BlogRoll from '../components/BlogRoll'
-import { Helmet } from 'react-helmet'
-import Layout from '../components/Layout'
-import React from 'react'
-import { graphql } from 'gatsby'
+import Banner from "../components/Banner";
+import BlogRoll from "../components/BlogRoll";
+import { Helmet } from "react-helmet";
+import Layout from "../components/Layout";
+import React from "react";
+import { graphql } from "gatsby";
 
 const TITLE = {
   autre: "Autres article",
@@ -14,28 +14,28 @@ const TITLE = {
   dessert: "Desserts",
   petitdej: "Petit déjeuner",
   antigaspi: "Anti gaspi",
-}
+};
 
-class TagRoute extends React.Component {
-  render() {
-    const tag = this.props.pageContext.tag
-    const title = this.props.data.site.siteMetadata.title
+const TagRoute = ({ pageContext, data }) => {
+  const tag = pageContext.tag;
+  const title = data.site.siteMetadata.title;
 
-    return (
-      <Layout>
-        <section >
-          <Helmet title={`${tag} | ${title}`} />
-          <Banner title={TITLE[tag] || "Blog"} />
-          <div className="container content">
-            <div role="main"><BlogRoll data={this.props.data} /></div>
+  return (
+    <Layout>
+      <section>
+        <Helmet title={`${tag} | ${title}`} />
+        <Banner title={TITLE[tag] || "Blog"} />
+        <div className="container content">
+          <div role="main">
+            <BlogRoll data={data} />
           </div>
-        </section>
-      </Layout>
-    )
-  }
-}
+        </div>
+      </section>
+    </Layout>
+  );
+};
 
-export default TagRoute
+export default TagRoute;
 
 export const tagPageQuery = graphql`
   query TagPage($tag: String) {
@@ -72,4 +72,4 @@ export const tagPageQuery = graphql`
       }
     }
   }
-`
+`;

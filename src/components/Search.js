@@ -3,6 +3,7 @@ import React, { useState } from "react";
 import Highlighter from "react-highlight-words";
 import { Index } from "elasticlunr";
 import { Link } from "gatsby";
+import SearchSvg from "../svg/search.svg";
 
 const Search = ({ searchIndex }) => {
   const [query, setQuery] = useState("");
@@ -21,18 +22,34 @@ const Search = ({ searchIndex }) => {
   };
 
   return (
-    <div>
-      <input type="text" value={query} onChange={search} />
-      <ul>
-        {results.map((page) => (
-          <li key={page.id}>
-            <Link to={"/" + page.path}>{page.title}</Link>
-            {/* {": " + page.tags.join(`,`)} */}
-          </li>
-        ))}
-      </ul>
+    <div className="search">
+      <div className="search-container">
+        <div className="search-icon">
+          <SearchSvg />
+        </div>
+        <input value={query} onChange={search} placeholder="Recherche" />
+      </div>
+      {!!results.length && (
+        <ul className="results-container">
+          {results.map((page) => {
+            return (
+              <li key={page.id}>
+                <Link to={"/" + page.path}>
+                  <Highlighter
+                    highlightClassName="hightlight"
+                    searchWords={[query]}
+                    autoEscape={true}
+                    textToHighlight={page.title}
+                  />
+                </Link>
+                {/* {": " + page.tags.join(`,`)} */}
+              </li>
+            );
+          })}
+        </ul>
+      )}
     </div>
   );
 };
 
-export default Search
+export default Search;

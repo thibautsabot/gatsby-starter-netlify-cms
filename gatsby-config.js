@@ -72,13 +72,21 @@ module.exports = {
       },
     },
     {
+      resolve: "gatsby-plugin-react-svg",
+      options: {
+        rule: {
+          include: /svg/,
+        },
+      },
+    },
+    {
       resolve: `@gatsby-contrib/gatsby-plugin-elasticlunr-search`,
       options: {
-        fields: ['title'],
+        fields: ["title"],
         resolvers: {
           MarkdownRemark: {
-            title: node => node.frontmatter.title,
-            path: node => node.frontmatter.path,
+            title: (node) => node.frontmatter.title,
+            path: (node) => node.frontmatter.path,
           },
         },
         filter: (node, getNode) => node.frontmatter.tags !== "exempt",
@@ -106,7 +114,7 @@ module.exports = {
               tracedSVG: true,
               withWebp: true,
               // withAvif: true,
-              srcSetBreakpoints: [ 460, 695, 1050 ] // 460 : android, 695 : iphone, 1050 : tablet, 1500: desktop
+              srcSetBreakpoints: [460, 695, 1050], // 460 : android, 695 : iphone, 1050 : tablet, 1500: desktop
               // disableBgImage: true, /* enable bg images for traced svg */
             },
           },

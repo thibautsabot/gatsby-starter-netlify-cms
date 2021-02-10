@@ -17,7 +17,7 @@ export const PresentationPageTemplate = ({ title, content, contentComponent }) =
               <h1 className="title is-size-3 has-text-weight-bold is-bold-light">
                 {title}
               </h1>
-              <PageContent className="content justified" content={content} />
+              <PageContent className="content justified presentation" content={content} />
             </div>
           </div>
         </div>

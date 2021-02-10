@@ -40,16 +40,21 @@ const Search = ({ searchIndex }) => {
   return (
     <div ref={searchRef} className="search">
       <div className="search-container">
-        <img alt='recherche' src={SearchSvg} className="search-icon" />
-        <input value={query} onChange={search} placeholder="Recherche" />
+        <img
+          alt="recherche"
+          width="15"
+          height="20"
+          src={SearchSvg}
+          className="search-icon"
+        />
+        <input /* onKeyUp={} */ value={query} onChange={search} placeholder="Recherche" />
       </div>
       {!!results.length && isOpen && (
         <ul className="results-container">
           {results.map((page) => {
-            console.log(page)
             return (
               <li key={page.id}>
-                <Link to={page.slug} className='search-link'>
+                <Link to={page.slug} className="search-link">
                   <Highlighter
                     highlightClassName="hightlight"
                     searchWords={[query]}

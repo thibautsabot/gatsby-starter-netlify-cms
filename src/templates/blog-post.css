@@ -7,6 +7,15 @@
   border-radius: 10px;
 }
 
+.presentation .gatsby-resp-image-wrapper {
+  width: initial !important;
+  height: initial !important;
+  margin-left: auto !important;
+  max-height: initial !important;
+  max-width: 200px !important;
+  border-radius: initial;
+}
+
 .gatsby-resp-image-image {
   object-fit: contain !important;
 }

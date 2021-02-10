@@ -181,14 +181,21 @@ $menu-label-color: $white-ter
 
 .search
   position: absolute;
-  left: 100%;
+  left: 105%;
   top: 20px;
   width: 400px;
+
 
 .results-container
   margin-top: 15px;
   padding: 10px;
   background: white;
+
+.search-link
+  color: black
+
+.search-link:hover
+  text-decoration: underline;
 
 .results-container::before
   content: "";
@@ -248,6 +255,8 @@ $menu-label-color: $white-ter
     height: 200px;
   .banner
     height: 150px
+  .search
+    display: none;
 
 
 .navbar-link

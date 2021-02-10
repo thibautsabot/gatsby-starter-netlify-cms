@@ -72,21 +72,14 @@ module.exports = {
       },
     },
     {
-      resolve: "gatsby-plugin-react-svg",
-      options: {
-        rule: {
-          include: /svg/,
-        },
-      },
-    },
-    {
       resolve: `@gatsby-contrib/gatsby-plugin-elasticlunr-search`,
       options: {
         fields: ["title"],
         resolvers: {
           MarkdownRemark: {
             title: (node) => node.frontmatter.title,
-            path: (node) => node.frontmatter.path,
+            tags: (node) => node.frontmatter.tags,
+            slug: (node) => node.fields.slug,
           },
         },
         filter: (node, getNode) => node.frontmatter.tags !== "exempt",

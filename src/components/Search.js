@@ -1,14 +1,30 @@
-import React, { useState } from "react";
+import React, { useEffect, useRef, useState } from "react";
 
 import Highlighter from "react-highlight-words";
 import { Index } from "elasticlunr";
 import { Link } from "gatsby";
-import SearchSvg from "../svg/search.svg";
+import SearchSvg from "../img/search.svg";
 
 const Search = ({ searchIndex }) => {
   const [query, setQuery] = useState("");
+  const [isOpen, setIsOpen] = useState(false);
   const [results, setResults] = useState([]);
+  const searchRef = useRef(null);
   let index = "";
+
+  useEffect(() => {
+    const handleVisibility = (event) => {
+      if (searchRef.current?.contains(event.target)) {
+        setIsOpen(!isOpen);
+      } else {
+        setIsOpen(false);
+      }
+    };
+
+    window.addEventListener("click", handleVisibility);
+
+    return () => window.removeEventListener("click", handleVisibility);
+  });
 
   const search = (evt) => {
     index = index || Index.load(searchIndex);
@@ -22,19 +38,18 @@ const Search = ({ searchIndex }) => {
   };
 
   return (
-    <div className="search">
+    <div ref={searchRef} className="search">
       <div className="search-container">
-        <div className="search-icon">
-          <SearchSvg />
-        </div>
+        <img alt='recherche' src={SearchSvg} className="search-icon" />
         <input value={query} onChange={search} placeholder="Recherche" />
       </div>
-      {!!results.length && (
+      {!!results.length && isOpen && (
         <ul className="results-container">
           {results.map((page) => {
+            console.log(page)
             return (
               <li key={page.id}>
-                <Link to={"/" + page.path}>
+                <Link to={page.slug} className='search-link'>
                   <Highlighter
                     highlightClassName="hightlight"
                     searchWords={[query]}

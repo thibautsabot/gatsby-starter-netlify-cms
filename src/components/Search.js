@@ -20,11 +20,15 @@ const Search = ({ searchIndex }) => {
         setIsOpen(false);
       }
     };
-
+    
     window.addEventListener("click", handleVisibility);
+    window.addEventListener("focusin", handleVisibility);
 
-    return () => window.removeEventListener("click", handleVisibility);
-  });
+    return () => {
+      window.removeEventListener("focusin", handleVisibility);
+      window.removeEventListener("click", handleVisibility);
+    }
+  }, []);
 
   const search = (evt) => {
     index = index || Index.load(searchIndex);

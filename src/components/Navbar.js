@@ -1,73 +1,65 @@
-import { Link } from "gatsby";
-import React from "react";
+import { Link, StaticQuery } from "gatsby";
+import React, { useEffect, useState } from "react";
+
+import Search from "./Search";
 import logo from "../img/header-outline.png";
 
-const Navbar = class extends React.Component {
-  constructor(props) {
-    super(props);
-    this.state = {
-      active: false,
-      subnavActive: false,
-      navBarActiveClass: "",
-      subnavBarActiveClass: "",
-    };
-  }
-
-  toggleHamburger = () => {
-    // toggle the active boolean in the state
-    this.setState(
-      {
-        active: !this.state.active,
-      },
-      // after state has been updated,
-      () => {
-        // set the class in state for the navbar accordingly
-        this.state.active
-          ? this.setState({
-              navBarActiveClass: "is-active",
-            })
-          : this.setState({
-              navBarActiveClass: "",
-            });
+const SearchQuery = () => (
+  <StaticQuery
+    query={graphql`
+      query SearchIndexQuery {
+        siteSearchIndex {
+          index
+        }
       }
-    );
+    `}
+    render={(data) => {
+      return (
+        <>
+          <Search searchIndex={data.siteSearchIndex.index} />
+        </>
+      );
+    }}
+  />
+);
+
+const Navbar = () => {
+  const [active, setActive] = useState(false)
+  const [subnavActive, setSubnavActive] = useState(false)
+  const [navBarActiveClass, setNavBarActiveClass] = useState('')
+  const [subnavBarActiveClass, setSubnavBarActiveClass] = useState('')
+
+  const toggleHamburger = () => {
+    setActive(!active)
   };
 
-  toggleSubNavbar = () => {
-    // toggle the active boolean in the state
-    this.setState(
-      {
-        subnavActive: !this.state.subnavActive,
-      },
-      // after state has been updated,
-      () => {
-        // set the class in state for the navbar accordingly
-        this.state.subnavActive
-          ? this.setState({
-              subnavBarActiveClass: "is-active",
-            })
-          : this.setState({
-              subnavBarActiveClass: "",
-            });
-      }
-    );
+  useEffect(() => {
+    active ? setNavBarActiveClass("is-active") : setNavBarActiveClass("")
+  }, [active])
+
+  const toggleSubNavbar = () => {
+    setSubnavActive(!subnavActive)
   };
 
-  onSubNavBarKeyPress = (event) => {
+
+  useEffect(() => {
+    subnavActive ? setSubnavBarActiveClass("is-active") : setSubnavBarActiveClass("")
+  }, [subnavActive])
+
+  const onSubNavBarKeyPress = (event) => {
     var code = event.keyCode || event.which;
     if (code === 13) {
-      this.toggleSubNavbar();
+      toggleSubNavbar();
     }
   };
 
-  onBurgerMenuKeyPress = (event) => {
+  const onBurgerMenuKeyPress = (event) => {
     var code = event.keyCode || event.which;
     if (code === 13) {
-      this.toggleHamburger();
+      toggleHamburger();
     }
   };
 
-  render() {
     return (
       <nav
         className="navbar is-transparent"
@@ -77,17 +69,23 @@ const Navbar = class extends React.Component {
         <div className="navbar-container">
           <div className="navbar-brand">
             <Link to="/" className="navbar-item" title="Logo">
-              <img width="150px" height="50px" className="navBarLogo" src={logo} alt="Logo" />
+              <img
+                width="150px"
+                height="50px"
+                className="navBarLogo"
+                src={logo}
+                alt="Logo"
+              />
             </Link>
             {/* Hamburger menu */}
             <div
               role="link"
               aria-label="menu"
-              onKeyPress={this.onBurgerMenuKeyPress}
+              onKeyPress={onBurgerMenuKeyPress}
               tabIndex="0"
-              className={`navbar-burger burger ${this.state.navBarActiveClass}`}
+              className={`navbar-burger burger ${navBarActiveClass}`}
               data-target="navMenu"
-              onClick={() => this.toggleHamburger()}
+              onClick={toggleHamburger}
             >
               <span />
               <span />
@@ -96,15 +94,15 @@ const Navbar = class extends React.Component {
           </div>
           <div
             id="navMenu"
-            className={`navbar-menu ${this.state.navBarActiveClass}`}
+            className={`navbar-menu ${navBarActiveClass}`}
           >
             <div className="navbar-start has-text-centered">
               <div
                 role="link"
-                onKeyPress={this.onSubNavBarKeyPress}
+                onKeyPress={onSubNavBarKeyPress}
                 tabIndex="0"
-                className={`navbar-item has-dropdown ${this.state.subnavBarActiveClass}`}
-                onClick={() => this.toggleSubNavbar()}
+                className={`navbar-item has-dropdown ${subnavBarActiveClass}`}
+                onClick={toggleSubNavbar}
               >
                 <p className="navbar-link">Recettes</p>
 
@@ -139,11 +137,11 @@ const Navbar = class extends React.Component {
                 Présentation
               </Link>
             </div>
+            <SearchQuery />
           </div>
         </div>
       </nav>
     );
-  }
 };
 
 export default Navbar;

@@ -38,6 +38,7 @@ Incorporez la levure fraîche puis le lait tiède progressivement à la pâte.
 
 ![Début pétrissage pâte à brioche dans un saladier avec crochets pétrisseurs ](/img/petrissage-pate.jpg "Pétrissage pâte ")
 
+Pétrissez la pâte pendant 5 à 10 minutes.\
 Celle-ci doit être lisse et élastique (si besoin vous pouvez ajouter environ 20g de farine).
 
 ![Pâte après pétrissage dans un saladier](/img/patebrioche.jpg "Pâte pétrit")

@@ -6,7 +6,7 @@ description: >
   Voici une version sucrée de l’omelette pour un petit-déjeuner sain et
   équilibré. 
 featuredpost: true
-featuredimage: /img/omelette.jpg
+featuredimage: /img/couverture-omelette.jpg
 tags:
   - petitdej
 ---

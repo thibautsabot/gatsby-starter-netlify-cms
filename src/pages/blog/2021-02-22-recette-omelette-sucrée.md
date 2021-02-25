@@ -24,20 +24,20 @@ Temps de préparation : 5min
 
 Dans un bol, battez les œufs, le lait et le sucre jusqu’à obtenir un mélange homogène.
 
-![](/img/melange-oeufs.jpg)
+![Mélange oeufs, lait, sucre battu dans un bol](/img/melange-oeufs.jpg "Mélange oeufs battu")
 
 Faites chauffer une poêle avec un peu d’huile de coco et versez la préparation aux œufs.\
 Ajoutez ensuite une poignée de fruits rouges et laissez cuire quelques minutes.
 
 Au fur et à mesure de la cuisson de l’omelette, ramenez les portions cuites vers le centre de la poêle à l’aide d’une spatule.
 
-![](/img/cuisson-1.jpg)
+![Cuisson omelette avec fruits rouges dans une petite poêle](/img/cuisson-1.jpg "Cuisson omelette")
 
 Finissez la cuisson en pliant l’omelette en deux.
 
-![](/img/cuisson-2.jpg)
+![Omelette replié en deux dans la poêle pour la fin de la cuisson ](/img/cuisson-2.jpg "Cuisson omelette")
 
 Une fois prête, déposez-la dans une assiette.\
 Pour un peu plus de gourmandise, vous pouvez saupoudrer l’omelette de noix de coco râpée.
 
-![](/img/omelette.jpg)
+![Omelette sucré aux fruits rouges dans une assiette avant dégustation ](/img/omelette.jpg "Omelette sucré")

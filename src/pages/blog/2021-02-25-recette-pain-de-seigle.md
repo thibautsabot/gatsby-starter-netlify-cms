@@ -4,7 +4,7 @@ title: Recette pain de seigle
 date: 2021-02-25T10:45:27.686Z
 description: Le pain de seigle très bon pour la santé, il représente une bonne
   option en remplacement du « pain blanc ». En plus, il n’y a rien de plus
-  simple que de faire son pain soi-même, cela demande juste un peu de temps.
+  simple que de le faire son pain soi-même, cela demande juste un peu de temps.
 featuredpost: true
 featuredimage: /img/couv-pain.jpg
 tags:

@@ -6,7 +6,8 @@ description: "Recette en préparation / Article en écriture "
 featuredpost: true
 featuredimage: /img/fouet.jpg
 tags:
-  - autre
+  - autres
+  - divers
 ---
 
 De nouvelles recettes et articles zéro déchet arrivent bientôt.

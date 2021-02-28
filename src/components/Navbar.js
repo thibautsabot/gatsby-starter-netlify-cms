@@ -120,7 +120,10 @@ const Navbar = () => {
                     Desserts
                   </Link>
                   <Link className="navbar-item" to="/tags/petitdej">
-                    Petit déjeuner
+                    Petits déjeuners
+                  </Link>
+                  <Link className="navbar-item" to="/tags/autres">
+                    Autres
                   </Link>
                   <Link className="navbar-item" to="/tags/antigaspi">
                     Anti gaspi
@@ -130,7 +133,7 @@ const Navbar = () => {
               <Link className="navbar-item" to="/tags/zerodechet">
                 Zéro déchet
               </Link>
-              <Link className="navbar-item" to="/tags/autre">
+              <Link className="navbar-item" to="/tags/divers">
                 Autres articles
               </Link>
               <Link className="navbar-item" to="/presentation">

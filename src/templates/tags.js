@@ -6,13 +6,14 @@ import React from "react";
 import { graphql } from "gatsby";
 
 const TITLE = {
-  autre: "Autres article",
-  zerodechet: "Zero Déchet",
+  autres: "Autres",
+  divers: "Autres articles",
+  zerodechet: "Zéro Déchet",
   entree: "Entrées",
   vegetarien: "Plats végétariens",
   plats: "Plats",
   dessert: "Desserts",
-  petitdej: "Petit déjeuner",
+  petitdej: "Petits déjeuners",
   antigaspi: "Anti gaspi",
 };
 

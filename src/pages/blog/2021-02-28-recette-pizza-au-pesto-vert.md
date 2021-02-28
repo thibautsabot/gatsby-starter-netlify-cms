@@ -5,7 +5,7 @@ date: 2021-02-28T11:11:26.357Z
 description: "Le pesto vert se marie très bien à la pizza. Voici donc une
   recette simple et rapide à réaliser. "
 featuredpost: true
-featuredimage: /img/couv-3-pizza-.jpg
+featuredimage: /img/couv-1-pizza-vert.jpg
 tags:
   - vegetarien
   - plats

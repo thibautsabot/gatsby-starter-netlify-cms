@@ -4,7 +4,7 @@ title: Recette pâte à pizza
 date: 2021-03-01T16:03:28.931Z
 description: Voici la recette d’une pâte à pizza épaisse et moelleuse.
 featuredpost: true
-featuredimage: /img/couve-pate-pizza.jpg
+featuredimage: /img/couv-pate-pizza-2.jpg
 tags:
   - autres
 ---
@@ -26,7 +26,8 @@ Creusez un puits, ajoutez l’huile d’olive et commencez à mélanger à la ma
 
 ![Farine, levure et sel dans un saladier. Puits formé et huile d'olive ajouté](/img/ingredients.jpg "Ingrédients ")
 
-Ajoutez progressivement l’eau jusqu’à former une pâte homogène qui se décolle des parois.*Si la pâte est trop collante, ajoutez un peu de farine.*
+Ajoutez progressivement l’eau jusqu’à former une pâte homogène qui se décolle des parois.\
+*Si la pâte est trop collante, ajoutez un peu de farine.*
 
 Formez une boule de pâte et déposez-la dans un saladier recouvert d’un linge.\
 Laissez reposer entre 30min à 1h à température ambiante.  

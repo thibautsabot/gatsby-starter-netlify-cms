@@ -15,7 +15,7 @@ Temps de cuisson : 15 à 20 min
 
 ## Ingrédients :
 
-* 1 pâte à pizza
+* [1 pâte à pizza](https://www.bananeplantee.fr/blog/2021-03-01-recette-p%C3%A2te-%C3%A0-pizza/)
 * 1 pot de pesto vert (180g environ)
 * ¼ d’oignon
 * 1 mozzarella

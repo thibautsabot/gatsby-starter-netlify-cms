@@ -1,4 +1,4 @@
-import { Link, StaticQuery } from "gatsby";
+import { Link, StaticQuery, graphql } from "gatsby";
 import React, { useEffect, useState } from "react";
 
 import Search from "./Search";

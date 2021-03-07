@@ -19,12 +19,11 @@ const TITLE = {
 
 const TagRoute = ({ pageContext, data }) => {
   const tag = pageContext.tag;
-  const title = data.site.siteMetadata.title;
 
   return (
     <Layout>
       <section>
-        <Helmet title={`${tag} | ${title}`} />
+        <Helmet title={`${tag} | Banane Plantée`} />
         <Banner title={TITLE[tag] || "Blog"} />
         <div className="container content">
           <div role="main">

@@ -8,14 +8,11 @@ import { kebabCase } from 'lodash'
 const TagsPage = ({
   data: {
     allMarkdownRemark: { group },
-    site: {
-      siteMetadata: { title },
-    },
   },
 }) => (
   <Layout>
     <section className="section">
-      <Helmet title={`Tags | ${title}`} />
+      <Helmet title={`Tags | Banane Plantée`} />
       <div className="container content">
         <div className="columns">
           <div

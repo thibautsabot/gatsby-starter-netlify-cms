@@ -27,7 +27,7 @@ Nombre de parts: 10 pancakes
 
 ## Réalisation :
 
-Écrasez la banane mure dans un bol à l’aide d’une fourchette.
+Écrasez la banane mûre dans un bol à l’aide d’une fourchette.
 
 ![Banane mûre](/img/banane-mure.jpg "Banane mûre")
 

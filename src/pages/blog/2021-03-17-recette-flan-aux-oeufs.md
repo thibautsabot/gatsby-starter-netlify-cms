@@ -14,7 +14,7 @@ Nombre de parts : 12 ramequins
 
 ## Ingrédients :
 
-*  1L de lait
+* 1L de lait
 * 1 gousse de vanille
 * 6 œufs
 * 75g de sucre

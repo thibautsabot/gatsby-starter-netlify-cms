@@ -4,7 +4,7 @@ title: Recette flan aux oeufs
 date: 2021-03-17T12:40:03.561Z
 description: Faites un dessert délicieux, rapide avec très peu d’ingrédients !
 featuredpost: true
-featuredimage: /img/couv-flan-1-.jpg
+featuredimage: /img/couverture-flan-oeuf-.jpg
 tags:
   - dessert
 ---

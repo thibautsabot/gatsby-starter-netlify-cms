@@ -33,10 +33,8 @@ Dans un saladier versez la farine, la levure, le sel et le cacao amer.
 
 ![Ingrédients secs dans un saladier ](/img/melange-sec.jpg "Ingrédients secs")
 
-Dans un autre saladier, mélangez l’œuf et la cassonade.\
-Fouettez jusqu’à que le mélange blanchisse, puis incorporez-le aux ingrédients secs.
-
-Mélangez en ajoutant progressivement le lait puis l’extrait de vanille.
+Dans un autre saladier, mélangez l’œuf et la cassonade puis fouettez jusqu’à que le mélange blanchisse. \
+Incorporez ce mélange aux ingrédients secs puis ajoutez progressivement le lait et l’extrait de vanille.
 
 ![Ajout du mélange oeuf/sucre et du lait progressivement aux ingrédients secs](/img/pate-avec-ajout-lait.jpg "Préparation de la pâte")
 

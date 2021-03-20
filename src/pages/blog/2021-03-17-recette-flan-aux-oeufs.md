@@ -8,16 +8,17 @@ featuredimage: /img/couverture-flan-oeuf-.jpg
 tags:
   - dessert
 ---
+
 Temps de préparation : 20min\
 Temps de cuisson : 35min\
 Nombre de parts : 12 ramequins
 
 ## Ingrédients :
 
-* 1L de lait
-* 1 gousse de vanille
-* 6 œufs
-* 75g de sucre
+- 1L de lait
+- 1 gousse de vanille
+- 6 œufs
+- 75g de sucre
 
 ## Réalisation :
 
@@ -25,9 +26,9 @@ Préchauffez le four à 180°.
 
 Versez le lait dans une casserole.\
 Fendez la gousse de vanille en deux, déposez les graines et la gousse dans le lait.\
-Faites chauffer et infuser la vanille à feu doux pendant une dizaine de minutes. 
+Faites chauffer et infuser la vanille à feu doux pendant une dizaine de minutes.
 
-![Infusion gousse de vanille dans le lait dans une casserole à feu doux](/img/lait-infusé-vanille.jpg "Lait")
+![Infusion gousse de vanille dans le lait dans une casserole à feu doux](/img/lait-infuse-vanille.jpg "Lait")
 
 Pendant ce temps, dans un saladier versez le sucre et les œufs.\
 Battez le mélange pendant quelques minutes.

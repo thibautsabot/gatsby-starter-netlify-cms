@@ -9,6 +9,7 @@ featuredpost: true
 featuredimage: /img/couv-pain.jpg
 tags:
   - petitdej
+  - autres
 ---
 
 Temps de préparation : 20 min\

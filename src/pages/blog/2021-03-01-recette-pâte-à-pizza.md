@@ -4,7 +4,7 @@ title: Recette pâte à pizza
 date: 2021-03-01T16:03:28.931Z
 description: Voici la recette d’une pâte à pizza épaisse et moelleuse.
 featuredpost: true
-featuredimage: /img/couv-pate-pizza-2.jpg
+featuredimage: /img/pate-pizza-boule.jpg
 tags:
   - autres
 ---

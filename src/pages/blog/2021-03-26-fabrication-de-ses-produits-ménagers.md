@@ -11,14 +11,14 @@ featuredimage: /img/couv-produit-menage.jpg
 tags:
   - zerodechet
 ---
-###### Les avantages à faire ses propres produits ménagers :
+Les avantages à faire ses propres produits ménagers :
 
 * Réduction de la production de déchets
 * Meilleur au niveau environnemental
 * Meilleur pour la santé
 * Plus économique
 
-###### Les inconvénients :
+Les inconvénients :
 
 * Demande du temps et de l’organisation pour la réalisation
 
@@ -98,9 +98,9 @@ J’utilise ce produit pour quasiment toutes les surfaces de la maison : vitres,
 #### Réalisation :
 
 Versez dans un récipient, l’acide citrique et le bicarbonate de soude.\
-\
 Ajoutez les huiles essentielles (environ 5 gouttes HE de romarin et 5 gouttes HE citron).\
-Ajoutez ensuite l’eau petit à petit à l’aide d’une cuillère à café ou d’une pipette. Quelques gouttes suffiront, le but étant d’avoir un mélange légèrement compact.\
+Ajoutez ensuite l’eau petit à petit à l’aide d’une cuillère à café ou d’une pipette. \
+Quelques gouttes suffiront, le but étant d’avoir un mélange légèrement compact.\
 Mélangez les ingrédients à l’aide d’une cuillère.
 
 \* *Pour obtenir la bonne texture : serrez le mélange dans votre main, s’il se tient c’est que la quantité d’eau est suffisante. S’il y a trop d’eau, le mélange va mousser. Dans ce cas-là, ajoutez 10g ou 20g de chaque ingrédient poudreux pour que le mélange soit de nouveau plus sec.*
@@ -112,8 +112,7 @@ Déposez le mélange dans des moules à glaçon en tassant bien.
 ![Formation des pastilles toilette à l'aide bac à glaçon ](/img/pastille-toilette-glacon.jpg "Formation des pastilles ")
 
 \
-Laissez au congélateur pendant 1h.
-
+Laissez au congélateur pendant 1h.\
 Démoulez vos pastilles et conversez-les dans le contenant refermable.
 
 #### Utilisation :
@@ -137,11 +136,11 @@ J’utilise ces pastilles une à deux fois par semaine : je dépose une pastill
 
 #### Réalisation :
 
-Versez dans un saladier les cristaux de soude, l’acide citrique, le bicarbonate de soude et le gros sel.
-
+Versez dans un saladier les cristaux de soude, l’acide citrique, le bicarbonate de soude et le gros sel.\
 Ajoutez les gouttes d’HE de citron ou d’eucalyptus.\
-Ajoutez ensuite l’eau petit à petit puis mélangez à l’aide d’une cuillère.\
-* *Utilisez la même technique que pour la réalisation des pastilles toilette afin d’avoir la bonne texture.*
+Ajoutez ensuite l’eau petit à petit puis mélangez à l’aide d’une cuillère.
+
+\* *Utilisez la même technique que pour la réalisation des pastilles toilette afin d’avoir la bonne texture.*
 
 ![Test texture pastilles lave vaisselle en serrant les ingrédients dans la main ](/img/pastille-lave-vaisselle-fabrication.jpg "Préparation pastille lave vaisselle ")
 
@@ -178,9 +177,8 @@ Ajoutez ensuite l’eau chaude.
 
 ![Préparation liquide vaisselle : copeaux de savon avec ajout de l'eau chaude ](/img/prepa-liquide-vaisselle-.jpg "Préparation liquide vaisselle ")
 
-Mélangez et mixez quelques minutes à l’aide d’un plongeur à soupe afin de bien faire fondre les copeaux de savons.
-
-Laissez le mélange refroidir totalement.\
+Mélangez et mixez quelques minutes à l’aide d’un plongeur à soupe afin de bien faire fondre les copeaux de savons.\
+Puis, laissez le mélange refroidir totalement.\
 Et pour finir, ajoutez les gouttes HE et 200ml d’eau froide.
 
 Versez à l’aide d’un entonnoir votre préparation dans une bouteille de liquide vaisselle vide, ou un distributeur à savon ou spray.
@@ -234,8 +232,7 @@ Versez 1 à 2 bouchons d’adoucissant à chaque lessive.
 Faites bouillir l’eau.
 
 Dans un grand récipient, déposez les copeaux de savon et le bicarbonate de soude.\
-Ajoutez ensuite l’eau chaude.
-
+Ajoutez ensuite l’eau chaude.\
 Mélangez et mixez quelques minutes à l’aide d’un plongeur à soupe afin de bien faire fondre les copeaux de savons.
 
 ![Liquide de lessive après refroidissement ](/img/lessive-prepa.jpg "Préparation lessive ")
@@ -246,8 +243,7 @@ Versez à l’aide d’un entonnoir votre préparation dans un ancien bidon de l
 
 #### Utilisation :
 
-La préparation a tendance à se solidifier. Secouez le bidon avant utilisation afin de fluidifier le mélange.
-
+La préparation a tendance à se solidifier. Secouez le bidon avant utilisation afin de fluidifier le mélange.\
 Versez 1 à 2 bouchons pour chaque lessive.
 
 ![Bidon lessive ](/img/lessive.jpg "Bidon lessive ")

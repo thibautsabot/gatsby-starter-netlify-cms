@@ -21,6 +21,7 @@ Les avantages à faire ses propres produits ménagers :
 Les inconvénients :
 
 * Demande du temps et de l’organisation pour la réalisation
+* Produits durs à trouver certaines fois
 
 Je partage donc dans cet article, mes différentes recettes et astuces de produits ménagers que j’utilise maintenant, depuis plusieurs mois.
 

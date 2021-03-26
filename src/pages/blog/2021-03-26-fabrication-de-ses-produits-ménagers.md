@@ -11,14 +11,14 @@ featuredimage: /img/couv-produit-menage.jpg
 tags:
   - zerodechet
 ---
-Les avantages à faire ses propres produits ménagers :
+###### Les avantages à faire ses propres produits ménagers :
 
 * Réduction de la production de déchets
 * Meilleur au niveau environnemental
 * Meilleur pour la santé
 * Plus économique
 
-Les inconvénients :
+###### Les inconvénients :
 
 * Demande du temps et de l’organisation pour la réalisation
 
@@ -73,12 +73,16 @@ Ajoutez ensuite des quelques gouttes HE de citron (ajustez le nombre de gouttes 
 Dans un récipient refermable, faites infuser des zestes/peaux de citron avec du vinaigre blanc.\
 Laissez infuser vos zestes/peaux minimums 3semaines.
 
+![Vinaigre macéré avec des peaux et zestes de citrons ](/img/vinaigre-macere.jpg "Vinaigre macéré")
+
 Remplissez votre spray à moitié de vinaigre blanc infusé de citron et complétez l’autre moitié avec de l’eau.\
 *Pas besoin d’ajouter des huiles essentielles, la bonne odeur de citron est déjà présente.*
 
 #### Utilisation :
 
 J’utilise ce produit pour quasiment toutes les surfaces de la maison : vitres, surfaces de cuisine et de salle de bain, toilettes en complément des pastilles…
+
+![Spray multi-usage ](/img/spray-multi-usage-.jpg "Spray multi-usage ")
 
 - - -
 
@@ -99,9 +103,15 @@ Ajoutez les huiles essentielles (environ 5 gouttes HE de romarin et 5 gouttes HE
 Ajoutez ensuite l’eau petit à petit à l’aide d’une cuillère à café ou d’une pipette. Quelques gouttes suffiront, le but étant d’avoir un mélange légèrement compact.\
 Mélangez les ingrédients à l’aide d’une cuillère.
 
-*\* Pour obtenir la bonne texture : serrez le mélange dans votre main, s’il se tient c’est que la quantité d’eau est suffisante. S’il y a trop d’eau, le mélange va mousser. Dans ce cas-là, ajoutez 10g ou 20g de chaque ingrédient poudreux pour que le mélange soit de nouveau plus sec.*
+\* *Pour obtenir la bonne texture : serrez le mélange dans votre main, s’il se tient c’est que la quantité d’eau est suffisante. S’il y a trop d’eau, le mélange va mousser. Dans ce cas-là, ajoutez 10g ou 20g de chaque ingrédient poudreux pour que le mélange soit de nouveau plus sec.*
 
-Déposez le mélange dans des moules à glaçon en tassant bien.\
+![Test texture pastille toilette en serrant les ingrédients dans la main ](/img/pastille-toilette-formation-.jpg "Texture pastille toilette ")
+
+Déposez le mélange dans des moules à glaçon en tassant bien.
+
+![Formation des pastilles toilette à l'aide bac à glaçon ](/img/pastille-toilette-glacon.jpg "Formation des pastilles ")
+
+\
 Laissez au congélateur pendant 1h.
 
 Démoulez vos pastilles et conversez-les dans le contenant refermable.
@@ -109,6 +119,8 @@ Démoulez vos pastilles et conversez-les dans le contenant refermable.
 #### Utilisation :
 
 J’utilise ces pastilles une à deux fois par semaine : je dépose une pastille dans la cuvette, je laisse dissoudre et je nettoie ensuite.
+
+![Pastille toilette fini dans un contenant en verre ](/img/pastille-toilette.jpg "Pastille toilette")
 
 - - -
 
@@ -129,7 +141,9 @@ Versez dans un saladier les cristaux de soude, l’acide citrique, le bicarbonat
 
 Ajoutez les gouttes d’HE de citron ou d’eucalyptus.\
 Ajoutez ensuite l’eau petit à petit puis mélangez à l’aide d’une cuillère.\
-*\* Utilisez la même technique que pour la réalisation des pastilles toilette afin d’avoir la bonne texture.*
+* *Utilisez la même technique que pour la réalisation des pastilles toilette afin d’avoir la bonne texture.*
+
+![Test texture pastilles lave vaisselle en serrant les ingrédients dans la main ](/img/pastille-lave-vaisselle-fabrication.jpg "Préparation pastille lave vaisselle ")
 
 Déposez le mélange dans des moules à glaçon en tassant bien.  \
 Laissez au congélateur pendant 1h.
@@ -138,7 +152,9 @@ Démoulez vos pastilles et conversez-les dans le contenant refermable.
 
 #### Utilisation :  
 
-Pastilles très efficaces, à mettre à chaque cycle de lave-vaisselle.Toutefois si la vaisselle est vraiment sale, il peut y rester quelques traces (problème que je pouvais également avoir avec des pastilles du commencer). Recette testée avec du percarbonate de soude mais beaucoup de traces blanches pour moi.
+Pastilles très efficaces, à mettre à chaque cycle de lave-vaisselle. Toutefois si la vaisselle est vraiment sale, il peut y rester quelques traces (problème que je pouvais également avoir avec des pastilles du commencer). Recette testée avec du percarbonate de soude mais beaucoup de traces blanches pour moi.
+
+![Pastille lave vaisselle démoulé avec 1h au congélateur dans un contenant en plastique ](/img/pastille-lave-vaisselle-.jpg "Pastille lave vaisselle")
 
 - - -
 
@@ -160,6 +176,8 @@ Faites bouillir 800ml d’eau.
 Dans un grand récipient, déposez les copeaux de savon, le bicarbonate de soude, le vinaigre et le savon noir.\
 Ajoutez ensuite l’eau chaude.
 
+![Préparation liquide vaisselle : copeaux de savon avec ajout de l'eau chaude ](/img/prepa-liquide-vaisselle-.jpg "Préparation liquide vaisselle ")
+
 Mélangez et mixez quelques minutes à l’aide d’un plongeur à soupe afin de bien faire fondre les copeaux de savons.
 
 Laissez le mélange refroidir totalement.\
@@ -170,6 +188,8 @@ Versez à l’aide d’un entonnoir votre préparation dans une bouteille de liq
 #### Utilisation :
 
 La préparation a tendance à se solidifier, secouez votre contenant lorsque le liquide devient trop épais.
+
+![Liquide vaisselle dans un contenant en spray ](/img/liquide-vaisselle-sprau.jpg "Liquide vaisselle")
 
 - - -
 
@@ -188,11 +208,15 @@ Dans un grand récipient, versez l’eau et le vinaigre. Ajoutez ensuite le bica
 Attention le mélange va mousser.\
 Attendez quelques minutes que cela cesse puis ajoutez ensuite les gouttes HE.
 
+![Ingrédients adoucissant dans un saladier entrain de mousser ](/img/assouplissant-en-fabrication.jpg "Adoucissant en fabrication ")
+
 Versez l’adoucissant dans un ancien bidon d’adoucissant ou de lessive à l’aide d’un entonnoir.
 
 #### Utilisation :
 
 Versez 1 à 2 bouchons d’adoucissant à chaque lessive.
+
+![Bidon adoucissant ](/img/assouplissant-.jpg "Bidon adoucissant ")
 
 - - -
 
@@ -209,11 +233,12 @@ Versez 1 à 2 bouchons d’adoucissant à chaque lessive.
 
 Faites bouillir l’eau.
 
-Dans un grand récipient, déposez les copeaux de savon et le bicarbonate de soude.
-
+Dans un grand récipient, déposez les copeaux de savon et le bicarbonate de soude.\
 Ajoutez ensuite l’eau chaude.
 
 Mélangez et mixez quelques minutes à l’aide d’un plongeur à soupe afin de bien faire fondre les copeaux de savons.
+
+![Liquide de lessive après refroidissement ](/img/lessive-prepa.jpg "Préparation lessive ")
 
 Laissez le mélange refroidir totalement. Et ajoutez pour finir les gouttes HE.
 
@@ -225,10 +250,18 @@ La préparation a tendance à se solidifier. Secouez le bidon avant utilisation 
 
 Versez 1 à 2 bouchons pour chaque lessive.
 
+![Bidon lessive ](/img/lessive.jpg "Bidon lessive ")
+
 - - -
 
 ### Autre :
 
 * En détachant, j’utilise un savon spécial détachant acheté en magasin bio.
+
+![Savon détachant ](/img/savon-detachant.jpg "Savon détachant ")
+
 * Pour éviter les odeurs de poubelle, je mets 1 à 2 cuillères à soupe de bicarbonate de soude dans le fond de ma poubelle avant de mettre le sac poubelle.
+
+![Bicarbonate de soude au fond de la poubelle ](/img/poubelle.jpg "Poubelle")
+
 * Pour réaliser le ménage, j’utilise des chiffons microfibre ainsi que des torchons.

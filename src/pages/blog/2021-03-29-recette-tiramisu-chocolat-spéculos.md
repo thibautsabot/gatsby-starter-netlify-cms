@@ -44,17 +44,17 @@ Réservez la préparation au frigo.
 
 Vous pouvez réaliser cette recette dans un grand plat ou dans des ramequins individuels.
 
- Ecrasez les spéculos et recouvrez le fond du plat avec les 2/3 des biscuits. Imbibez-les ensuite de chocolat chaud.\
+Écrasez les spéculos et recouvrez le fond du plat avec les 2/3 des biscuits. Imbibez-les ensuite de chocolat chaud.\
 Faites fondre votre chocolat au bain-marie et déposez une partie du chocolat sur les spéculos.
 
 ![Spéculos écrasés, imbibé de chocolat chaud et ajout ensuite du chocolat fondu ](/img/premier-couche-tiramisu.jpg "Première couche tiramisu ")
 
 Verser ensuite la moitié de la crème mascarpone par-dessus.\
-Réaliser une deuxième couche avec le reste de spéculos et de chocolat fondu.\
-Finissez par une couche de mascarpone.
+Réaliser une deuxième couche avec le reste de spéculos et de chocolat fondu.
 
 ![Ajout crème mascarpone et formation de la deuxième couche tiramisu ](/img/construction-tiramisu-.jpg "Deuxième couche tiramisu ")
 
+Finissez par une couche de mascarpone.\
 *Adaptez le nombre de couches de votre tiramisu en fonction de la taille de votre plat.*
 
 Réservez le dessert au réfrigérateur pendant minimum 3h. Le tiramisu est meilleur lorsqu’il est préparé la veille.

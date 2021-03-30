@@ -33,14 +33,13 @@ Puis, déposez-la sur une plaque de cuisson et délimitez les bords.
 
 ![Pâte à pizza étalé sur une plaque de cuisson ](/img/pate-pizza-etale.jpg "Pâte à pizza ")
 
-Répartissez la sauce tomate puis ajoutez les garnitures : champignons coupés en tranche, gruyère et lardons (vous pouvez les enlever pour une option végétarienne).\
+Répartissez la sauce tomate puis ajoutez les garnitures : champignons coupés en tranche, gruyère et lardons.\
+*Vous pouvez les enlever pour une option végétarienne.*\
 Assaisonnez la pizza avec du sel, du poivre et de l’origan.
 
 ![Garniture déposé sur la pâte à pizza avant cuisson ](/img/garniture-pizza.jpg "Garniture pizza ")
 
 Enfournez pendant 15 à 20min jusqu’à que la pâte soit bien dorée.
-
- 
 
 ![Pizza après cuisson avant de déposer les derniers ingrédients  ](/img/pizza-cuit-av-burrata-et-roquette-.jpg "Pizza après cuisson ")
 

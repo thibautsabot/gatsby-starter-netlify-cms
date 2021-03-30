@@ -35,6 +35,7 @@ Puis, déposez-la sur une plaque de cuisson et délimitez les bords.
 
 Répartissez la sauce tomate puis ajoutez les garnitures : champignons coupés en tranche, gruyère et lardons.\
 *Vous pouvez les enlever pour une option végétarienne.*\
+\
 Assaisonnez la pizza avec du sel, du poivre et de l’origan.
 
 ![Garniture déposé sur la pâte à pizza avant cuisson ](/img/garniture-pizza.jpg "Garniture pizza ")

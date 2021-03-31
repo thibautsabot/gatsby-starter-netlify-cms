@@ -9,7 +9,6 @@ description: >
 featuredpost: true
 featuredimage: /img/couv-pancake-banana.jpg
 tags:
-  - antigaspi
   - petitdej
 ---
 

@@ -16,7 +16,7 @@ Temps de cuisson : 20 min
 
 ## Ingrédients :
 
-*  250g de farine de maïs
+* 250g de farine de maïs
 * 250g de farine de blé
 * 2 sachets de levure boulangère sèche (environ 10g)
 * 350ml d’eau
@@ -53,7 +53,8 @@ Ensuite, travaillez la pâte pour chasser l’air et ajoutez les graines de tour
 ![Ajout des graines de tournesol à la pâte à pain ](/img/mais-ajout-graines.jpg "Ajout graines de tournesol ")
 
 Donnez la forme souhaitée à la pâte (boule ou long).\
-Déposez le pâton sur une plaque de cuisson farinée. Puis incisez le dessus à l’aide d’un couteau, saupoudrez de farine et de quelques graines de tournesol.
+Déposez le pâton sur une plaque de cuisson farinée. \
+Puis incisez le dessus à l’aide d’un couteau, saupoudrez de farine et de quelques graines de tournesol.
 
 ![Pain au maïs formé en long avant deuxième levé, sur une plaque de cuisson ](/img/pain-mais-forme.jpg "Pain de maïs")
 

@@ -41,7 +41,7 @@ Versez dans un verre et dégustez.
 
 </br>
 
-#### Version chocolat :
+### Version chocolat :
 
 ![Ingrédients milkshake chocolat dans un blinder avant mixage ](/img/ingredients-milkshake.jpg "Ingrédients milkshake chocolat ")
 
@@ -51,7 +51,7 @@ Versez dans un verre et dégustez.
 
 #### </br>
 
-#### Version vanille :
+### Version vanille :
 
 ![Ingrédients milkshake vanille dans un blinder avant mixage ](/img/milkshake-vanille-.jpg "Ingrédients milkshake vanille")
 

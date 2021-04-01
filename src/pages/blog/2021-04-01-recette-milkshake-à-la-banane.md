@@ -39,8 +39,6 @@ Mixez 30 secondes à 1 minute, jusqu’à obtenir une texture lisse. 
 
 Versez dans un verre et dégustez.
 
-</br>
-
 ### Version chocolat :
 
 ![Ingrédients milkshake chocolat dans un blinder avant mixage ](/img/ingredients-milkshake.jpg "Ingrédients milkshake chocolat ")
@@ -48,8 +46,6 @@ Versez dans un verre et dégustez.
 ![Ingrédients mixé dans un blinder](/img/ingredients-mixe-milkshake.jpg "Préparation milkshake ")
 
 ![Milkshake chocolat versé dans un verre avec une paille en inox ](/img/verre-milkshake.jpg "Milkshake à la banane et au chocolat ")
-
-#### </br>
 
 ### Version vanille :
 

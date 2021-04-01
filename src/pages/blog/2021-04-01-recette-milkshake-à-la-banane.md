@@ -15,14 +15,14 @@ Nombre de personnes : 2 
 
 ## Ingrédients :
 
-### Version chocolat :
+#### Version chocolat :
 
 * 250ml de lait
 * 1 banane
 * 1 cuillère à café de cacao amer
 * Glaçons
 
-### Version vanille :
+#### Version vanille :
 
 * 250ml de lait
 * 1 banane

@@ -15,14 +15,14 @@ Nombre de personnes : 2 
 
 ## Ingrédients :
 
-##### Version chocolat : 
+### Version chocolat :
 
 * 250ml de lait
 * 1 banane
 * 1 cuillère à café de cacao amer
 * Glaçons
 
-##### Version vanille :
+### Version vanille :
 
 * 250ml de lait
 * 1 banane
@@ -41,7 +41,7 @@ Versez dans un verre et dégustez.
 
 </br>
 
-#### Version chocolat : 
+#### Version chocolat :
 
 ![Ingrédients milkshake chocolat dans un blinder avant mixage ](/img/ingredients-milkshake.jpg "Ingrédients milkshake chocolat ")
 
@@ -51,13 +51,11 @@ Versez dans un verre et dégustez.
 
 #### </br>
 
-#### Version vanille : 
+#### Version vanille :
 
 ![Ingrédients milkshake vanille dans un blinder avant mixage ](/img/milkshake-vanille-.jpg "Ingrédients milkshake vanille")
 
 ![Milkshake vanille versé dans un verre avec une paille en inox ](/img/verre-milkshake-vanille-.jpg "Milkshake vanille ")
-
-
 
 </br>
 

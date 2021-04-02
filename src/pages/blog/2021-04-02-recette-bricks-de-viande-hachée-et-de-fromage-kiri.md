@@ -7,7 +7,7 @@ description: >-
 
   Délicieuses et croustillantes, ces bricks sont parfaites en plat ou à picorer à l’apéro.
 featuredpost: true
-featuredimage: /img/couv-brick-viande-.jpg
+featuredimage: /img/brick-cuite.jpg
 tags:
   - plats
 ---

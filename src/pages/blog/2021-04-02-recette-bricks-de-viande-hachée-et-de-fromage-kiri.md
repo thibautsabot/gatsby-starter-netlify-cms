@@ -7,7 +7,7 @@ description: >-
 
   Délicieuses et croustillantes, ces bricks sont parfaites en plat ou à picorer à l’apéro.
 featuredpost: true
-featuredimage: /img/brick-cuite.jpg
+featuredimage: /img/couv-brick-viande-.jpg
 tags:
   - plats
 ---
@@ -17,7 +17,7 @@ Nombre de parts : 20 bricks
 
 ## Ingrédients :
 
-* 350g de viande hachée
+* 350g de viande hachée 
 * ¼ d’oignon
 * 2 gousses d’ail
 * 4 cuillères à soupe de sauce tomate

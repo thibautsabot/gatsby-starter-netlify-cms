@@ -54,6 +54,6 @@ Une fois chaud, versez de la pâte dans et laissez cuire.
 
 ![Pâte à gaufres avec épinards déposé dans le gaufrier ](/img/cuisson-gaufre.jpg "Cuisson gaufres ")
 
-Avant de servir, déposez des morceaux de fromage de chèvre sur vos gaufres.  
-
 ![Gaufres aux épinards cuites dans une assiette ](/img/gaufre-cuite.jpg "Gaufres cuites ")
+
+Avant de servir, déposez des morceaux de fromage de chèvre sur vos gaufres.

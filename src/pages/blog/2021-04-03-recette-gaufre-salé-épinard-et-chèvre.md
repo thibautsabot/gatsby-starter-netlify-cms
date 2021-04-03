@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Recette gaufre salé épinard et chèvre
+title: Recette gaufres salées aux épinards et fromage de chèvre
 date: 2021-04-03T13:30:32.628Z
 description: Les gaufres salées sont une option originale et parfaite pour
   l’apéro ou en entrée.
@@ -24,7 +24,7 @@ Nombre de personnes : 5 à 6 personnes
 * 60g de pousses d’épinards
 * ½ buche de fromage de chèvre
 
-*Cette recette nécessite un appareil à gaufres.*
+*Cette recette nécessite un gaufrier.*
 
 ## Réalisation :
 
@@ -40,15 +40,13 @@ Puis laissez la pâte reposer pendant 30 minutes.
 
 ![Pâte à gaufres homogène dans un saladier](/img/pate-a-gauffre-fini.jpg "Pâte à gaufres ")
 
-Pendant ce temps, rincez et hachez les pousses d’épinards.
-
+Pendant ce temps, rincez et hachez les pousses d’épinards.\
 Ajoutez-les ensuite à la pâte à gaufres.
 
 ![Pousses épinards hachées et déposé dans la pâte à gaufres ](/img/pate-a-gaufre-avec-epinard.jpg "Pâte à gaufres avec épinards ")
 
-*Branchez l’appareil à gaufres.*
-
-*Mon gaufrier comporte des plaques spéciales pour des petites gaufres, des plaques normales font très bien l’affaire, vous pouvez découper vos gaufres en petits morceaux par la suite si vous le souhaitez.*
+Branchez l’appareil à gaufres.\
+*Mon gaufrier comporte des plaques spéciales pour des petites gaufres, des plaques normales feront très bien l’affaire, vous pouvez découper vos gaufres en petits morceaux par la suite si vous le souhaitez.*
 
 ![Gaufrier avec plaque petites gaufres ](/img/gaufrier-.jpg "Gaufrier ")
 

@@ -293,8 +293,13 @@ $menu-label-color: $white-ter
   font-style: italic
 
 .logoAccueil
-  height: 200px
-  transition: transform 1s ease;
+  margin-top: 30px
+  transition: transform 1s ease
+  image-rendering: -moz-crisp-edges /* Firefox */
+  image-rendering: -o-crisp-edges /* Opera */
+  image-rendering: -webkit-optimize-contrast /* Webkit (non-standard naming) */
+  image-rendering: crisp-edges
+  -ms-interpolation-mode: nearest-neighbor /* IE (non-standard property) */
 .logoAccueil:hover
   transform: rotate(360deg);
 .logoAccueilContainer
@@ -302,6 +307,8 @@ $menu-label-color: $white-ter
   justify-content: center
 .justified > p
   text-align: justify
+.last-news
+  margin-top: 30px
 
 .notFound
   display: flex
@@ -309,8 +316,7 @@ $menu-label-color: $white-ter
   flex-direction: column
 
 .notFoundLogo
-  height: 300px
-  width: 250px
+  margin: 20px 0
 
 .navbar-item.has-dropdown:focus .navbar-link, .navbar-item.has-dropdown:hover .navbar-link, .navbar-item.has-dropdown.is-active .navbar-link
   background-color: transparent !important

@@ -1,4 +1,4 @@
-import './index.css'
+import "./index.css";
 
 import Banner from "../components/Banner";
 import BlogIndexPage from "../pages/blog";
@@ -45,22 +45,22 @@ const IndexPage = () => {
                       <p>
                         Bonne visite sur <strong>Bananeplantée !</strong>
                       </p>
-                      <div className="logoAccueilContainer">
-                        <img
-                          height="200px"
-                          width="159px"
-                          className="logoAccueil"
-                          alt="logos bananeplantee"
-                          src={logo}
-                        />
-                      </div>
                     </div>
                   </div>
-                  <div className="column is-12">
+                  <div className="column is-12 last-news">
                     <h1 className="has-text-weight-semibold is-size-2">
                       Derniers articles
                     </h1>
                     <BlogIndexPage />
+                  </div>
+                  <div className="logoAccueilContainer">
+                    <img
+                      height="150px"
+                      width="116px"
+                      className="logoAccueil"
+                      alt="logos bananeplantee"
+                      src={logo}
+                    />
                   </div>
                 </div>
               </div>

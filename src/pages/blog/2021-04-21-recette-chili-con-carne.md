@@ -48,10 +48,9 @@ Pour finir, réalisez l’assaisonnement avec le cumin, l’origan, le sel, le p
 
 ![Ensemble des ingrédients en train de mijoter dans une grand cocotte ](/img/chili-en-prepa.jpg "Préparation du chili qui mijote ")
 
-Mélangez tous les ingrédients.
-
+Mélangez tous les ingrédients.\
 Laissez mijoter à feu doux en mélangeant régulièrement pendant 20 à 30 minutes.
 
-Vous pouvez accompagner le chili avec du riz.
+*Vous pouvez accompagner le chili avec du riz.*
 
 ![Assiette de chili con carne avec préparation à la viande accompagné de riz ](/img/assiette-chili-modif.jpg "Assiette de chili con carne")

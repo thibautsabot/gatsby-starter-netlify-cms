@@ -2,9 +2,9 @@
 templateKey: blog-post
 title: Recette blondie aux framboises
 date: 2021-04-04T09:24:05.177Z
-description: Le blondie est une sorte de maxi cookie avec un cœur moelleux comme
-  le brownie. Vraiment facile à réaliser et avec des framboises la gourmandise
-  est garantie.
+description: Le blondie est un maxi cookie avec un cœur moelleux comme le
+  brownie. Vraiment facile à réaliser et avec des framboises la gourmandise est
+  garantie.
 featuredpost: true
 featuredimage: /img/couv-bloodie.jpg
 tags:

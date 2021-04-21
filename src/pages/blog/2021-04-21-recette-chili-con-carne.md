@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Recette chili con carne
+title: Recette de chili con carne
 date: 2021-04-21T12:16:47.000Z
 description: >
   Plat originaire de la cuisine Tex-Mex, délicieux et surtout très simple à

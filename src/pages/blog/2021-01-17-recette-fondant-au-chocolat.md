@@ -25,15 +25,14 @@ Temps de cuisson : 18min
 
 Préchauffez le four à 180°.
 
-Faites fondre le chocolat avec le beurre au bain-marie.
-
-Dans un saladier, battez les œufs avec le sucre jusqu’à ce que le mélange blanchisse.\
-Une fois fondu, ajoutez le chocolat puis l’extrait de vanille.\
-Ensuite, mélangez les œufs un par un à la préparation.
+Faites fondre le chocolat avec le beurre au bain-marie.\
+Puis versez le mélange dans un saladier et ajoutez le sucre. \
+\
+Ajoutez ensuite les oeufs un par un à la préparation en mélangeant entre chaque. 
 
 ![Préparation de la pâte avec ajout des oeufs un par un](/img/pate-en-prepa-1.jpg "Préparation de la pâte")
 
-Et pour finir, tamisez la maïzena et ajoutez-la à la pâte.  
+Pour finir, tamisez la maïzena et ajoutez-la à la pâte.  
 
 ![Préparation de la pâte avec ajout de la maïzena tamisé](/img/pate-en-preparation.jpg "Préparation de la pâte ")
 

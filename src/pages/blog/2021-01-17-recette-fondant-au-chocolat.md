@@ -36,7 +36,7 @@ Pour finir, tamisez la maïzena et ajoutez-la à la pâte.  
 
 ![Préparation de la pâte avec ajout de la maïzena tamisé](/img/pate-en-preparation.jpg "Préparation de la pâte ")
 
-Faites cuire 18min environ.\
+Faites cuire le fondant entre 10 et 15 minutes. \
 *Vérifiez la cuisson de votre gâteau en plantant un couteau au centre, la pointe doit rester humide pour avoir un gâteau bien fondant.*
 
 ![Fondant au chocolat sortant du four encore dans son moule ](/img/fondant-cuit.jpg "Fondant cuit ")

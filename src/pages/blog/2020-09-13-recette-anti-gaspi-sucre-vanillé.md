@@ -11,18 +11,13 @@ featuredimage: /img/sucre-vanille-maison.jpg
 tags:
   - antigaspi
 ---
-
 ## Réalisation :
 
-_On utilise principalement la gousse de vanille en infusion dans le lait pour aromatiser un dessert._
+Récupérez la gousse de vanille déjà utilisé et rincez la à l'eau.\
+Faites la sécher à l’air libre pendant 2-3 jours.
 
 ![Gousse de vanille imbibée de lait](/img/sucre-vanille-avec-lait.jpg "Gousse de vanille ")
 
-Faites sécher à l’air libre votre gousse de vanille imbibée de lait pendant 2-3 jours.
-
-![Gousse de vanille sechée à l'air libre ](/img/sucre-vanille-seche.jpg "Gousse de vanille sechée")
-
-\
 Mixez la gousse dans un blinder.\
 Mettez la poudre de vanille dans un contenant refermable (exemple : pot en verre 400g)\
 Ajoutez environ 300g sucre blanc et mélangez.\

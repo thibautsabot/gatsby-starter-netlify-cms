@@ -29,10 +29,11 @@ Nombre de parts : 15 cookies
 
 Préchauffez le four à 180°.
 
-Dans un saladier, versez la farine, le sucre, la levure, le sel.\
-Ajoutez ensuite le beurre pommade, l’œuf et l’extrait de vanille. Mélangez la pâte à la main ou à l’aide d’une cuillère en bois.
+Dans un saladier, versez la farine, le sucre, la levure et le sel.\
+Ajoutez ensuite le beurre pommade, l’œuf et l’extrait de vanille. \
+Mélangez la pâte à la main ou à l’aide d’une cuillère en bois.
 
-Pour avoir une bonne pâte à cookies, il ne faut pas trop la mélanger, elle ne doit pas être liquide. Dès que l’ensemble des ingrédients sont incorporés et que la pâte se décolle des parois, c’est prêt.
+*La pâte à cookie doit être assez compacte et se décoller des parois.*
 
 ![Pâte à cookies crue avec carrés de chocolats dans un saladier ](/img/pate-a-cookies-crus.jpg "Pâte à cookies crue")
 

@@ -49,7 +49,6 @@ Versez la farine et mélangez bien jusqu’à obtenir une pâte homogène.
 
 ![Pâte à brownie homogène dans un saladier ](/img/pate-choco-brooki.jpg "Pâte à brownie ")
 
-\
 Pour finir, déposez la préparation dans un moule carré ou rectangle.\
 *Pensez à beurrer et fariner le moule si celui-ci n’est pas en silicone.*
 
@@ -64,6 +63,7 @@ Ajoutez ensuite le beurre mou, l’œuf et l’extrait de vanille.
 
 Puis mélangez la pâte à la main ou à l’aide d’une cuillère en bois.\
 *La pâte à cookie doit être assez compacte et se décoller des parois.*\
+\
 Incorporez ensuite les pépites de chocolat.
 
 ![Pâte à cookies avec pépites de chocolat prête à être cuite dans un saladier ](/img/pate-cookie-brookie.jpg "Pâte à cookies ")
@@ -73,7 +73,7 @@ Déposez ensuite délicatement la pâte à cookie par-dessus la préparation du 
 ![Pâte à cookies déposé délicatement sur la pâte à brownie](/img/deuxieme-couche-brookie.jpg "Deuxième couche brookies")
 
 Faites cuire au four pendant 30 à 40min.\
-*Surveillez la cuisson en plantant une lame de couteau au centre du gâteau, celle-ci devra ressortir humide.*  
+*Surveillez la cuisson avec une lame de couteau, celle-ci devra ressortir humide.*  
 
 ![Brookies cuit et démoulé avant d'être découpées en petites parts](/img/brookie-cuit.jpg "Brookies cuit")
 

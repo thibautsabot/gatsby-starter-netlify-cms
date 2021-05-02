@@ -32,13 +32,13 @@ Faites fondre au bain-marie le chocolat avec le beurre.
 
 ![Chocolat et beurre au bain-marie ](/img/chocolat-et-beurre-fondu-2.jpg "Mélange chocolat et beurre fondu")
 
-Pendant ce temps, dans un saladier, battez les œufs avec le sucre blanc et le sucre vanillé jusqu’à que le mélange blanchisse.
+Dans un saladier, battez les œufs avec le sucre blanc et le sucre vanillé jusqu’à que le mélange blanchisse.
 
 ![Mélange sucre et oeufs blanchie ](/img/melange-oeuf-sucre.jpg "Mélange sucre et oeufs ")
 
-Une fois que le chocolat et le beurre sont fondus, ajoutez-les au mélange sucre/œufs afin d’obtenir une pâte homogène. Versez ensuite les 60g de farine.
-
-Ajoutez les noix à votre préparation (autant que vous le souhaitez).
+Une fois que le chocolat et le beurre sont fondus, ajoutez-les au mélange sucre/œufs.\
+Versez ensuite la farine et mélangez jusqu'à obtenir une pâte homogène. \
+Pour finir, ajoutez les noix à votre préparation *(autant que vous le souhaitez)*.
 
 ![Pâte brownie dans un saladier ](/img/pate-brownie.jpg "Pâte brownie")
 
@@ -47,4 +47,4 @@ Déposez des morceaux de beurre de cacahuète sur la pâte à brownie puis recou
 
 ![Pâte avec les morceaux de beurre de cacahuète dans un moule à gateau ](/img/brownie-avant-cuisson-.jpg "Pâte avec les morceaux de beurre de cacahuète")
 
-Faites cuire environ 20min.
+Faites cuire au four pendant environ 20min.

@@ -13,9 +13,7 @@ Cette recette permet de réaliser son petit déjeuner en fonction de ses envies.
 
 Ici, j’ai réalisé un porridge flocon d’avoine, lait végétal à la vanille, accompagné de fraises et de noix de coco. Les proportions fonctionnent très bien, il ne vous reste plus qu’à choisir vos ingrédients préférés.
 
-
-
-Temps de préparation : 15mi\
+Temps de préparation : 15min\
 Nombre de personne : 1 
 
 ## Ingrédients :
@@ -26,8 +24,7 @@ Nombre de personne : 1 
 
 ## Réalisation :
 
-Versez le lait dans une casserole et faites-le chauffer pendant 4/5min.
-
+Versez le lait dans une casserole et faites-le chauffer pendant 4/5min.\
 Versez ensuite les flocons de céréales.
 
 ![Lait et flocons versé dans une casserole, en cuisson à feu moyen ](/img/lait-et-flocon.jpg "Cuisson porridge ")

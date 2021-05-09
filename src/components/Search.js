@@ -10,7 +10,7 @@ const ARROW_UP = 38
 
 const Search = ({ searchIndex }) => {
   const [query, setQuery] = useState("");
-  const [isOpen, setIsOpen] = useState(false);
+  const [isOpen, setIsOpen] = useState(true);
   const [results, setResults] = useState([]);
   const searchRef = useRef(null);
   const listRef = useRef(null);
@@ -19,7 +19,7 @@ const Search = ({ searchIndex }) => {
   useEffect(() => {
     const handleVisibility = (event) => {
       if (searchRef.current?.contains(event.target)) {
-        setIsOpen(isOpen => !isOpen);
+        setIsOpen(true);
       } else {
         setIsOpen(false);
       }

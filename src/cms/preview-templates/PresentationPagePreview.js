@@ -1,4 +1,4 @@
-import { PresentationPageTemplate } from '../../templates/presentation-page'
+import PresentationPageTemplate from '../../templates/presentation-template'
 import PropTypes from 'prop-types'
 import React from 'react'
 

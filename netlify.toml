@@ -1,8 +1,8 @@
 [build]
   publish = "public"
-  command = "rm -rf .cache/caches/@gatsby-contrib/gatsby-plugin-elasticlunr-search && npm run build || { cat /opt/buildhome/.npm/_logs/* ; sleep 30 ; false; }"
+  command = "npm run build || { cat /opt/buildhome/.npm/_logs/* ; sleep 30 ; false; }"
   functions = "lambda"
 [build.environment]
-  NODE_VERSION = "15"
+  NODE_VERSION = "16"
 [[plugins]]
   package = "netlify-plugin-gatsby-cache"

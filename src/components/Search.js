@@ -19,7 +19,7 @@ const Search = ({ searchIndex }) => {
   useEffect(() => {
     const handleVisibility = (event) => {
       if (searchRef.current?.contains(event.target)) {
-        setIsOpen(!isOpen);
+        setIsOpen(isOpen => !isOpen);
       } else {
         setIsOpen(false);
       }

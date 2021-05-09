@@ -9,8 +9,7 @@ module.exports = {
     description: "Le site de cuisine zéro dechet !",
   },
   flags: {
-    LAZY_IMAGES: true,
-    QUERY_ON_DEMAND: true,
+    DEV_SSR: true,
   },
   plugins: [
     "gatsby-plugin-image",
@@ -35,9 +34,6 @@ module.exports = {
     "gatsby-plugin-remove-serviceworker",
     {
       resolve: "gatsby-plugin-sass",
-      options: {
-        indentedSyntax: true,
-      },
     },
     {
       // keep as first gatsby-source-filesystem plugin for gatsby image support
@@ -82,7 +78,7 @@ module.exports = {
             slug: (node) => node.fields.slug,
           },
         },
-        filter: (node, getNode) => node.frontmatter.tags !== "exempt",
+        filter: (node) => node.frontmatter.tags !== "exempt",
       },
     },
     "gatsby-plugin-sharp",
@@ -130,13 +126,13 @@ module.exports = {
       resolve: "gatsby-plugin-purgecss", // purges all unused/unreferenced css rules
       options: {
         develop: true, // Activates purging in npm run develop
-        purgeOnly: ["/all.sass"], // applies purging only on the bulma css file
+        purgeOnly: ["/all.scss"], // applies purging only on the bulma css file
       },
     }, // must be after other CSS plugins
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: process.env.GA_TRACKING_ID,
+        trackingId: process.env.GA_TRACKING_ID || 'devGAID',
         head: false,
         anonymize: true,
         respectDNT: true,

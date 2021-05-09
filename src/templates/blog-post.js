@@ -1,61 +1,12 @@
 import "./blog-post.css"
 
-import Content, { HTMLContent } from '../components/Content'
-import { Link, graphql } from 'gatsby'
-
+import BlogPostTemplate from './blog-template'
+import { HTMLContent } from '../components/Content'
 import { Helmet } from 'react-helmet'
 import Layout from '../components/Layout'
 import PropTypes from 'prop-types'
 import React from 'react'
-import { kebabCase } from 'lodash'
-
-export const BlogPostTemplate = ({
-  content,
-  contentComponent,
-  description,
-  tags,
-  title,
-  helmet,
-}) => {
-  const PostContent = contentComponent || Content
-
-  return (
-    <section className="section">
-      {helmet || ''}
-      <div className="container content">
-        <div className="columns">
-          <div className="column is-10 is-offset-1">
-            <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
-              {title}
-            </h1>
-            <p>{description}</p>
-            <PostContent className="justified" content={content} />
-            {tags && tags.length ? (
-              <div style={{ marginTop: `4rem` }}>
-                <h3>Tags</h3>
-                <ul className="taglist">
-                  {tags.map((tag) => (
-                    <li key={tag + `tag`}>
-                      <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
-                    </li>
-                  ))}
-                </ul>
-              </div>
-            ) : null}
-          </div>
-        </div>
-      </div>
-    </section>
-  )
-}
-
-BlogPostTemplate.propTypes = {
-  content: PropTypes.node.isRequired,
-  contentComponent: PropTypes.func,
-  description: PropTypes.string,
-  title: PropTypes.string,
-  helmet: PropTypes.object,
-}
+import { graphql } from 'gatsby'
 
 const BlogPost = ({ data }) => {
   const { markdownRemark: post } = data

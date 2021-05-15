@@ -3,11 +3,11 @@ import { StaticQuery, graphql } from "gatsby";
 import BlogRoll from "../../components/BlogRoll";
 import React from "react";
 
+// Only used for squared thumbnail on homepage and tags
+// https://www.gatsbyjs.com/docs/reference/release-notes/image-migration-guide/
+
 export const featuredImageFragment = graphql`
   fragment featuredImageFragment on ImageSharp {
-    fluid(maxWidth: 120, quality: 100) {
-      ...GatsbyImageSharpFluid
-    }
     gatsbyImageData(
       width: 120
       height: 120

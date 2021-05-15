@@ -1,15 +1,17 @@
 import { GatsbyImage } from "gatsby-plugin-image";
-// import Img from 'gatsby-image'
 import PropTypes from "prop-types";
 import React from "react";
+
+// Only used for squared thumbnail on homepage and tags
+// Infos come from BlogRoll
 
 const PreviewCompatibleImage = ({ imageInfo }) => {
   const imageStyle = { borderRadius: "5px" };
   const { alt = "", childImageSharp, image } = imageInfo;
 
   if (!!image && !!image.childImageSharp) {
+    // Usually goes here
     return (
-      // <Img style={imageStyle} fluid={image.childImageSharp.fluid} alt={alt} />
       <GatsbyImage
         style={imageStyle}
         image={image.childImageSharp.gatsbyImageData}
@@ -19,7 +21,6 @@ const PreviewCompatibleImage = ({ imageInfo }) => {
   }
 
   if (!!childImageSharp) {
-    // return <Img style={imageStyle} fluid={childImageSharp.fluid} alt={alt} />
     return (
       <GatsbyImage
         style={imageStyle}
@@ -29,8 +30,9 @@ const PreviewCompatibleImage = ({ imageInfo }) => {
     );
   }
 
-  if (!!image && typeof image === "string")
+  if (!!image && typeof image === "string") {
     return <img style={imageStyle} src={image} alt={alt} />;
+  }
 
   return null;
 };

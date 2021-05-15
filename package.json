@@ -10,7 +10,6 @@
     "dotenv": "^9.0.2",
     "gatsby": "^3.5.0",
     "gatsby-cli": "^3.5.0",
-    "gatsby-image": "^3.5.0",
     "gatsby-plugin-google-analytics": "^3.5.0",
     "gatsby-plugin-image": "^1.5.0",
     "gatsby-plugin-mailgo": "^0.12.1",

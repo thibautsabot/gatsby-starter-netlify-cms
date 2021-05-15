@@ -86,6 +86,7 @@ module.exports = {
     "gatsby-plugin-sharp",
     "gatsby-transformer-sharp",
     {
+      // Used for large images in posts
       resolve: "gatsby-transformer-remark",
       options: {
         plugins: [

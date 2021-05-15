@@ -4,6 +4,7 @@ import React from "react";
 import { StaticImage } from "gatsby-plugin-image";
 
 const Banner = ({ title }) => {
+  // https://www.gatsbyjs.com/docs/reference/built-in-components/gatsby-plugin-image/#staticimage
   return (
     <div role="banner" style={{ position: "relative", display: "flex" }}>
       <StaticImage

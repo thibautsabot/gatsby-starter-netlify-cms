@@ -29,8 +29,7 @@ Découpez le chorizo en petits morceaux.
 
 ![Chorizo coupé en petits dès](/img/des-chorizo.jpg "Dès de chorizo")
 
-Dans une casserole, déposez les morceaux de chorizo, les tomates pelées et 2 cuillères à soupe de crème fraîche.
-
+Dans une casserole, déposez les morceaux de chorizo, les tomates pelées et 2 cuillères à soupe de crème fraîche.\
 Assaisonnez la préparation avec du sel, du poivre et du paprika.\
 *Vous pouvez ajouter du piment, à adapter en fonction de vos goûts et du niveau de piment du chorizo.*  
 
@@ -49,6 +48,8 @@ Puis refaites mijoter quelques minutes.
 
 ![Sauce au chorizo mixé et remijoté avec le reste de la crème, prête à être servi ](/img/sauce-fini-chorizo.jpg "Sauce chorizo prête ")
 
-Une fois les pâtes cuitent, égouttez-les, déposez-les dans une assiette et ajoutez la sauce au chorizo par-dessus.  
+Une fois les pâtes cuitent, égouttez-les, déposez-les dans une assiette et ajoutez la sauce au chorizo par-dessus. \
+\
+*Vos pâtes sont prêtes, vous pouvez les déguster !*
 
 ![Sauce au chorizo déposé sur des pâtes ](/img/pate-avec-sauce-.jpg "Plat pâtes au chorizo ")

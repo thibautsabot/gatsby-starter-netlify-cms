@@ -3,6 +3,6 @@
   command = "npm run build || { cat /opt/buildhome/.npm/_logs/* ; sleep 30 ; false; }"
   functions = "lambda"
 [build.environment]
-  NODE_VERSION = "16"
+  NODE_VERSION = "15"
 [[plugins]]
   package = "netlify-plugin-gatsby-cache"

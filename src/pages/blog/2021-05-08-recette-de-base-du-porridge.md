@@ -30,7 +30,7 @@ Versez ensuite les flocons de céréales.
 ![Lait et flocons versé dans une casserole, en cuisson à feu moyen ](/img/lait-et-flocon.jpg "Cuisson porridge ")
 
 Faites cuire une dizaine de minutes en remuant régulièrement à feu moyen.\
-*Le porridge est prêt lorsque les flocons ont absorbé le liquide et que la texture est devenue crémeuse.*
+*Le porridge est prêt lorsque les flocons ont absorbés le liquide et que la texture est devenue crémeuse.*
 
 ![Porridge crémeux : flocons de céréales ont absorbé le lait](/img/porridge-cuit.jpg "Porridge cuit")
 

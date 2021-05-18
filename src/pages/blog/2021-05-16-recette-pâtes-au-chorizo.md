@@ -33,7 +33,7 @@ Dans une casserole, déposez les morceaux de chorizo, les tomates pelées et 2 c
 Assaisonnez la préparation avec du sel, du poivre et du paprika.\
 *Vous pouvez ajouter du piment, à adapter en fonction de vos goûts et du niveau de piment du chorizo.*  
 
-![Ingrédients de la sauce déposé dans une casserole](/img/prepa-sauce-chorizo.jpg "Préparation sauce chorizo ")
+![Ingrédients de la sauce déposés dans une casserole](/img/prepa-sauce-chorizo.jpg "Préparation sauce chorizo ")
 
 Faites mijoter pendant 10 minutes.
 

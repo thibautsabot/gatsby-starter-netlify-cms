@@ -59,7 +59,7 @@ Pour finir, déposez la préparation dans un moule carré ou rectangle.\
 Dans un saladier, versez la farine, les sucres et la levure.\
 Ajoutez ensuite le beurre mou, l’œuf et l’extrait de vanille.
 
-![Préparation pâte à cookies avec ajout oeuf, beurre et vanille au ingrédients secs](/img/prepa-pate-brookie-cook.jpg "Préparation pâte à cookies ")
+![Préparation pâte à cookies avec ajout d'oeuf, beurre et vanille au ingrédients secs](/img/prepa-pate-brookie-cook.jpg "Préparation pâte à cookies ")
 
 Puis mélangez la pâte à la main ou à l’aide d’une cuillère en bois.\
 *La pâte à cookie doit être assez compacte et se décoller des parois.*\

@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Recette brookies
 date: 2021-05-02T08:17:52.958Z
 description: >+
-  Le brookies est mélange parfait entre le moelleux du brownie et le
+  Le brookies est un mélange parfait entre le moelleux du brownie et le
   croustillant des cookies. À tester absolument !
 
 

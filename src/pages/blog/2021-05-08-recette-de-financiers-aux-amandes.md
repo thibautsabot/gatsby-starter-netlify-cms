@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Recette de financiers aux amandes
-date: 2021-05-08T08:51:50.996Z
+date: 2021-05-23T08:02:11.439Z
 description: "Une recette délicieuse mais également anti-gaspi, qui permet de
   passer  des blancs d’œufs non utilisés. "
 featuredpost: true

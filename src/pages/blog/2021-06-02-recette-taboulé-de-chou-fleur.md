@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Recette taboulé de chou-fleur
-date: 2021-06-02T16:39:36.557Z
+date: 2021-06-06T11:36:17.258Z
 description: >-
   
   Voici une recette saine, fraiche et estivale. La semoule de chou-fleur remplace la semoule classique, un taboulé 100% aux légumes.
@@ -44,14 +44,13 @@ Versez la semoule de chou-fleur, les légumes coupés et les raisins secs dans u
 
 Puis, ajoutez les feuilles de basilic ciselé finement.
 
-Réalisez la vinaigrette :
-
+Réalisez la vinaigrette :\
 Mélangez la moutarde, le jus de citron, le vinaigre, le sel et le poivre dans un bol et montez ensuite la vinaigrette avec l’huile de noix.
 
 ![Vinaigrette réalisé dans un bol monté à l'huile de noix ](/img/vinaigrette-.jpg "Vinaigrette ")
 
 Assaisonnez votre taboulé avec la vinaigrette et mélangez bien.
 
-Se déguste frais.
+*Se déguste frais.*
 
 ![Ensemble des ingrédients du taboulé mélangé et assaisonnement fait avec la vinaigrette. Taboulé dans un saladier, prêt à être dégusté](/img/taboule-pret.jpg "Taboulé prêt à être dégusté")

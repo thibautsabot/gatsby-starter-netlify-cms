@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Recette gratin de gnocchi à la tomate
-date: 2021-06-02T19:39:00.832Z
+date: 2021-06-13T08:43:13.473Z
 description: Recette simple et efficace de gnocchi à la tomate et au basilic,
   gratinée au fromage.
 featuredpost: true

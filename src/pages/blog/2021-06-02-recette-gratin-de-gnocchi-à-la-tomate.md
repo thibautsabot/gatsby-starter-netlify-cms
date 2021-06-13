@@ -36,10 +36,9 @@ Ensuite, versez les gnocchis dans un plat à gratin.\
 Ajoutez la pulpe de tomate, la mozzarella coupée en petits dés et l’assaisonnement sel et poivre.\
 Pour finir, parsemez le dessus du gratin d’une fine couche de gruyère râpée.
 
- 
-
 ![Préparation gratin de gnocchi avant cuisson avec fromage déposé par dessus ](/img/prepa-gratin-gnocchi-.jpg "Gratin gnocchi avant cuisson ")
 
-Faites cuire au four pendant 25 minutes et ajoutez des feuilles de basilic avant de servir.
+Faites cuire au four pendant 25 minutes.\
+*Vous pouvez ajouter des feuilles de basilic par dessus avant de servir.*
 
 ![Gratin de gnocchi cuit et gratiné, dans un plat à gratin prêt à être dégusté](/img/gratin-gnocchi-cuit.jpg "Gratin de gnocchi cuit ")

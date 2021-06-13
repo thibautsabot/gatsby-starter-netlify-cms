@@ -8,7 +8,7 @@ featuredpost: true
 featuredimage: /img/couv-milkshake.jpg
 tags:
   - petitdej
-  - dessert
+  - boissons
 ---
 Temps de préparation : 5min\
 Nombre de personnes : 2 

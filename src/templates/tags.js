@@ -11,10 +11,12 @@ const TITLE = {
   zerodechet: "Zéro Déchet",
   entree: "Entrées",
   vegetarien: "Plats végétariens",
+  boissons: "Boissons",
   plats: "Plats",
+  antiinflam: "Anti-inflammatoire",
   dessert: "Desserts",
   petitdej: "Petits déjeuners",
-  antigaspi: "Anti gaspi",
+  antigaspi: "Anti-gaspi",
 };
 
 const TagRoute = ({ pageContext, data }) => {

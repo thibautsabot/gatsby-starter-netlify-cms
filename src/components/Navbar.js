@@ -122,11 +122,17 @@ const Navbar = () => {
                   <Link className="navbar-item" to="/tags/petitdej">
                     Petits déjeuners
                   </Link>
+                  <Link className="navbar-item" to="/tags/boissons">
+                    Boissons
+                  </Link>
                   <Link className="navbar-item" to="/tags/autres">
                     Autres
                   </Link>
                   <Link className="navbar-item" to="/tags/antigaspi">
-                    Anti gaspi
+                    Anti-gaspi
+                  </Link>
+                  <Link className="navbar-item" to="/tags/antiinflam">
+                    Anti-inflammatoire
                   </Link>
                 </div>
               </div>

@@ -7,8 +7,7 @@ description: Boisson rafraîchissante, désaltérante et légère, parfait pour 
 featuredpost: true
 featuredimage: /img/couv-2-the-peche.jpg
 tags:
-  - dessert
-  - autres
+  - boissons
 ---
 Temps de préparation : 10min\
 Temps de repos : 5h

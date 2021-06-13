@@ -8,8 +8,7 @@ description: >
 featuredpost: true
 featuredimage: /img/couverture-boisson.jpg
 tags:
-  - dessert
-  - petitdej
+  - boissons
 ---
 ### Première Recette : Thé vert orange-cannelle
 

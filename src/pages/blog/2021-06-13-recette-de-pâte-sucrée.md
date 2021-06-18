@@ -24,6 +24,8 @@ Temps de cuisson : 25min
 
 ## Réalisation :
 
+Préchauffez le four à 180°.
+
 Dans un saladier, versez la farine, le sucre et le sel.\
 Creusez un puits, ajoutez l’œuf et le beurre mou et commencez à mélanger à la main.
 

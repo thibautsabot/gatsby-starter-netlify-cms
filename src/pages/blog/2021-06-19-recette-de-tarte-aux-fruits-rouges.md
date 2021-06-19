@@ -11,8 +11,7 @@ tags:
   - dessert
 ---
 Temps de préparation : 40min\
-Temps de cuisson : 25min\
-Temps de repos : 3h minimum  
+Temps de cuisson : 25min
 
 ## Ingrédients :
 
@@ -27,7 +26,7 @@ Temps de repos : 3h minimum  
 
 ## Préparation :
 
-*Utilisez une pâte toute prête ou réalisez-la vous-même.*
+*Utilisez une pâte toute prête ou réalisez-la vous-même ([une super recette de pâte sucrée ici](https://www.bananeplantee.fr/blog/2021-06-13-recette-de-p%C3%A2te-sucr%C3%A9e/)).*
 
 Préchauffez le four à 180°.
 
@@ -36,12 +35,11 @@ Déposez-la dans un moule beurré et fariné puis piquez la pâte à l’aide d�
 
 ![Pâte sucrée déposé dans un moule à tarte et piqué avec une fourchette avant cuisson](/img/pate-sucre-avant-cuisson.jpg "Pâte sucrée avant cuisson ")
 
-Faites cuire la pâte à sec pendant 25minutes, jusqu’à quelle soit doré.\
-Réservez-la à température ambiance afin qu’elle refroidisse.
+Faites cuire la pâte à sec pendant 25minutes, jusqu’à quelle soit dorée.\
+Réservez-la à température ambiante afin qu’elle refroidisse.
 
 ![Pâte sucrée cuite et dorée dans un moule à tarte ](/img/pate-sucre-cuite-.jpg "Pâte sucrée cuite ")
 
-</br>\
 Réalisez ensuite la crème pâtissière :
 
 Faites chauffer le lait avec la gousse de vanille fendue en deux ou l’extrait de vanille.\
@@ -62,8 +60,6 @@ Versez la crème pâtissière dans un saladier et laissez-la refroidir.
 
 ![Crème pâtissière cuite et versé dans un saladier ](/img/creme-patissiere-.jpg "Crème pâtissière cuite")
 
-</br>
-
 Lorsque tous les éléments ont refroidi, réalisez le montage de la tarte :\
 Déposez de la crème pâtissière sur le fond de tarte et ajoutez ensuite les fruits rouges.\
 *Déposez les fruits comme vous le souhaitez, vous pouvez découper les fraises en morceaux.*
@@ -72,7 +68,7 @@ Déposez de la crème pâtissière sur le fond de tarte et ajoutez ensuite les f
 
 ![Tarte fini avec ajout des fruits rouges sur la crème pâtissière](/img/tarte-fruit-rouge-1.jpg "Tarte aux fruits rouges ")
 
-Réservez la tarte aux fruits au réfrigérateur au minimum pendant 3h.\
-*La tarte est encore meilleure lorsqu’elle est préparée la veille.*  
+Réservez la tarte aux fruits au réfrigérateur. \
+*La tarte est encore meilleure lorsqu’elle est préparé à l'avance ou même la veille.*  
 
 ![Part de tarte aux fruits rouges dans une assiette](/img/part-de-tarte.jpg "Part de tarte aux fruits rouges")

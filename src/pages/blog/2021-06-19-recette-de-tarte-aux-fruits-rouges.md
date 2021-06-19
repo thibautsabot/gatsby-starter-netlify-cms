@@ -26,7 +26,7 @@ Temps de cuisson : 25min
 
 ## Préparation :
 
-*Utilisez une pâte toute prête ou réalisez-la vous-même ([une super recette de pâte sucrée ici](https://www.bananeplantee.fr/blog/2021-06-13-recette-de-p%C3%A2te-sucr%C3%A9e/)).*
+*Utilisez une pâte toute prête ou réalisez-la vous-même ([une super recette de pâte sucrée est disponible ici](https://www.bananeplantee.fr/blog/2021-06-13-recette-de-p%C3%A2te-sucr%C3%A9e/)).*
 
 Préchauffez le four à 180°.
 

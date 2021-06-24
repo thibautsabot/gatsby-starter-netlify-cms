@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Recette haricots verts à la tomate
-date: 2021-06-02T18:42:54.605Z
+date: 2021-06-24T10:45:31.420Z
 description: Pendant l’été en pleine saison, ou en conserve pour l’hiver, cette
   recette de haricots est très simple et délicieuse. Parfait en accompagnement
   ou en plat.

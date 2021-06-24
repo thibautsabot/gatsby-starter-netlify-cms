@@ -9,6 +9,7 @@ featuredpost: true
 featuredimage: /img/couv-haricot-1.jpg
 tags:
   - vegetarien
+  - antiinflam
 ---
 Temps de préparation : 30min\
 Temps de cuisson : 15min\

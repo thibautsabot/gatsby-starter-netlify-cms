@@ -36,7 +36,8 @@ Mélangez jusqu’à obtenir une pâte homogène.
 
 ![Pâte à madeleines homogène, avec tous les ingrédients mélangé, prêt à être utilisé](/img/pate-madeline.jpg "Pâte à madeleines ")
 
- Remplissez les moules à madeleines de moitié, ajoutez ensuite la pâte à tartiner au centre, et pour finir, recouvrez le tout à l’aide du reste de la préparation.\
+Remplissez les moules à madeleines de moitié, ajoutez ensuite la pâte à tartiner au centre.\
+Pour finir, recouvrez le tout à l’aide du reste de la préparation.\
 *Pour que les madeleines gonflent bien, il faut que les moules ne soient pas trop remplis.* 
 
 ![Pâte déposé de moitié dans des moules à madeleines, ajout d'un peu de pâte à tartiner puis recouvert de nouveau de pâte ](/img/fourrage-madeleine-.jpg "Fourrage des madeleines ")

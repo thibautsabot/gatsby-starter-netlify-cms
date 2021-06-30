@@ -47,7 +47,7 @@ Si vous le souhaitez, ajoutez la cuillère d’huile de noix et le piment d’Es
 
 ### Préparation de la garniture :
 
-Préchauffez le four à 180 °.
+Préchauffez le four à 180°.
 
 Rincez vos pousses d’épinards et mettez-les dans une grande poêle (les épinards vont énormément réduire). Faites-les cuire pendant 5min environ.
 
